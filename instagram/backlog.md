@@ -15,8 +15,7 @@ Kept exactly as given; facts not re-checked when saved.
   do with them. Raise them again when planning the end of the series.
 
 Series count: 19 reels (the 18 below plus a Bulgari Hotel Shanghai reel, slot
-to be decided) (superseded the earlier
-count of 15 plus one extra).
+to be decided). This replaces the earlier count of 15 plus one extra.
 
 ## Posting order (user's final order, saved 2026-11-20)
 
