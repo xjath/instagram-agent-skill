@@ -46,4 +46,16 @@ VERDICT: worth it? (yes / no / not really). Price is weighed here.
 Each point gets at least one spoken line, in the user's own words from their
 notes. If the notes say nothing about a point, ask the user; never fill it in.
 No numeric scores and no on-screen scorecard (an earlier out-of-10 version was
-dropped the same day). Hotels will get their own three points later.
+dropped the same day).
+
+## Rating system (hotels, confirmed by the user 2026-11-20)
+
+Same rules as restaurants: no numbers, three points in words, then the verdict.
+
+1. ROOM: design, space, bed, bathroom, and the view.
+2. SERVICE: staff, front desk, concierge, room service.
+3. AMENITIES: food and breakfast, spa, pool, gym, bar, extras (e.g. car service).
+VERDICT: worth it? Price per night is weighed here.
+
+Gaps in the notes as of 2026-11-20 (ask the user when writing each script):
+Amanyangyun service; Bulgari Hotel Shanghai amenities; Josun Palace service.
