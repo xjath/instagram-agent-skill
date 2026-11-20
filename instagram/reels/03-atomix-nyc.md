@@ -38,19 +38,21 @@ not written yet.
 - 61.6 OK      #26 Superlative     "We paid $1,600 at the only US restaurant on the World's 50 Best. Was it worth it?"
 - 53.0 OK      #3 Nobody Tells You "Nobody tells you a wall of awards doesn't mean you'll love the food."
 
-## Script (version 4, 2026-11-20)
-~37.8s at 165 wpm, 13 beats; hook 84.4 STRONG; humanizer 89.8 PASS.
-Uses the user's own words on the food: good, but nothing to write home about;
-didn't live up to the hype; a lot of fancy ingredients, not very memorable,
-felt flat.
+## Script (version 5, 2026-11-20)
+~41.5s at 165 wpm, 14 beats; hook 84.4 STRONG; humanizer 86.5 PASS.
+Adds the user's point: if it's supposedly the best restaurant in the US, they
+expect an experience that stays with them for a lifetime. "Supposedly" is
+the user's framing, based on Atomix being the only US restaurant in the World's
+50 Best top 50 (2025 and 2026).
 
 ```
 I paid $1,600 for two stars. Wouldn't return.
 Okay so, Atomix, New York.
 Only US spot on the World's 50 Best, two years running.
 So walking in past all those awards, welcome drink in hand, my expectations were honestly through the roof.
-Super refined Korean, that's what I wanted.
-What I got felt more Americanized.
+Supposedly the best restaurant in America?
+I'm expecting a meal that stays with me for life.
+What I got felt like Americanized Korean.
 Lots of fancy ingredients.
 And the food was good, but it felt flat, not very memorable, and it definitely didn't live up to the hype.
 $927 for food, $667 on wine pairings.
@@ -76,13 +78,14 @@ Cover: $1,600 KOREAN. WORTH IT?
 | ~0:05 | "#11 WORLD'S 50 BEST" | awards video |
 | ~0:07 | "★★ MICHELIN" | awards video |
 | ~0:09 | (no card) | awards, then entrance, then first food photo |
-| ~0:15 | "EXPECTED: REFINED KOREAN" | food photo, slow zoom |
-| ~0:18 | "GOT: AMERICANIZED" | new food photo |
-| ~0:20 | "LOTS OF FANCY INGREDIENTS" | close-up food photo |
-| ~0:21 | "GOOD. BUT FLAT." | food photo |
-| ~0:25 | "DIDN'T LIVE UP TO HYPE" | food photos, a new one every 1-2s |
-| ~0:29 | "$927 FOOD + $667 WINE" | wine bottles |
-| ~0:33 | "NO" in red | on the word, after the pause |
+| ~0:15 | "BEST IN AMERICA?" | food photo, slow zoom |
+| ~0:18 | "A MEAL FOR LIFE" | new food photo |
+| ~0:21 | "GOT: AMERICANIZED KOREAN" | new food photo |
+| ~0:24 | "LOTS OF FANCY INGREDIENTS" | close-up food photo |
+| ~0:25 | "GOOD. BUT FLAT." | food photo |
+| ~0:29 | "DIDN'T LIVE UP TO HYPE" | food photos, a new one every 1-2s |
+| ~0:33 | "$927 FOOD + $667 WINE" | wine bottles |
+| ~0:37 | "NO" in red | on the word, after the pause |
 
 ## Checks still flagged
 - Beats 4 (~6.5s) and 8 (~7.6s) run past 4s: handled by changing shots inside them.
