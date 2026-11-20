@@ -38,6 +38,8 @@ Saved 2026-11-20 from the user's notes. Every skill reads this before writing.
 Every restaurant is rated on the same three points, each out of 10, then a
 verdict:
 
+Half points are allowed (e.g. 9.5).
+
 1. FOOD: taste, quality, how memorable it is. Drinks and pairings count here.
 2. SERVICE: staff, hospitality, attentiveness.
 3. EXPERIENCE: the room, ambiance, storytelling, extras.
