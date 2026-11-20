@@ -14,13 +14,18 @@ Kept exactly as given; facts not re-checked when saved.
   (user, 2026-11-20). Parked, not dropped: the user will decide later what to
   do with them. Raise them again when planning the end of the series.
 
-Series count: 19 reels, per the posting order below. This replaces the earlier
+Series count: 22 reels, per the posting order below. This replaces the earlier
 count of 15 plus one extra.
 
-## Posting order (user's final order, confirmed 2026-11-20)
+## Posting order (updated 2026-11-20)
 
-19 reels, about 2 a week for roughly 9.5 weeks. Bulgari Hotel Shanghai sits at
-#9, so its own review posts before the #13 head-to-head (user's rule).
+22 reels, about 2 a week for roughly 11 weeks. The user's 19-reel order plus
+three Toronto restaurants; the user asked Claude to place them. Placement
+reasons (Claude's judgment, not tested): one Toronto reel in each part of the
+series, since most of the concierge access is in Toronto; Sushi Masaki Saito
+early so a Toronto reel is among the first six; the three sushi reels (Sushi
+Masaki Saito, Mizue, Shoushin) kept apart. The user's own order is otherwise
+unchanged. Bulgari Hotel Shanghai still posts before the head-to-head.
 
 | # | Reel | Verdict |
 |---|---|---|
@@ -29,28 +34,90 @@ count of 15 plus one extra.
 | 3 | Atomix, 2★ New York | **No** |
 | 4 | Banbo, 1★ Taipei | Yes |
 | 5 | Baccarat Hotel NY, 1 Key | Yes |
-| 6 | Pujol, 2★ Mexico City | **No** |
-| 7 | Amanyangyun, 1 Key Shanghai | Yes |
-| 8 | Le Cinq, 3★ Paris | Yes (special occasion) |
-| 9 | Bulgari Hotel Shanghai, 2 Keys | Yes |
-| 10 | Mizue, Taipei | **Not yet** |
-| 11 | Josun Palace, 1 Key Seoul | Yes |
-| 12 | Kato, LA | Once |
-| 13 | Bulgari Tokyo vs. Bulgari Shanghai | Head-to-head |
-| 14 | Soseoul Hannam, 1★ Seoul | Yes |
-| 15 | Il Pagliaccio, 2★ Rome | **Not really** |
-| 16 | Estela, 1★ New York | Yes (date night), only if photos turn up |
-| 17 | Providence vs. Le Cinq | Head-to-head |
-| 18 | Every Key hotel, ranked | Ranking |
-| 19 | Every Michelin restaurant, ranked | Finale |
+| 6 | Sushi Masaki Saito, 1★ Toronto | Yes |
+| 7 | Pujol, 2★ Mexico City | **No** |
+| 8 | Amanyangyun, 1 Key Shanghai | Yes |
+| 9 | Le Cinq, 3★ Paris | Yes (special occasion) |
+| 10 | Bulgari Hotel Shanghai, 2 Keys | Yes |
+| 11 | Mizue, Taipei | **Not yet** |
+| 12 | Josun Palace, 1 Key Seoul | Yes |
+| 13 | Alo, 1★ Toronto | Yes |
+| 14 | Kato, LA | Once |
+| 15 | Bulgari Tokyo vs. Bulgari Shanghai | Head-to-head |
+| 16 | Soseoul Hannam, 1★ Seoul | Yes |
+| 17 | Il Pagliaccio, 2★ Rome | **Not really** |
+| 18 | Shoushin, 1★ Toronto | Yes |
+| 19 | Estela, 1★ New York | Yes (date night), only if photos turn up |
+| 20 | Providence vs. Le Cinq | Head-to-head |
+| 21 | Every Key hotel, ranked | Ranking |
+| 22 | Every Michelin restaurant, ranked | Finale |
 
 Notes on this order:
+- Local Toronto restaurants will be added into this same series, not a
+  separate one (user, 2026-11-20). They lean heavily Michelin. Most of the
+  planned concierge access is in Toronto. Each one added raises the count.
+  Sushi Masaki Saito, Alo and Shoushin are placed (#6, #13, #18); more may come. The order can be
+  changed at any time.
 - Star and Key counts are from the user's notes. Only Providence (3 stars) is
   verified (2026-11-19, see reels/01-providence-la.md). Verify the others
   before each reel posts.
-- Still open: whether the ranking reels (#18, #19) include the parked hotels
+- Still open: whether the ranking reels (#21, #22) include the parked hotels
   (Capella Taipei, The Peninsula Hong Kong, The Shilla Seoul), Hotel Volga and
   Bao Li Xuan.
+
+## Toronto restaurants (added 2026-11-20)
+
+From the user (dictated; names normalised to the restaurants' own spelling).
+Placed in the posting order at #6, #13 and #18. All prices CAD (confirmed by the user).
+USD at the backlog's rate of CAD 0.699.
+
+Michelin status checked 2026-11-20 against news coverage of the 2026 Toronto &
+Region guide (announced 2026-09-22): all three hold 1 star. Sushi Masaki Saito
+had 2 stars and dropped to 1 in the 2025 guide. Not yet checked on each
+restaurant's own Michelin Guide page. Sources: cp24.com (2026-09-23),
+streetsoftoronto.com (2026 ceremony), tastet.ca (2026 winners),
+michelin.com 2026 Toronto press release, dailyhive.com (2025 list).
+
+SUSHI MASAKI SAITO (Toronto), 1 star at the latest visit (confirmed by the user)
+Paid: CA$780pp (~US$545pp) at the latest visit, not including sake or wine pairings
+Worth it: YES, definitely
+Best moments: the dishes Saito made himself; the food was really, really good; hospitality and service good too
+Letdowns: none
+Footage: lots
+
+SHOUSHIN (Toronto), 1 star
+Paid: around CA$600pp (~US$419pp) for their top menu
+Menus: two menus, CA$495pp and CA$595pp (confirmed by the user)
+Worth it: YES, definitely
+Best moments: when they served the uni; conversations with the chef were always nice
+Letdowns: none
+Footage: lots
+Visits: many over the years
+
+ALO (Toronto), 1 star
+Paid: CA$245pp (~US$171pp), 10-course tasting menu, before drinks, tax and
+tip. Corrected by the user on 2026-11-20 (earlier figure of CA$275 was wrong).
+Matches secondary sources: travellingfoodie.net (prices as of 2026-09-25) and
+tastingmenu.ca (after the spring 2026 refit). Other menus: 6-course CA$185pp,
+bar 6-course CA$120pp, private dining CA$295pp; wine pairing CA$125-130pp
+(sources differ). CA$245 checked manually by the user on 2026-11-20.
+Worth it: YES
+Best moments: tableside service with truffles; how they present the wine pairings; very knowledgeable wine staff and sommelier
+Letdowns: none
+Footage: lots, from many visits over the years
+Visits: many over the years
+
+## Planned visits
+
+THE SIAM (Bangkok), hotel only, 3 Michelin Keys
+Visit: planned for later in 2026 (before the end of December)
+Name: dictated as "the CM"; read as The Siam and not corrected by the user.
+Keys: 3 in the 2026 Thailand selection, one of two 3-Key hotels in Bangkok
+(with Mandarin Oriental Bangkok); held 3 Keys since the first Thailand
+selection in 2024. Sources: nationthailand.com (2026 selection),
+guide.michelin.com (The Siam page), bangkokpost.com (2024), tatnews.org (2025).
+After the visit: add paid, worth it, best moments, letdowns, footage, then a
+slot in the posting order. Second 3-Key hotel after Bulgari Hotel Tokyo.
 
 Note: the user's own computer has a swipe.md with niche research that has not
 been seen here.

@@ -11,6 +11,20 @@ Saved 2026-11-20 from the user's notes. Every skill reads this before writing.
 - Current series: an 18-reel Michelin series (11 starred restaurants, 9 Michelin
   Key hotels visited in 2026). Providence is post #1. Places are in `backlog.md`.
 
+## Offer
+- Nothing to sell yet (user, 2026-11-20).
+- Planned for later: a membership community for concierge access to
+  restaurants. Not open to the public yet. Details from the user (2026-11-20):
+  - What it is: hard-to-get reservations; connections with front-of-house
+    staff; direct access instead of going through OpenTable or Tock, where
+    the public doesn't see openings that exist on the back end.
+  - Where: mostly Toronto (the user lives there); also Taipei, Japan, Paris.
+  - Now: a WhatsApp community exists, announcements only.
+  - Plan: once @theluxverdict has followers, open the community up from the
+    Instagram page.
+  - Which specific restaurants are not recorded. Only claim access that is
+    confirmed.
+
 ## Voice rules
 - Loose, run-on, conversational. Chain thoughts with "so", "and", "because".
   Casual filler OK: "okay so", "honestly", "wanna", "gonna".
