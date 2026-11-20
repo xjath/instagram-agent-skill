@@ -1,0 +1,108 @@
+# Reel #2: Bulgari Hotel Tokyo
+
+Status: DRAFT (2026-11-20). Version 1 is the user's own script; version 2 is
+Claude's tightened edit of it. Waiting for the user to pick. Caption not
+written yet.
+
+## Facts used
+- Bulgari Hotel Tokyo (the hotel spells it "Bvlgari"). Stayed January 2026,
+  3 nights, Premium Guest Room, Imperial Garden view.
+- Paid ~CA$2,000/night (~US$1,400 at CAD 0.699).
+- Verdict: YES.
+- From the notes: well-designed, spacious, zen room; phenomenal view, waking
+  up to the skyline; Mt Fuji visible from the hotel; very comfy bed; very good
+  breakfast and service.
+- New from the user's script (2026-11-20): staff treat guests like family;
+  pool with high ceilings and beds and pods along the side; gym with
+  Technogym equipment overlooking the city.
+- Footage: photos and videos of the room, hallway, entrance, decor, pool, gym.
+
+## The three points (hotel)
+- Room: spacious, zen, well designed, comfortable bed; skyline and Imperial
+  Garden view; Mt Fuji.
+- Service: even better than breakfast; they treat guests like family.
+- Amenities: breakfast; pool; gym.
+
+## Accolades (checked 2026-11-20)
+- 3 Michelin Keys in the 2024 selection (its first) and again in 2025, per the
+  hotel's own announcements (bulgarihotels.com, "Awarded Three MICHELIN Keys
+  for the Second Year"). The 2026 Keys selection for Japan was not found:
+  re-check on guide.michelin.com the week it posts.
+- Also (not used in the script): No. 15 in The World's 50 Best Hotels 2025,
+  the highest-ranked hotel in Japan, per the hotel's own page.
+
+## Version 1: the user's script (as written, line breaks added)
+~50.9s, 15 beats; hook 61.6 OK (17 words, ~6.2s); humanizer 63.3 REVIEW;
+no loop; "Follow for more" flagged as a stock phrase.
+
+```
+I paid $1,400 a night for a 3 Michelin Key hotel in Japan. Was it worth it?
+This is Bulgari Hotel Tokyo.
+I stayed three nights in a Premium Guest Room.
+The room is spacious, zen, and really well designed, and the bed is incredibly comfortable.
+The view is phenomenal.
+You wake up to the skyline over the Imperial Garden, and you can even see Mount Fuji from the hotel room.
+Breakfast was amazing, and the service was even better.
+They treat their guests like family.
+Then there's the amenities, such as the pool.
+It had high ceilings, with beds and pods by the side, which makes it feel luxurious,
+and the gym had Technogym equipment overlooking the skyline of the city.
+The entire experience was amazing.
+For that price a night, it was definitely worth it.
+Follow for more.
+```
+
+## Version 2: tightened (Claude, 2026-11-20)
+~43.3s, 13 beats; hook 84.4 STRONG; humanizer PASS.
+
+```
+I paid $1,400 a night for three Michelin Keys. Worth it?
+This is Bulgari Hotel Tokyo, three nights in a Premium Guest Room.
+The room's spacious, zen, really well designed, and the bed is incredibly comfortable.
+And the view?
+You wake up to the skyline over the Imperial Garden, and you can even see Mount Fuji from the hotel.
+Breakfast was amazing, and the service was even better.
+They treat their guests like family.
+Then the amenities.
+The pool has high ceilings, with beds and pods along the side, so it feels luxurious, and the gym's got Technogym equipment overlooking the city.
+For $1,400 a night?
+Definitely worth it.
+Follow me,
+cuz not every Key is worth it.
+```
+
+Changes from version 1:
+- Hook shortened to 10 words: "I paid $1,400 a night for three Michelin Keys. Worth it?"
+- "from the hotel room" to "from the hotel" (the notes say Mt Fuji was
+  visible from the hotel, not specifically the room). TO CONFIRM.
+- Cut "The entire experience was amazing." (repeats the verdict).
+- More contractions ("room's", "gym's got") for the casual voice.
+- Ending: "For $1,400 a night? Definitely worth it." then "Follow me, cuz not
+  every Key is worth it." Repeats "worth" from the hook so the reel loops,
+  and replaces "Follow for more", which the humanizer flags.
+
+Delivery notes: pause after "For $1,400 a night?" Read the last two lines as
+one sentence. Long lines need shots changing inside them: the view line
+(~7.3s): skyline, then Mt Fuji; the amenities line (~9.4s): pool, then pool
+beds and pods, then gym.
+
+## On-screen cards and shots (for version 2)
+Cover: $1,400 A NIGHT. WORTH IT?
+
+| Time | Card | Shot |
+|---|---|---|
+| ~0:00 | "$1,400 A NIGHT. WORTH IT?" | room video, moving (motion in frame 1) |
+| ~0:04 | "BULGARI HOTEL TOKYO" | entrance |
+| ~0:06 | "3 MICHELIN KEYS" | hallway or decor |
+| ~0:08 | "PREMIUM GUEST ROOM" | room video |
+| ~0:14 | "THE VIEW" | skyline from the room |
+| ~0:18 | "MT FUJI" | Mt Fuji shot, if there is one |
+| ~0:21 | "BREAKFAST + SERVICE" | breakfast or decor |
+| ~0:28 | "THE POOL" | pool video |
+| ~0:34 | "THE GYM" | gym video |
+| ~0:38 | "DEFINITELY" in red | on the word, after the pause |
+
+## Checks still flagged (version 2)
+- Beats 2, 3, 5 and 9 run past 4s: change shots inside them.
+- Beats 6-8 have nothing concrete in them.
+- No Mt Fuji or breakfast footage is listed in the notes; check what exists.
