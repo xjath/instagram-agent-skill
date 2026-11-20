@@ -38,10 +38,11 @@ not written yet.
 - 61.6 OK      #26 Superlative     "We paid $1,600 at the only US restaurant on the World's 50 Best. Was it worth it?"
 - 53.0 OK      #3 Nobody Tells You "Nobody tells you a wall of awards doesn't mean you'll love the food."
 
-## Script (version 3, 2026-11-20)
-~37.5s at 165 wpm, 13 beats; hook 84.4 STRONG; humanizer 77.5 PASS.
-Version 3 uses the user's own words on the food: "good, but nothing to write
-home about, and definitely didn't live up to the hype of the restaurant".
+## Script (version 4, 2026-11-20)
+~37.8s at 165 wpm, 13 beats; hook 84.4 STRONG; humanizer 89.8 PASS.
+Uses the user's own words on the food: good, but nothing to write home about;
+didn't live up to the hype; a lot of fancy ingredients, not very memorable,
+felt flat.
 
 ```
 I paid $1,600 for two stars. Wouldn't return.
@@ -49,9 +50,9 @@ Okay so, Atomix, New York.
 Only US spot on the World's 50 Best, two years running.
 So walking in past all those awards, welcome drink in hand, my expectations were honestly through the roof.
 Super refined Korean, that's what I wanted.
-What I got felt like Americanized Korean, fancy ingredients on top.
-The food was good.
-Just nothing to write home about, and it definitely didn't live up to the hype.
+What I got felt more Americanized.
+Lots of fancy ingredients.
+And the food was good, but it felt flat, not very memorable, and it definitely didn't live up to the hype.
 $927 for food, $667 on wine pairings.
 Would I go back?
 Honestly, no.
@@ -63,7 +64,7 @@ Delivery notes: pause after "Would I go back?" before "Honestly, no." Read the
 last two lines as one sentence. The ending repeats "return" from the hook so
 the reel loops. Two long lines need shots changing inside them: the
 expectations line (~6.5s): awards, then entrance, then the first food photo;
-the hype line (~5.5s): two food photos.
+the food line (~7.6s): three food photos, cutting on "felt flat" and "hype".
 
 ## On-screen cards and shots
 Cover: $1,600 KOREAN. WORTH IT?
@@ -76,12 +77,13 @@ Cover: $1,600 KOREAN. WORTH IT?
 | ~0:07 | "★★ MICHELIN" | awards video |
 | ~0:09 | (no card) | awards, then entrance, then first food photo |
 | ~0:15 | "EXPECTED: REFINED KOREAN" | food photo, slow zoom |
-| ~0:18 | "GOT: FANCY INGREDIENTS" | new food photo |
-| ~0:22 | "GOOD, NOT GREAT" | food photo |
-| ~0:24 | "DIDN'T LIVE UP TO HYPE" | food photos, a new one every 1-2s |
+| ~0:18 | "GOT: AMERICANIZED" | new food photo |
+| ~0:20 | "LOTS OF FANCY INGREDIENTS" | close-up food photo |
+| ~0:21 | "GOOD. BUT FLAT." | food photo |
+| ~0:25 | "DIDN'T LIVE UP TO HYPE" | food photos, a new one every 1-2s |
 | ~0:29 | "$927 FOOD + $667 WINE" | wine bottles |
 | ~0:33 | "NO" in red | on the word, after the pause |
 
 ## Checks still flagged
-- Beats 4 (~6.5s) and 8 (~5.5s) run past 4s: handled by changing shots inside them.
+- Beats 4 (~6.5s) and 8 (~7.6s) run past 4s: handled by changing shots inside them.
 - Beats 10-12 (the verdict and the ask) have no number in them; same as Providence.
