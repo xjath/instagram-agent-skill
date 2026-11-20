@@ -32,3 +32,30 @@ Saved 2026-11-20 from the user's notes. Every skill reads this before writing.
 - Never critic words: unctuous, mouthfeel, "a symphony of", elevated, curated.
 - No emoji. Burned-in word-by-word captions, key word in red.
 - Never invent facts; verify accolades before using them.
+
+## Rating system (restaurants, updated by the user 2026-11-20)
+
+No numbers. Every restaurant script talks through the same three points, in
+words, then gives the verdict:
+
+1. FOOD: taste, quality, how memorable it is. Drinks and pairings count here.
+2. SERVICE: staff, hospitality, attentiveness.
+3. EXPERIENCE: the room, ambiance, storytelling, extras.
+VERDICT: worth it? (yes / no / not really). Price is weighed here.
+
+Each point gets at least one spoken line, in the user's own words from their
+notes. If the notes say nothing about a point, ask the user; never fill it in.
+No numeric scores and no on-screen scorecard (an earlier out-of-10 version was
+dropped the same day).
+
+## Rating system (hotels, confirmed by the user 2026-11-20)
+
+Same rules as restaurants: no numbers, three points in words, then the verdict.
+
+1. ROOM: design, space, bed, bathroom, and the view.
+2. SERVICE: staff, front desk, concierge, room service.
+3. AMENITIES: food and breakfast, spa, pool, gym, bar, extras (e.g. car service).
+VERDICT: worth it? Price per night is weighed here.
+
+Gaps in the notes as of 2026-11-20 (ask the user when writing each script):
+Amanyangyun service; Bulgari Hotel Shanghai amenities; Josun Palace service.
