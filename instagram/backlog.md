@@ -10,8 +10,17 @@ Kept exactly as given; facts not re-checked when saved.
 - Capella Taipei, The Peninsula Hong Kong, The Shilla Seoul: no footage at all.
 - Estela: maybe, unconfirmed.
 - Hotel Volga: not used for content (as above).
-- Series count still to be confirmed by the user: whether the three hotels
-  with no footage are in or out.
+- Capella Taipei, The Peninsula Hong Kong, The Shilla Seoul: OUT FOR NOW
+  (user, 2026-11-20). Parked, not dropped: the user will decide later what to
+  do with them. Raise them again when planning the end of the series.
+
+Series count for now: 15 reels (10 restaurants + 5 hotels), or 14 if Estela
+is not confirmed.
+- Restaurants: Providence, Kato, Mizue, Soseoul Hannam, Banbo, Atomix, Pujol,
+  Il Pagliaccio, Le Cinq, plus Estela (unconfirmed).
+- Hotels: Bulgari Hotel Tokyo, Bulgari Hotel Shanghai, Amanyangyun,
+  Josun Palace, Baccarat Hotel New York.
+- Also planned, not counted above: "Providence vs Le Cinq" head-to-head.
 
 ```
 THELUXVERDICT: MICHELIN BACKLOG INPUTS (2026 visits)
