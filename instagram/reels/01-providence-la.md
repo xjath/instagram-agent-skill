@@ -3,8 +3,10 @@
 Status: script and caption locked 2026-11-19. Not posted from here: the user
 pastes the caption and posts it themselves. Saved 2026-11-20 as given.
 
-## Rating (user, 2026-11-20)
-Food 10/10, Service 9/10, Experience 9.5/10. Verdict: worth it, definitely.
+## The three points (in the script)
+- Food: "Every single dish was a flavor bomb, I'm not even kidding."
+- Service: "There's a reason they won a James Beard award for hospitality. Always there, but never hovering."
+- Experience: the private room looking into the kitchen; the wine cellar tour.
 
 ## Facts
 - Restaurant: Providence, Los Angeles. Seafood-focused tasting menu, chef Michael Cimarusti.
@@ -66,16 +68,7 @@ Cover: $375 TASTING MENU. WORTH IT?
 | ~0:20 | (no card) | a new dish every second or so |
 | ~0:26 | "WINE CELLAR" | cellar |
 | ~0:31 | "~$2,400 FOR TWO" | |
-| ~0:33 | Scorecard (see below) | over "Was it worth it?" and the pause |
 | ~0:35 | "DEFINITELY" in red | on the word, after the pause |
-
-Scorecard (added 2026-11-20, scores from the user; on screen only, no new
-spoken lines; hold ~2s through "Was it worth it?" and the pause):
-
-    FOOD        10/10
-    SERVICE      9/10
-    EXPERIENCE 9.5/10
-    WORTH IT?  DEFINITELY
 
 ## Final caption
 Caption linter READY; humanizer 72.7 PASS; 900/2200 chars; first line 115 chars, shows in full; one ask = follow; 4 hashtags below the fold.

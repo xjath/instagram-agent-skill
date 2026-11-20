@@ -33,27 +33,17 @@ Saved 2026-11-20 from the user's notes. Every skill reads this before writing.
 - No emoji. Burned-in word-by-word captions, key word in red.
 - Never invent facts; verify accolades before using them.
 
-## Rating system (restaurants, confirmed by the user 2026-11-20)
+## Rating system (restaurants, updated by the user 2026-11-20)
 
-Every restaurant is rated on the same three points, each out of 10, then a
-verdict:
-
-Half points are allowed (e.g. 9.5).
+No numbers. Every restaurant script talks through the same three points, in
+words, then gives the verdict:
 
 1. FOOD: taste, quality, how memorable it is. Drinks and pairings count here.
 2. SERVICE: staff, hospitality, attentiveness.
 3. EXPERIENCE: the room, ambiance, storytelling, extras.
-VERDICT: worth it? (yes / no / not really). Price is weighed here, not scored
-on its own.
+VERDICT: worth it? (yes / no / not really). Price is weighed here.
 
-Scores come from the user only. Never infer or invent a score from the notes.
-In each reel: one short beat for each point, then an on-screen scorecard
-before the verdict, e.g.
-
-    FOOD        8/10
-    SERVICE     9/10
-    EXPERIENCE  9/10
-    WORTH IT?   YES
-
-No emoji in the scorecard. Hotels will get their own three points later
-(e.g. Room, Service, Property); not decided yet.
+Each point gets at least one spoken line, in the user's own words from their
+notes. If the notes say nothing about a point, ask the user; never fill it in.
+No numeric scores and no on-screen scorecard (an earlier out-of-10 version was
+dropped the same day). Hotels will get their own three points later.
