@@ -11,6 +11,7 @@ not written yet.
 - Verdict: NO. Expected very refined high-end Korean; felt like Americanized
   Korean with fancy ingredients. Good quality, nothing to rave about.
 - Best moments: impressive accolades and awards at the entrance; nice welcome drink.
+- Service (user, 2026-11-20): attentive; they noticed a lot of the little things.
 - Footage: videos of the accolades; photos of the food and wine bottles; photo
   of the outside sign. No footage of the welcome drink.
 
@@ -38,22 +39,28 @@ not written yet.
 - 61.6 OK      #26 Superlative     "We paid $1,600 at the only US restaurant on the World's 50 Best. Was it worth it?"
 - 53.0 OK      #3 Nobody Tells You "Nobody tells you a wall of awards doesn't mean you'll love the food."
 
-## Script (version 7, the user's own rewrite, 2026-11-20)
-~41.5s at 165 wpm, 12 beats; hook 84.4 STRONG; humanizer 85.5 PASS.
-Written by the user. Claude's only edits: "$1600" to "$1,600", "have
-expectations" to "I have expectations", "cause" to "cuz" (as in Providence),
-and punctuation. The bill breakdown and "fancy ingredients" are dropped; the
-total stays in the hook. "Michelin plaques" is from the user's own visit.
+## Script (version 8, 2026-11-20)
+~44.4s at 165 wpm, 13 beats; hook 84.4 STRONG; humanizer 83.6 PASS.
+The user's version 7 plus the service line, so it covers food, service and
+experience. To stay under 45s: the shorter hook ("I paid $1,600 for two
+stars. Wouldn't return.") and "So when you walk in, you get to see" tightened
+to "When you walk in, you see".
+
+The three points:
+- Food: Americanized Korean, good but flat, nothing stuck, nothing memorable.
+- Service: attentive, noticed a lot of the little things.
+- Experience: Michelin plaques and awards at the entrance; the hype.
 
 ```
-I paid $1,600 for two stars, and I wouldn't return.
+I paid $1,600 for two stars. Wouldn't return.
 Okay so, Atomix, New York.
 The only US spot on the World's 50 Best.
-So when you walk in, you get to see all the Michelin plaques and awards, so my expectations are high.
+When you walk in, you see all the Michelin plaques and awards, so my expectations are high.
 When I'm walking into a restaurant with this much hype, I have expectations that I'm gonna remember this meal for life.
 But the truth is, the Korean food felt kind of Americanized.
 Don't get me wrong, the food was good, but it felt flat, and nothing really stuck with me.
 Nothing was memorable.
+The service was attentive though, they noticed a lot of the little things.
 Would I go back?
 Probably not.
 Follow me,
@@ -78,12 +85,11 @@ Cover: $1,600 KOREAN. WORTH IT?
 | ~0:16 | "A MEAL FOR LIFE?" | food photos |
 | ~0:24 | "AMERICANIZED KOREAN" | new food photo |
 | ~0:28 | "GOOD. BUT FLAT." | food photos, a new one every 1-2s |
-| ~0:34 | "NOTHING MEMORABLE" | food photo |
-| ~0:37 | "PROBABLY NOT" in red | on "probably not", after the pause |
+| ~0:33 | "NOTHING MEMORABLE" | food photo |
+| ~0:35 | "SERVICE: ATTENTIVE" | service or table footage, else food photo |
+| ~0:40 | "PROBABLY NOT" in red | on "probably not", after the pause |
 
 ## Checks still flagged
-- Hook is 10 words (~3.6s); the scorer wants 8 or fewer. Optional fix: "I paid
-  $1,600 for two stars. Wouldn't return." (same score, ~2.9s).
-- Beats 4 (~7.3s), 5 (~7.6s) and 7 (~6.5s) run past 4s: handled by changing
+- Beats 4, 5, 7 and 9 run past 4s: handled by changing
   shots inside them.
 - Beats 7-9 have nothing concrete in them.
