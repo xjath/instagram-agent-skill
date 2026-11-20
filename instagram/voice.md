@@ -14,8 +14,9 @@ Saved 2026-11-20 from the user's notes. Every skill reads this before writing.
 ## Offer
 - Nothing to sell yet (user, 2026-11-20).
 - Planned for later: a membership community for concierge access to
-  restaurants. Not live and not announced. Don't promise it in a bio, caption
-  or reel until it exists.
+  restaurants. The user has been building out restaurant access (2026-11-20).
+  Which restaurants and what kind of access are not recorded yet. The
+  membership itself is not live. Only claim access that is confirmed.
 
 ## Voice rules
 - Loose, run-on, conversational. Chain thoughts with "so", "and", "because".
