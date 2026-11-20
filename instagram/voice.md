@@ -11,6 +11,12 @@ Saved 2026-11-20 from the user's notes. Every skill reads this before writing.
 - Current series: an 18-reel Michelin series (11 starred restaurants, 9 Michelin
   Key hotels visited in 2026). Providence is post #1. Places are in `backlog.md`.
 
+## Offer
+- Nothing to sell yet (user, 2026-11-20).
+- Planned for later: a membership community for concierge access to
+  restaurants. Not live and not announced. Don't promise it in a bio, caption
+  or reel until it exists.
+
 ## Voice rules
 - Loose, run-on, conversational. Chain thoughts with "so", "and", "because".
   Casual filler OK: "okay so", "honestly", "wanna", "gonna".
