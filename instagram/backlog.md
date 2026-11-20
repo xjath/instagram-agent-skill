@@ -45,6 +45,9 @@ count of 15 plus one extra.
 | 19 | Every Michelin restaurant, ranked | Finale |
 
 Notes on this order:
+- Local Toronto restaurants will be added in among these (user, 2026-11-20),
+  because most of the planned concierge access is in Toronto. Which ones,
+  and where they go, is not decided yet. The order can be changed at any time.
 - Star and Key counts are from the user's notes. Only Providence (3 stars) is
   verified (2026-11-19, see reels/01-providence-la.md). Verify the others
   before each reel posts.
