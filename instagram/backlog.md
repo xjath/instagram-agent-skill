@@ -107,6 +107,18 @@ Letdowns: none
 Footage: lots, from many visits over the years
 Visits: many over the years
 
+## Planned visits
+
+THE SIAM (Bangkok), hotel only, 3 Michelin Keys
+Visit: planned for later in 2026 (before the end of December)
+Name: dictated as "the CM"; read as The Siam and not corrected by the user.
+Keys: 3 in the 2026 Thailand selection, one of two 3-Key hotels in Bangkok
+(with Mandarin Oriental Bangkok); held 3 Keys since the first Thailand
+selection in 2024. Sources: nationthailand.com (2026 selection),
+guide.michelin.com (The Siam page), bangkokpost.com (2024), tatnews.org (2025).
+After the visit: add paid, worth it, best moments, letdowns, footage, then a
+slot in the posting order. Second 3-Key hotel after Bulgari Hotel Tokyo.
+
 Note: the user's own computer has a swipe.md with niche research that has not
 been seen here.
 
