@@ -25,14 +25,14 @@ not written yet.
 Mirrors the Atomix hook ("I paid $1,600 for two stars. Wouldn't return."),
 which posts just before it at #3.
 
-## Script (version 2, 2026-11-20)
-~30.9s at 165 wpm, 11 beats; hook 84.4 STRONG; humanizer 75.6 PASS.
-Adds the user's details: four people, and each dish telling its own story as
-part of a bigger story about Taiwan.
+## Script (version 3, 2026-11-20)
+~32.0s at 165 wpm, 11 beats; hook 83.1 STRONG (user's hook); humanizer 78.4 PASS.
+The user's hook asks the question instead of giving the verdict up front, like
+Providence. "Taipei" moved into the hook, so line 2 drops it.
 
 ```
-I paid $210 for a Michelin star. Worth it.
-Okay so, Banbo, Taipei, four of us.
+I paid $210 for a Michelin star in Taipei. Was it worth it?
+Okay so, Banbo, four of us.
 NT$7,000 a person, and that's with the cocktail pairing.
 Best part? The storytelling.
 Every dish tells its own story, but each one is also playing its part in this bigger story about Taiwan.
@@ -54,8 +54,8 @@ Cover: $210 MICHELIN STAR. WORTH IT?
 
 | Time | Card | Shot |
 |---|---|---|
-| ~0:00 | "$210 STAR. WORTH IT?" | dish video (motion in frame 1) |
-| ~0:03 | "BANBO, TAIPEI" | food photo |
+| ~0:00 | "$210 STAR IN TAIPEI. WORTH IT?" | dish video (motion in frame 1) |
+| ~0:05 | "BANBO, TAIPEI" | food photo |
 | ~0:04 | "★ MICHELIN" | food photo |
 | ~0:05 | "NT$7,000 WITH COCKTAILS" | cocktail or dish photo |
 | ~0:09 | "EVERY DISH, A STORY" | dish videos, a new one every 1-2s |
@@ -64,6 +64,10 @@ Cover: $210 MICHELIN STAR. WORTH IT?
 | ~0:24 | "WORTH IT" in red | on "it was" |
 
 ## Checks still flagged
+- Hook is 13 words (~4.7s); the scorer wants 8 or fewer. Kept because it is
+  the user's line and scores 83.1. The on-screen card carries the question from
+  frame 1. A 9-word version ("$210 for a Michelin star in Taipei. Worth it?")
+  scored only 62.6.
 - Beat 5 (~7s) runs past 4s: handled by changing shots inside it.
 
 ## Open question for the user
