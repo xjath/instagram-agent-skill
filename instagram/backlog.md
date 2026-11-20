@@ -14,7 +14,8 @@ Kept exactly as given; facts not re-checked when saved.
   (user, 2026-11-20). Parked, not dropped: the user will decide later what to
   do with them. Raise them again when planning the end of the series.
 
-Series count: 18 reels, per the posting order below (superseded the earlier
+Series count: 19 reels (the 18 below plus a Bulgari Hotel Shanghai reel, slot
+to be decided) (superseded the earlier
 count of 15 plus one extra).
 
 ## Posting order (user's final order, saved 2026-11-20)
@@ -43,7 +44,8 @@ Replaces the earlier suggested order. About 2 reels a week for roughly 9 weeks.
 | 18 | Every Michelin restaurant, ranked | Finale |
 
 Notes on this order:
-- Bulgari Hotel Shanghai has no reel of its own; it appears in #12.
+- Bulgari Hotel Shanghai WILL get a reel of its own (user, 2026-11-20), as
+  well as appearing in #12. Its slot in the order is not decided yet.
 - Providence vs. Le Cinq is #16, inside the 18.
 - Still open: whether the ranking reels (#17, #18) include the parked hotels
   (Capella Taipei, The Peninsula Hong Kong, The Shilla Seoul), Hotel Volga and
