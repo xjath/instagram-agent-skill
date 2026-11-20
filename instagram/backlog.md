@@ -4,6 +4,15 @@ Saved from the user's notes on 2026-11-20. Source material for `/ig-reel`,
 `/ig-plan` and `/ig-carousel`: pull a restaurant or hotel from here as the idea.
 Kept exactly as given; facts not re-checked when saved.
 
+## Series status (from the user, 2026-11-20)
+
+- Bao Li Xuan: no plans for a reel.
+- Capella Taipei, The Peninsula Hong Kong, The Shilla Seoul: no footage at all.
+- Estela: maybe, unconfirmed.
+- Hotel Volga: not used for content (as above).
+- Series count still to be confirmed by the user: whether the three hotels
+  with no footage are in or out.
+
 ```
 THELUXVERDICT: MICHELIN BACKLOG INPUTS (2026 visits)
 USD conversions at 2026-11-19 rates (CAD 0.699, TWD 0.0303).
