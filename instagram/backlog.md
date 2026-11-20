@@ -14,46 +14,43 @@ Kept exactly as given; facts not re-checked when saved.
   (user, 2026-11-20). Parked, not dropped: the user will decide later what to
   do with them. Raise them again when planning the end of the series.
 
-Series count for now: 15 reels (10 restaurants + 5 hotels), or 14 if Estela
-is not confirmed.
-- Restaurants: Providence, Kato, Mizue, Soseoul Hannam, Banbo, Atomix, Pujol,
-  Il Pagliaccio, Le Cinq, plus Estela (unconfirmed).
-- Hotels: Bulgari Hotel Tokyo, Bulgari Hotel Shanghai, Amanyangyun,
-  Josun Palace, Baccarat Hotel New York.
-- Extra reel outside the count (confirmed by the user, 2026-11-20):
-  "Providence vs Le Cinq" head-to-head.
+Series count: 18 reels, per the posting order below (superseded the earlier
+count of 15 plus one extra).
 
-## Posting order (saved 2026-11-20)
+## Posting order (user's final order, saved 2026-11-20)
 
-Claude's suggestion, accepted by the user. It is reasoning from general
-evidence, not tested on this account: strongest footage, prices and verdicts
-first; a "no" early so the verdicts read as honest; restaurants and hotels
-alternated; photo-only places last. Reorder after 4-5 reels using Insights
-(watch time, sends per reach). Evidence behind it: Mosseri on watch time,
-likes and sends (sends weigh most for non-follower reach); Instagram's staged
-recommendations, which show low-res or mostly-text reels to fewer people;
-Berger & Milkman 2012 on high-arousal content being shared more.
+Replaces the earlier suggested order. About 2 reels a week for roughly 9 weeks.
 
-1. Providence (YES), locked
-2. Atomix (NO)
-3. Baccarat Hotel New York (YES)
-4. Pujol (NO)
-5. Le Cinq (YES)
-6. Bulgari Hotel Tokyo (YES)
-   EXTRA: Providence vs Le Cinq, after both have posted (not counted)
-7. Mizue (okay)
-8. Bulgari Hotel Shanghai (YES)
-9. Il Pagliaccio (not exactly)
-10. Amanyangyun (YES, with doubts)
-11. Banbo (YES)
-12. Josun Palace (YES)
-13. Kato (wouldn't return)
-14. Soseoul Hannam (YES)
-15. Estela (YES), only if confirmed
+| # | Reel | Verdict |
+|---|---|---|
+| 1 | Providence, 3★ LA | Yes (script ready) |
+| 2 | Bulgari Hotel Tokyo, 3 Keys | Yes |
+| 3 | Atomix, 2★ New York | **No** |
+| 4 | Banbo, 1★ Taipei | Yes |
+| 5 | Baccarat Hotel NY, 1 Key | Yes |
+| 6 | Pujol, 2★ Mexico City | **No** |
+| 7 | Amanyangyun, 1 Key Shanghai | Yes |
+| 8 | Le Cinq, 3★ Paris | Yes (special occasion) |
+| 9 | Mizue, Taipei | **Not yet** |
+| 10 | Josun Palace, 1 Key Seoul | Yes |
+| 11 | Kato, LA | Once |
+| 12 | Bulgari Tokyo vs. Bulgari Shanghai | Head-to-head |
+| 13 | Soseoul Hannam, 1★ Seoul | Yes |
+| 14 | Il Pagliaccio, 2★ Rome | **Not really** |
+| 15 | Estela, 1★ New York | Yes (date night), only if photos turn up |
+| 16 | Providence vs. Le Cinq | Head-to-head |
+| 17 | Every Key hotel, ranked | Ranking |
+| 18 | Every Michelin restaurant, ranked | Finale |
 
-Note: the user's own computer has a backlog.md with an earlier posting order
-and a swipe.md with niche research. Neither has been seen here. If they turn
-up, compare them with this order.
+Notes on this order:
+- Bulgari Hotel Shanghai has no reel of its own; it appears in #12.
+- Providence vs. Le Cinq is #16, inside the 18.
+- Still open: whether the ranking reels (#17, #18) include the parked hotels
+  (Capella Taipei, The Peninsula Hong Kong, The Shilla Seoul), Hotel Volga and
+  Bao Li Xuan.
+
+Note: the user's own computer has a swipe.md with niche research that has not
+been seen here.
 
 ```
 THELUXVERDICT: MICHELIN BACKLOG INPUTS (2026 visits)
