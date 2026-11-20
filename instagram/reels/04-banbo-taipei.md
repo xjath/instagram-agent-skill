@@ -10,6 +10,7 @@ not written yet.
 - Verdict: YES.
 - Also (user, 2026-11-20): the experience was very unique; the cocktails were creative.
 - Service (user, 2026-11-20): attentive and friendly.
+- Food (user, 2026-11-20): cooked well, but the story behind it captured their attention more.
 - Best moment (user, 2026-11-20): each dish has its own story to tell within a
   bigger story; each dish plays its own part in telling a story about Taiwan.
 - Letdowns: none.
@@ -27,13 +28,13 @@ not written yet.
 Mirrors the Atomix hook ("I paid $1,600 for two stars. Wouldn't return."),
 which posts just before it at #3.
 
-## Script (version 5, 2026-11-20)
-~38.9s at 165 wpm, 12 beats; hook 83.1 STRONG; humanizer 73.1 PASS.
-The user's version 4 plus a service line, so it covers food, service and
-experience.
+## Script (version 6, 2026-11-20)
+~42.2s at 165 wpm, 12 beats; hook 83.1 STRONG; humanizer 74.0 PASS.
+The user's version 4 plus service and food lines, so it covers food, service
+and experience. The food line replaces "And the best part was the storytelling."
 
 The three points:
-- Food: the cocktails were creative (the notes say nothing else about the food itself).
+- Food: cooked well; the cocktails were creative.
 - Service: attentive and friendly.
 - Experience: the storytelling; each dish plays its part in a bigger story about Taiwan; very unique.
 
@@ -45,7 +46,7 @@ page, as shown in search results, gives the address as 38, Lane 265, Lequn
 I paid $210 for a Michelin star in Taipei. Was it worth it?
 So this is Banbo, in the Neihu district.
 It was NT$7,000 per person for the meal with a cocktail pairing.
-And the best part was the storytelling.
+The food was cooked well, but what captured my attention more was the story behind it.
 Every dish tells its own story, but each one is also playing its part in a bigger story about Taiwan.
 So it's not just a Michelin dinner.
 It's one story, told one course at a time.
@@ -86,6 +87,6 @@ Cover: $210 MICHELIN STAR. WORTH IT?
   shots inside them.
 - Beats 7-9 have nothing concrete in them.
 
-## Open question for the user
+## Optional
 - A specific dish and its story would make the storytelling line concrete.
-  Optional; none named yet.
+  None named yet.
