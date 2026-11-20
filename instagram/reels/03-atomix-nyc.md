@@ -26,6 +26,12 @@ not written yet.
   World's 50 Best" holds for the top 50 only. Not checked on
   theworlds50best.com itself. Announced after the July visit; the script says
   "right now", which is accurate until the next list.
+- World's 50 Best Restaurants 2025 (Turin, 2025-06-19), the list in force at
+  the July 2026 visit: #12, also the only US restaurant in the top 50. US
+  restaurants in the 51-100 extended list included Atelier Crenn (#96) and
+  César (#98). Sources: finedininglovers.com (2025 full list),
+  theworlds50best.com (2025 51-100 list), Nexstar/NewsNation. Not checked on
+  the official 1-50 page.
 
 ## Hooks (scored)
 - 84.4 STRONG  #1 Cost Confession  "I paid $1,600 for two stars. Wouldn't return."  on screen: $1,600. WOULDN'T RETURN
