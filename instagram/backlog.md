@@ -20,7 +20,40 @@ is not confirmed.
   Il Pagliaccio, Le Cinq, plus Estela (unconfirmed).
 - Hotels: Bulgari Hotel Tokyo, Bulgari Hotel Shanghai, Amanyangyun,
   Josun Palace, Baccarat Hotel New York.
-- Also planned, not counted above: "Providence vs Le Cinq" head-to-head.
+- Extra reel outside the count (confirmed by the user, 2026-11-20):
+  "Providence vs Le Cinq" head-to-head.
+
+## Posting order (saved 2026-11-20)
+
+Claude's suggestion, accepted by the user. It is reasoning from general
+evidence, not tested on this account: strongest footage, prices and verdicts
+first; a "no" early so the verdicts read as honest; restaurants and hotels
+alternated; photo-only places last. Reorder after 4-5 reels using Insights
+(watch time, sends per reach). Evidence behind it: Mosseri on watch time,
+likes and sends (sends weigh most for non-follower reach); Instagram's staged
+recommendations, which show low-res or mostly-text reels to fewer people;
+Berger & Milkman 2012 on high-arousal content being shared more.
+
+1. Providence (YES), locked
+2. Atomix (NO)
+3. Baccarat Hotel New York (YES)
+4. Pujol (NO)
+5. Le Cinq (YES)
+6. Bulgari Hotel Tokyo (YES)
+   EXTRA: Providence vs Le Cinq, after both have posted (not counted)
+7. Mizue (okay)
+8. Bulgari Hotel Shanghai (YES)
+9. Il Pagliaccio (not exactly)
+10. Amanyangyun (YES, with doubts)
+11. Banbo (YES)
+12. Josun Palace (YES)
+13. Kato (wouldn't return)
+14. Soseoul Hannam (YES)
+15. Estela (YES), only if confirmed
+
+Note: the user's own computer has a backlog.md with an earlier posting order
+and a swipe.md with niche research. Neither has been seen here. If they turn
+up, compare them with this order.
 
 ```
 THELUXVERDICT: MICHELIN BACKLOG INPUTS (2026 visits)
