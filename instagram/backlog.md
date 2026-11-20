@@ -87,7 +87,14 @@ Footage: lots
 Visits: many over the years
 
 ALO (Toronto), 1 star
-Paid: CA$275pp (~US$192pp)
+Paid: CA$275pp (~US$192pp), from the user
+Price check (2026-11-20, secondary sources only; Alo's own site could not be
+reached from this session): 10-course CA$245pp, 6-course CA$185pp, bar
+6-course CA$120pp, before drinks, tax and tip (travellingfoodie.net, prices as
+of 2026-09-25; tastingmenu.ca, after the spring 2026 refit). Private dining
+CA$295pp per Alo's 2026 private dining brochure as quoted by search results.
+Wine pairing CA$125-130pp (sources differ). CA$275 matches none of these: to
+confirm with the user which menu and when, before using it on screen.
 Worth it: YES
 Best moments: tableside service with truffles; how they present the wine pairings; very knowledgeable wine staff and sommelier
 Letdowns: none
