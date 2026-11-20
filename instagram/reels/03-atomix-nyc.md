@@ -11,7 +11,7 @@ not written yet.
 - Verdict: NO. Expected very refined high-end Korean; felt like Americanized
   Korean with fancy ingredients. Good quality, nothing to rave about.
 - Best moments: impressive accolades and awards at the entrance; nice welcome drink.
-- Service (user, 2026-11-20): attentive; they noticed a lot of the little things.
+- Service (user, 2026-11-20): up to par for Atomix; attentive; they noticed a lot of the little things.
 - Footage: videos of the accolades; photos of the food and wine bottles; photo
   of the outside sign. No footage of the welcome drink.
 
@@ -39,16 +39,14 @@ not written yet.
 - 61.6 OK      #26 Superlative     "We paid $1,600 at the only US restaurant on the World's 50 Best. Was it worth it?"
 - 53.0 OK      #3 Nobody Tells You "Nobody tells you a wall of awards doesn't mean you'll love the food."
 
-## Script (version 8, 2026-11-20)
-~44.4s at 165 wpm, 13 beats; hook 84.4 STRONG; humanizer 83.6 PASS.
-The user's version 7 plus the service line, so it covers food, service and
-experience. To stay under 45s: the shorter hook ("I paid $1,600 for two
-stars. Wouldn't return.") and "So when you walk in, you get to see" tightened
-to "When you walk in, you see".
+## Script (version 9, 2026-11-20)
+~45.8s at 165 wpm, 13 beats; hook 84.4 STRONG; humanizer 84.3 PASS.
+Version 8 with the user's "up to par" added to the service line. About 0.8s
+over the 45s working range; if it needs trimming, drop "attentive," (45.1s).
 
 The three points:
 - Food: Americanized Korean, good but flat, nothing stuck, nothing memorable.
-- Service: attentive, noticed a lot of the little things.
+- Service: up to par, attentive, noticed a lot of the little things.
 - Experience: Michelin plaques and awards at the entrance; the hype.
 
 ```
@@ -60,7 +58,7 @@ When I'm walking into a restaurant with this much hype, I have expectations that
 But the truth is, the Korean food felt kind of Americanized.
 Don't get me wrong, the food was good, but it felt flat, and nothing really stuck with me.
 Nothing was memorable.
-The service was attentive though, they noticed a lot of the little things.
+The service was up to par though, attentive, and they noticed a lot of the little things.
 Would I go back?
 Probably not.
 Follow me,
@@ -86,7 +84,7 @@ Cover: $1,600 KOREAN. WORTH IT?
 | ~0:24 | "AMERICANIZED KOREAN" | new food photo |
 | ~0:28 | "GOOD. BUT FLAT." | food photos, a new one every 1-2s |
 | ~0:33 | "NOTHING MEMORABLE" | food photo |
-| ~0:35 | "SERVICE: ATTENTIVE" | service or table footage, else food photo |
+| ~0:35 | "SERVICE: UP TO PAR" | service or table footage, else food photo |
 | ~0:40 | "PROBABLY NOT" in red | on "probably not", after the pause |
 
 ## Checks still flagged
