@@ -18,9 +18,14 @@ not written yet.
 - 2 Michelin stars: Michelin Guide page for Atomix; 2025 New York guide
   (announced 2025-11-19). The 2026 New York guide was not found in search
   results: re-check on guide.michelin.com the week it posts.
-- World's 50 Best Restaurants 2026 (announced 2026-11-04): #11, the only US
-  restaurant on the list. Sources: cp24.com, ksl.com, krdo.com (CNN).
-  Announced after the July visit; the script says "right now", which is accurate.
+- World's 50 Best Restaurants 2026 (announced early November 2026; sources
+  differ on Nov 4 vs Nov 6): #11, the only US restaurant in the top 50.
+  Re-checked 2026-11-20. Sources: cnn.com (2026-11-05), finedininglovers.com
+  (2026 full list), cp24.com, ksl.com. One other US restaurant is on the 51-100
+  extended list (SingleThread, Healdsburg, #93), so "the only US spot on the
+  World's 50 Best" holds for the top 50 only. Not checked on
+  theworlds50best.com itself. Announced after the July visit; the script says
+  "right now", which is accurate until the next list.
 
 ## Hooks (scored)
 - 84.4 STRONG  #1 Cost Confession  "I paid $1,600 for two stars. Wouldn't return."  on screen: $1,600. WOULDN'T RETURN
