@@ -77,7 +77,7 @@ Cover: $1,600 KOREAN. WORTH IT?
 | ~0:09 | (no card) | awards, then entrance, then first food photo |
 | ~0:15 | "EXPECTED: REFINED KOREAN" | food photo, slow zoom |
 | ~0:18 | "GOT: FANCY INGREDIENTS" | new food photo |
-| ~0:22 | "GOOD. NOT WORTH WRITING HOME" | food photo |
+| ~0:22 | "GOOD, NOT GREAT" | food photo |
 | ~0:24 | "DIDN'T LIVE UP TO HYPE" | food photos, a new one every 1-2s |
 | ~0:29 | "$927 FOOD + $667 WINE" | wine bottles |
 | ~0:33 | "NO" in red | on the word, after the pause |
