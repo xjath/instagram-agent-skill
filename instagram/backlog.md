@@ -44,7 +44,9 @@ Replaces the earlier suggested order. About 2 reels a week for roughly 9 weeks.
 
 Notes on this order:
 - Bulgari Hotel Shanghai WILL get a reel of its own (user, 2026-11-20), as
-  well as appearing in #12. Its slot in the order is not decided yet.
+  well as appearing in #12. Rule from the user: its own review must post
+  before the #12 Bulgari Tokyo vs. Bulgari Shanghai head-to-head. Exact slot
+  not decided yet.
 - Providence vs. Le Cinq is #16, inside the 18.
 - Still open: whether the ranking reels (#17, #18) include the parked hotels
   (Capella Taipei, The Peninsula Hong Kong, The Shilla Seoul), Hotel Volga and
