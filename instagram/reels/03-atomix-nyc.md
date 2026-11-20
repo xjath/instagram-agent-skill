@@ -38,37 +38,33 @@ not written yet.
 - 61.6 OK      #26 Superlative     "We paid $1,600 at the only US restaurant on the World's 50 Best. Was it worth it?"
 - 53.0 OK      #3 Nobody Tells You "Nobody tells you a wall of awards doesn't mean you'll love the food."
 
-## Script (version 6, 2026-11-20)
-~44.7s at 165 wpm, 14 beats; hook 84.4 STRONG; humanizer 92.0 PASS.
-Further humanized at the user's request: present tense for walking in,
-"like", "wanna", "kinda", "nah", "don't get me wrong"; "nothing stuck with me"
-for "not very memorable". Same facts as version 5. At the top of the 15-45s
-working range: if it runs long, cut "Lots of fancy ingredients thrown at you."
-first.
+## Script (version 7, the user's own rewrite, 2026-11-20)
+~41.5s at 165 wpm, 12 beats; hook 84.4 STRONG; humanizer 85.5 PASS.
+Written by the user. Claude's only edits: "$1600" to "$1,600", "have
+expectations" to "I have expectations", "cause" to "cuz" (as in Providence),
+and punctuation. The bill breakdown and "fancy ingredients" are dropped; the
+total stays in the hook. "Michelin plaques" is from the user's own visit.
 
 ```
-I paid $1,600 for two stars. Wouldn't return.
+I paid $1,600 for two stars, and I wouldn't return.
 Okay so, Atomix, New York.
-Only US spot on the World's 50 Best, two years running.
-So you walk in past all these awards, welcome drink in hand, and my expectations are through the roof.
-Like, this is supposedly the best restaurant in America.
-I wanna remember this meal for life.
-And the Korean food kinda felt Americanized?
-Lots of fancy ingredients thrown at you.
-Don't get me wrong, it was good, but it felt flat, nothing stuck with me, and it definitely didn't live up to the hype.
-$927 for food, another $667 for wine pairings.
+The only US spot on the World's 50 Best.
+So when you walk in, you get to see all the Michelin plaques and awards, so my expectations are high.
+When I'm walking into a restaurant with this much hype, I have expectations that I'm gonna remember this meal for life.
+But the truth is, the Korean food felt kind of Americanized.
+Don't get me wrong, the food was good, but it felt flat, and nothing really stuck with me.
+Nothing was memorable.
 Would I go back?
-Nah, honestly no.
+Probably not.
 Follow me,
 cuz the next one I might actually return to.
 ```
 
-Delivery notes: pause after "Would I go back?" before "Nah, honestly no."
-Read the last two lines as one sentence. The ending repeats "return" from the
-hook so the reel loops. Two long lines need shots changing inside them: the
-walking-in line (~6.9s): awards, then entrance, then the first food photo;
-the food line (~8.7s): three or four food photos, cutting on "felt flat",
-"stuck with me" and "hype".
+Delivery notes: pause after "Would I go back?" before "Probably not." Read the
+last two lines as one sentence. The ending repeats "return" from the hook so
+the reel loops. Three long lines need shots changing inside them: the walk-in
+line (~7.3s): plaques and awards, then entrance; the expectations line
+(~7.6s): two food photos; the food line (~6.5s): two or three food photos.
 
 ## On-screen cards and shots
 Cover: $1,600 KOREAN. WORTH IT?
@@ -76,19 +72,18 @@ Cover: $1,600 KOREAN. WORTH IT?
 | Time | Card | Shot |
 |---|---|---|
 | ~0:00 | "$1,600. WOULDN'T RETURN" | awards video (motion in frame 1) |
-| ~0:03 | "ATOMIX, NEW YORK" | outside sign |
+| ~0:04 | "ATOMIX, NEW YORK" | outside sign |
 | ~0:05 | "#11 WORLD'S 50 BEST" | awards video |
-| ~0:07 | "★★ MICHELIN" | awards video |
-| ~0:09 | (no card) | awards, then entrance, then first food photo |
-| ~0:15 | "BEST IN AMERICA?" | food photo, slow zoom |
-| ~0:19 | "A MEAL FOR LIFE" | new food photo |
-| ~0:21 | "GOT: AMERICANIZED KOREAN" | new food photo |
-| ~0:24 | "LOTS OF FANCY INGREDIENTS" | close-up food photo |
-| ~0:27 | "GOOD. BUT FLAT." | food photo |
-| ~0:31 | "DIDN'T LIVE UP TO HYPE" | food photos, a new one every 1-2s |
-| ~0:35 | "$927 FOOD + $667 WINE" | wine bottles |
-| ~0:40 | "NO" in red | on "no", after the pause |
+| ~0:09 | "★★ MICHELIN" | plaques and awards video |
+| ~0:16 | "A MEAL FOR LIFE?" | food photos |
+| ~0:24 | "AMERICANIZED KOREAN" | new food photo |
+| ~0:28 | "GOOD. BUT FLAT." | food photos, a new one every 1-2s |
+| ~0:34 | "NOTHING MEMORABLE" | food photo |
+| ~0:37 | "PROBABLY NOT" in red | on "probably not", after the pause |
 
 ## Checks still flagged
-- Beats 4 (~6.9s) and 9 (~8.7s) run past 4s: handled by changing shots inside them.
-- Beats 11-13 (the verdict and the ask) have no number in them; same as Providence.
+- Hook is 10 words (~3.6s); the scorer wants 8 or fewer. Optional fix: "I paid
+  $1,600 for two stars. Wouldn't return." (same score, ~2.9s).
+- Beats 4 (~7.3s), 5 (~7.6s) and 7 (~6.5s) run past 4s: handled by changing
+  shots inside them.
+- Beats 7-9 have nothing concrete in them.
