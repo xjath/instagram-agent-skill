@@ -92,8 +92,7 @@ tip. Corrected by the user on 2026-11-20 (earlier figure of CA$275 was wrong).
 Matches secondary sources: travellingfoodie.net (prices as of 2026-09-25) and
 tastingmenu.ca (after the spring 2026 refit). Other menus: 6-course CA$185pp,
 bar 6-course CA$120pp, private dining CA$295pp; wine pairing CA$125-130pp
-(sources differ). Alo's own site and OpenTable were not reachable from the
-session, so re-check before posting.
+(sources differ). CA$245 checked manually by the user on 2026-11-20.
 Worth it: YES
 Best moments: tableside service with truffles; how they present the wine pairings; very knowledgeable wine staff and sommelier
 Letdowns: none
