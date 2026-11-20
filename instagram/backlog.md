@@ -57,6 +57,45 @@ Notes on this order:
   (Capella Taipei, The Peninsula Hong Kong, The Shilla Seoul), Hotel Volga and
   Bao Li Xuan.
 
+## Toronto restaurants (added 2026-11-20)
+
+From the user (dictated; names normalised to the restaurants' own spelling).
+Not placed in the posting order yet. Prices assumed CAD (Toronto), not
+confirmed. Visit dates not given.
+
+Michelin status checked 2026-11-20 against news coverage of the 2026 Toronto &
+Region guide (announced 2026-09-22): all three hold 1 star. Sushi Masaki Saito
+had 2 stars and dropped to 1 in the 2025 guide. Not yet checked on each
+restaurant's own Michelin Guide page. Sources: cp24.com (2026-09-23),
+streetsoftoronto.com (2026 ceremony), tastet.ca (2026 winners),
+michelin.com 2026 Toronto press release, dailyhive.com (2025 list).
+
+SUSHI MASAKI SAITO (Toronto), 1 star now (user unsure whether 1 or 2 at visit)
+Paid: $780pp at the latest visit, not including sake or wine pairings
+Worth it: YES, definitely
+Best moments: the dishes Saito made himself; the food was really, really good; hospitality and service good too
+Letdowns: none
+Footage: lots
+To confirm: date of latest visit (decides whether it was 1 or 2 stars then)
+
+SHOUSHIN (Toronto), 1 star
+Paid: around $600pp for their top menu
+Menus: two menus, given as "$4.95" and "$5.95" per person (probably $495 and
+$595; to confirm with the user)
+Worth it: YES, definitely
+Best moments: when they served the uni; conversations with the chef were always nice
+Letdowns: none
+Footage: lots
+To confirm: visit date; the menu prices
+
+ALO (Toronto), 1 star
+Paid: $275pp
+Worth it: YES
+Best moments: tableside service with truffles; how they present the wine pairings; very knowledgeable wine staff and sommelier
+Letdowns: none
+Footage: lots, over several visits ("over the years")
+To confirm: which visit the price is from
+
 Note: the user's own computer has a swipe.md with niche research that has not
 been seen here.
 
