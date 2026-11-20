@@ -14,12 +14,13 @@ Kept exactly as given; facts not re-checked when saved.
   (user, 2026-11-20). Parked, not dropped: the user will decide later what to
   do with them. Raise them again when planning the end of the series.
 
-Series count: 19 reels (the 18 below plus a Bulgari Hotel Shanghai reel, slot
-to be decided). This replaces the earlier count of 15 plus one extra.
+Series count: 19 reels, per the posting order below. This replaces the earlier
+count of 15 plus one extra.
 
-## Posting order (user's final order, saved 2026-11-20)
+## Posting order (user's final order, confirmed 2026-11-20)
 
-Replaces the earlier suggested order. About 2 reels a week for roughly 9 weeks.
+19 reels, about 2 a week for roughly 9.5 weeks. Bulgari Hotel Shanghai sits at
+#9, so its own review posts before the #13 head-to-head (user's rule).
 
 | # | Reel | Verdict |
 |---|---|---|
@@ -31,24 +32,23 @@ Replaces the earlier suggested order. About 2 reels a week for roughly 9 weeks.
 | 6 | Pujol, 2★ Mexico City | **No** |
 | 7 | Amanyangyun, 1 Key Shanghai | Yes |
 | 8 | Le Cinq, 3★ Paris | Yes (special occasion) |
-| 9 | Mizue, Taipei | **Not yet** |
-| 10 | Josun Palace, 1 Key Seoul | Yes |
-| 11 | Kato, LA | Once |
-| 12 | Bulgari Tokyo vs. Bulgari Shanghai | Head-to-head |
-| 13 | Soseoul Hannam, 1★ Seoul | Yes |
-| 14 | Il Pagliaccio, 2★ Rome | **Not really** |
-| 15 | Estela, 1★ New York | Yes (date night), only if photos turn up |
-| 16 | Providence vs. Le Cinq | Head-to-head |
-| 17 | Every Key hotel, ranked | Ranking |
-| 18 | Every Michelin restaurant, ranked | Finale |
+| 9 | Bulgari Hotel Shanghai, 2 Keys | Yes |
+| 10 | Mizue, Taipei | **Not yet** |
+| 11 | Josun Palace, 1 Key Seoul | Yes |
+| 12 | Kato, LA | Once |
+| 13 | Bulgari Tokyo vs. Bulgari Shanghai | Head-to-head |
+| 14 | Soseoul Hannam, 1★ Seoul | Yes |
+| 15 | Il Pagliaccio, 2★ Rome | **Not really** |
+| 16 | Estela, 1★ New York | Yes (date night), only if photos turn up |
+| 17 | Providence vs. Le Cinq | Head-to-head |
+| 18 | Every Key hotel, ranked | Ranking |
+| 19 | Every Michelin restaurant, ranked | Finale |
 
 Notes on this order:
-- Bulgari Hotel Shanghai WILL get a reel of its own (user, 2026-11-20), as
-  well as appearing in #12. Rule from the user: its own review must post
-  before the #12 Bulgari Tokyo vs. Bulgari Shanghai head-to-head. Exact slot
-  not decided yet.
-- Providence vs. Le Cinq is #16, inside the 18.
-- Still open: whether the ranking reels (#17, #18) include the parked hotels
+- Star and Key counts are from the user's notes. Only Providence (3 stars) is
+  verified (2026-11-19, see reels/01-providence-la.md). Verify the others
+  before each reel posts.
+- Still open: whether the ranking reels (#18, #19) include the parked hotels
   (Capella Taipei, The Peninsula Hong Kong, The Shilla Seoul), Hotel Volga and
   Bao Li Xuan.
 
