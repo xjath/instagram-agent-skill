@@ -33,9 +33,9 @@ Written by the user. Claude's only edits: "Bambo" to "Banbo", "Nehu" to
 in Providence), punctuation and line breaks. New facts from the user: the
 experience was very unique; the cocktails were creative.
 
-LOCATION TO CONFIRM: the user says Neihu district. Michelin's Ban Bo page (as
-shown in search results) gives the address as 38, Lane 265, Lequn 2nd Road,
-Zhongshan District. Not posted until the user confirms which is right.
+LOCATION: Neihu, confirmed by the user (2026-11-20). Note: Michelin's Ban Bo
+page, as shown in search results, gives the address as 38, Lane 265, Lequn
+2nd Road, Zhongshan District. Kept as Neihu at the user's direction.
 
 ```
 I paid $210 for a Michelin star in Taipei. Was it worth it?
@@ -62,7 +62,7 @@ Cover: $210 MICHELIN STAR. WORTH IT?
 | Time | Card | Shot |
 |---|---|---|
 | ~0:00 | "$210 STAR IN TAIPEI. WORTH IT?" | dish video (motion in frame 1) |
-| ~0:05 | "BANBO, {{DISTRICT}}" | food photo |
+| ~0:05 | "BANBO, NEIHU" | food photo |
 | ~0:04 | "★ MICHELIN" | food photo |
 | ~0:05 | "NT$7,000 WITH COCKTAILS" | cocktail or dish photo |
 | ~0:09 | "EVERY DISH, A STORY" | dish videos, a new one every 1-2s |
