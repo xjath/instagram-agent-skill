@@ -82,7 +82,7 @@ Post the first. It concedes something and it has a number in it.
 
 For an engagement round, ask for the 5 to 10 posts as pasted text in one
 message, return one comment each in a single block, and keep a running note in
-`~/.claude/instagram/log.md` of who has been commented on this week.
+`instagram/log.md` (at the repo root) of who has been commented on this week.
 Commenting on the same three accounts every day is visible and it looks like
 exactly what it is.
 
@@ -92,3 +92,9 @@ Do not auto-post, do not automate comments, and do not use a browser tool to
 publish on the user's behalf. Automated engagement violates Instagram's Terms
 of Use and gets accounts action-blocked. This skill writes the comment. The
 user posts it.
+
+## Keeping it between sessions
+
+Cloud sessions start in a fresh container, so anything this skill writes to
+`instagram/` at the repo root is lost unless it is committed. After writing or
+changing a file there, commit it and push it to the session's working branch.
