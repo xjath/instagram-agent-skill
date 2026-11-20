@@ -38,51 +38,48 @@ not written yet.
 - 61.6 OK      #26 Superlative     "We paid $1,600 at the only US restaurant on the World's 50 Best. Was it worth it?"
 - 53.0 OK      #3 Nobody Tells You "Nobody tells you a wall of awards doesn't mean you'll love the food."
 
-## Script
-~38.5s at 165 wpm, 16 beats; hook 84.4 STRONG; humanizer 86.0 PASS.
+## Script (version 2, 2026-11-20)
+~33.5s at 165 wpm, 13 beats; hook 84.4 STRONG; humanizer 80.8 PASS.
+Replaces version 1 (38.5s): cuts the repeated "$1,600" and the clipped
+"Then the food / Then the bill" lines, adds "two years running" (World's 50
+Best 2025 and 2026, verified above), and keeps "felt like" from the user's notes.
 
 ```
 I paid $1,600 for two stars. Wouldn't return.
 Okay so, Atomix, New York.
-The only US spot on the World's 50 Best right now.
-Awards everywhere when you walk in.
-So at $800 a head, the bar's pretty high, right?
-Welcome drink was nice.
-Then the food.
-I was expecting super refined Korean, and honestly it felt more like Americanized Korean with fancy ingredients on top.
-Good quality, just nothing to rave about.
-Then the bill.
-$927 for food and $667 on the wine pairings.
-About $1,600 for two.
-Was it worth $1,600?
+Only US spot on the World's 50 Best, two years running.
+So walking in past all those awards, welcome drink in hand, my expectations were honestly through the roof.
+Super refined Korean, that's what I wanted.
+What I got felt like Americanized Korean, fancy ingredients on top.
+Quality was there.
+Nothing to rave about though.
+$927 for food, $667 on wine pairings.
+Would I go back?
 Honestly, no.
 Follow me,
 cuz the next one I might actually return to.
 ```
 
-Delivery notes: short pause after "Was it worth $1,600?" before "Honestly, no."
-Read the last two lines as one sentence. The ending repeats "return" from the
-hook so the reel loops. The long food line (~7s) needs two shots inside it:
-cut on "and honestly".
+Delivery notes: pause after "Would I go back?" before "Honestly, no." Read the
+last two lines as one sentence. The ending repeats "return" from the hook so
+the reel loops. The long expectations line (~6.5s) needs shots changing
+inside it: awards, then entrance, then the first food photo.
 
 ## On-screen cards and shots
 Cover: $1,600 KOREAN. WORTH IT?
 
 | Time | Card | Shot |
 |---|---|---|
-| ~0:00 | "$1,600. WOULDN'T RETURN" | accolades video (motion in frame 1) |
+| ~0:00 | "$1,600. WOULDN'T RETURN" | awards video (motion in frame 1) |
 | ~0:03 | "ATOMIX, NEW YORK" | outside sign |
-| ~0:05 | "#11 WORLD'S 50 BEST" | accolades video |
-| ~0:09 | "★★ MICHELIN" | accolades video |
-| ~0:11 | "$800 A HEAD" | food photo |
-| ~0:15 | (no card) | no welcome drink footage: entrance or a food photo |
-| ~0:17 | "EXPECTED: REFINED KOREAN" | food photo, slow zoom |
-| ~0:20 | "GOT: FANCY INGREDIENTS" | new food photo on "and honestly" |
-| ~0:24 | (no card) | food photos, a new one every 1-2s |
-| ~0:28 | "$927 FOOD + $667 WINE" | wine bottles |
-| ~0:31 | "~$1,600 FOR TWO" | wine bottles or food |
-| ~0:34 | "NO" in red | on the word, after the pause |
+| ~0:05 | "#11 WORLD'S 50 BEST" | awards video |
+| ~0:07 | "★★ MICHELIN" | awards video |
+| ~0:09 | (no card) | awards, then entrance, then first food photo |
+| ~0:15 | "EXPECTED: REFINED KOREAN" | food photo, slow zoom |
+| ~0:18 | "GOT: FANCY INGREDIENTS" | new food photo |
+| ~0:22 | (no card) | food photos, a new one every 1-2s |
+| ~0:25 | "$927 FOOD + $667 WINE" | wine bottles |
+| ~0:29 | "NO" in red | on the word, after the pause |
 
 ## Checks still flagged
-- Beats 14-16 (the verdict and the ask) have no number in them; same as the
-  locked Providence script.
+- Beat 4 (~6.5s) runs past 4s: handled by changing shots inside it.
