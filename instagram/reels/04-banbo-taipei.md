@@ -9,6 +9,7 @@ not written yet.
   at TWD 0.0303). Four people (the user and friends).
 - Verdict: YES.
 - Also (user, 2026-11-20): the experience was very unique; the cocktails were creative.
+- Service (user, 2026-11-20): attentive and friendly.
 - Best moment (user, 2026-11-20): each dish has its own story to tell within a
   bigger story; each dish plays its own part in telling a story about Taiwan.
 - Letdowns: none.
@@ -26,12 +27,15 @@ not written yet.
 Mirrors the Atomix hook ("I paid $1,600 for two stars. Wouldn't return."),
 which posts just before it at #3.
 
-## Script (version 4, the user's own rewrite, 2026-11-20)
-~37.5s at 165 wpm, 11 beats; hook 83.1 STRONG; humanizer 71.6 PASS.
-Written by the user. Claude's only edits: "Bambo" to "Banbo", "Nehu" to
-"Neihu", "$7000 NTD" to "NT$7,000", "because" to "cuz" in the last line (as
-in Providence), punctuation and line breaks. New facts from the user: the
-experience was very unique; the cocktails were creative.
+## Script (version 5, 2026-11-20)
+~38.9s at 165 wpm, 12 beats; hook 83.1 STRONG; humanizer 73.1 PASS.
+The user's version 4 plus a service line, so it covers food, service and
+experience.
+
+The three points:
+- Food: the cocktails were creative (the notes say nothing else about the food itself).
+- Service: attentive and friendly.
+- Experience: the storytelling; each dish plays its part in a bigger story about Taiwan; very unique.
 
 LOCATION: Neihu, confirmed by the user (2026-11-20). Note: Michelin's Ban Bo
 page, as shown in search results, gives the address as 38, Lane 265, Lequn
@@ -45,6 +49,7 @@ And the best part was the storytelling.
 Every dish tells its own story, but each one is also playing its part in a bigger story about Taiwan.
 So it's not just a Michelin dinner.
 It's one story, told one course at a time.
+Service? Attentive and friendly.
 Was it worth it?
 Yes, it was, because the experience was very unique, and the cocktails were creative.
 Follow me,
@@ -68,8 +73,9 @@ Cover: $210 MICHELIN STAR. WORTH IT?
 | ~0:09 | "EVERY DISH, A STORY" | dish videos, a new one every 1-2s |
 | ~0:14 | "ONE BIGGER STORY" | dish video |
 | ~0:19 | "A STORY OF TAIWAN" | dish video |
-| ~0:28 | "YES" in red | on "Yes, it was" |
-| ~0:31 | "CREATIVE COCKTAILS" | cocktail photo or video |
+| ~0:27 | "SERVICE: ATTENTIVE, FRIENDLY" | dish or table video |
+| ~0:30 | "YES" in red | on "Yes, it was" |
+| ~0:33 | "CREATIVE COCKTAILS" | cocktail photo or video |
 
 ## Checks still flagged
 - Hook is 13 words (~4.7s); the scorer wants 8 or fewer. Kept because it is
