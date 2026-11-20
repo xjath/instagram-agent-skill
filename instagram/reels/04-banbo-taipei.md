@@ -6,10 +6,10 @@ not written yet.
 ## Facts used
 - Banbo (Michelin spells it "Ban Bo"), Taipei. Visited June 2026.
 - Paid: NT$7,000 per person including food and cocktail pairings (~US$210pp
-  at TWD 0.0303). Number of diners not in the notes.
+  at TWD 0.0303). Four people (the user and friends).
 - Verdict: YES.
-- Best moment: the storytelling behind each dish, building a story around
-  Taiwanese culture.
+- Best moment (user, 2026-11-20): each dish has its own story to tell within a
+  bigger story; each dish plays its own part in telling a story about Taiwan.
 - Letdowns: none.
 - Footage: food photos, some videos.
 
@@ -25,17 +25,19 @@ not written yet.
 Mirrors the Atomix hook ("I paid $1,600 for two stars. Wouldn't return."),
 which posts just before it at #3.
 
-## Script (version 1)
-~29.8s at 165 wpm, 11 beats; hook 84.4 STRONG; humanizer 90.6 PASS.
+## Script (version 2, 2026-11-20)
+~30.9s at 165 wpm, 11 beats; hook 84.4 STRONG; humanizer 75.6 PASS.
+Adds the user's details: four people, and each dish telling its own story as
+part of a bigger story about Taiwan.
 
 ```
 I paid $210 for a Michelin star. Worth it.
-Okay so, Banbo, Taipei.
+Okay so, Banbo, Taipei, four of us.
 NT$7,000 a person, and that's with the cocktail pairing.
-And what got me was the storytelling.
-Like every single dish comes with a story, and they're building this whole thing around Taiwanese culture, one course at a time.
-So it's not just dinner.
-You're kinda being walked through Taiwan.
+Best part? The storytelling.
+Every dish tells its own story, but each one is also playing its part in this bigger story about Taiwan.
+So it's not just a Michelin dinner.
+It's one story, told one course at a time.
 Was it worth it?
 Yeah, for $210 with cocktails, it was.
 Follow me,
@@ -44,7 +46,7 @@ cuz not every star is worth it.
 
 Delivery notes: pause after "Was it worth it?" Read the last two lines as one
 sentence. The ending repeats "star" and "worth" from the hook so the reel
-loops. The storytelling line (~8s) needs shots changing inside it: use the
+loops. The storytelling line (~7s) needs shots changing inside it: use the
 dish videos, cutting on "story" and "Taiwanese culture".
 
 ## On-screen cards and shots
@@ -56,13 +58,14 @@ Cover: $210 MICHELIN STAR. WORTH IT?
 | ~0:03 | "BANBO, TAIPEI" | food photo |
 | ~0:04 | "★ MICHELIN" | food photo |
 | ~0:05 | "NT$7,000 WITH COCKTAILS" | cocktail or dish photo |
-| ~0:08 | "EVERY DISH, A STORY" | dish videos, a new one every 1-2s |
-| ~0:18 | "A WALK THROUGH TAIWAN" | dish video |
+| ~0:09 | "EVERY DISH, A STORY" | dish videos, a new one every 1-2s |
+| ~0:14 | "ONE BIGGER STORY" | dish video |
+| ~0:19 | "A STORY OF TAIWAN" | dish video |
 | ~0:24 | "WORTH IT" in red | on "it was" |
 
 ## Checks still flagged
-- Beat 5 (~8s) runs past 4s: handled by changing shots inside it.
+- Beat 5 (~7s) runs past 4s: handled by changing shots inside it.
 
 ## Open question for the user
-- Is there one dish and its story you remember? Naming it would make the
-  storytelling line concrete. Not added: nothing in the notes names a dish.
+- A specific dish and its story would make the storytelling line concrete.
+  Optional; none named yet.
