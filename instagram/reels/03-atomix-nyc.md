@@ -38,11 +38,10 @@ not written yet.
 - 61.6 OK      #26 Superlative     "We paid $1,600 at the only US restaurant on the World's 50 Best. Was it worth it?"
 - 53.0 OK      #3 Nobody Tells You "Nobody tells you a wall of awards doesn't mean you'll love the food."
 
-## Script (version 2, 2026-11-20)
-~33.5s at 165 wpm, 13 beats; hook 84.4 STRONG; humanizer 80.8 PASS.
-Replaces version 1 (38.5s): cuts the repeated "$1,600" and the clipped
-"Then the food / Then the bill" lines, adds "two years running" (World's 50
-Best 2025 and 2026, verified above), and keeps "felt like" from the user's notes.
+## Script (version 3, 2026-11-20)
+~37.5s at 165 wpm, 13 beats; hook 84.4 STRONG; humanizer 77.5 PASS.
+Version 3 uses the user's own words on the food: "good, but nothing to write
+home about, and definitely didn't live up to the hype of the restaurant".
 
 ```
 I paid $1,600 for two stars. Wouldn't return.
@@ -51,8 +50,8 @@ Only US spot on the World's 50 Best, two years running.
 So walking in past all those awards, welcome drink in hand, my expectations were honestly through the roof.
 Super refined Korean, that's what I wanted.
 What I got felt like Americanized Korean, fancy ingredients on top.
-Quality was there.
-Nothing to rave about though.
+The food was good.
+Just nothing to write home about, and it definitely didn't live up to the hype.
 $927 for food, $667 on wine pairings.
 Would I go back?
 Honestly, no.
@@ -62,8 +61,9 @@ cuz the next one I might actually return to.
 
 Delivery notes: pause after "Would I go back?" before "Honestly, no." Read the
 last two lines as one sentence. The ending repeats "return" from the hook so
-the reel loops. The long expectations line (~6.5s) needs shots changing
-inside it: awards, then entrance, then the first food photo.
+the reel loops. Two long lines need shots changing inside them: the
+expectations line (~6.5s): awards, then entrance, then the first food photo;
+the hype line (~5.5s): two food photos.
 
 ## On-screen cards and shots
 Cover: $1,600 KOREAN. WORTH IT?
@@ -77,9 +77,11 @@ Cover: $1,600 KOREAN. WORTH IT?
 | ~0:09 | (no card) | awards, then entrance, then first food photo |
 | ~0:15 | "EXPECTED: REFINED KOREAN" | food photo, slow zoom |
 | ~0:18 | "GOT: FANCY INGREDIENTS" | new food photo |
-| ~0:22 | (no card) | food photos, a new one every 1-2s |
-| ~0:25 | "$927 FOOD + $667 WINE" | wine bottles |
-| ~0:29 | "NO" in red | on the word, after the pause |
+| ~0:22 | "GOOD. NOT WORTH WRITING HOME" | food photo |
+| ~0:24 | "DIDN'T LIVE UP TO HYPE" | food photos, a new one every 1-2s |
+| ~0:29 | "$927 FOOD + $667 WINE" | wine bottles |
+| ~0:33 | "NO" in red | on the word, after the pause |
 
 ## Checks still flagged
-- Beat 4 (~6.5s) runs past 4s: handled by changing shots inside it.
+- Beats 4 (~6.5s) and 8 (~5.5s) run past 4s: handled by changing shots inside them.
+- Beats 10-12 (the verdict and the ask) have no number in them; same as Providence.
