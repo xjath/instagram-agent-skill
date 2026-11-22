@@ -31,7 +31,7 @@ pastes the caption and posts it themselves. Saved 2026-11-20 as given.
   - guide.michelin.com/us/en/article/michelin-guide-ceremony/guide-michelin-california
 
 ## Final script (version 2, LOCKED 2026-11-22)
-~44.7s at 165 wpm, 16 beats; hook 100.0 STRONG; humanizer 84.8 PASS; loops on
+~45.8s at 165 wpm, 16 beats; hook 100.0 STRONG; humanizer 79.0 PASS; loops on
 "get what". Hook technique: 3 benefits + 2 curiosity.
 Built from the user's edits on 2026-11-22: $495 chef's tasting menu (menus
 start at $375); wine cellar first, with the three-star Dom Pérignon; then the
@@ -40,7 +40,8 @@ surprise private room; "every dish hit".
 The three points:
 - Experience: wine cellar with the three-star Dom Pérignon; surprise private
   room looking into the kitchen.
-- Service: James Beard hospitality award; always there, never hovering.
+- Service: James Beard hospitality award; you can really feel the care they
+  put into their patrons (user's words, 2026-11-22).
 - Food: every dish hit.
 
 ```
@@ -50,8 +51,8 @@ One of the first LA spots ever to get three Michelin stars.
 First, they take us down to the wine cellar, where a Dom Pérignon has three stars on it, celebrating the new star.
 Then they surprised us with a private room looking straight into the kitchen.
 The service?
-They just won the James Beard award for hospitality, and you can feel it.
-Always there, never hovering.
+They just won the James Beard award for hospitality,
+and you can really feel the care they put into their patrons.
 And the food, honestly, every dish hit.
 Bill? $495 a person for the chef's tasting menu, then two wine pairings, a $100 cocktail, add-ons and tip.
 $2,400 for two.
@@ -113,12 +114,14 @@ Cover: $2,400 FOR TWO. WORTH IT?
 Check what's on screen matches what's said (see workflow.md, step 3).
 
 ## Final caption (version 2, DRAFT 2026-11-22, matches script version 2)
-Caption linter READY; humanizer 82.0 PASS; 1010/2200 chars; first line 122
+Caption linter READY; humanizer 81.4 PASS; 1010/2200 chars; first line 122
 chars, shows in full; one ask = follow; 4 hashtags below the fold.
 Fixes the order (version 1 said the cellar tour was "after dinner"; the user
 says it came first), adds the Dom Pérignon magnum and the surprise room, and
 uses "every dish hit". "Set the tone for the whole night" from version 1 was
 dropped.
+Service line (user, 2026-11-22): "You can really feel the care they put into
+their patrons" replaces "Always there, never hovering".
 
 ```
 We did the $495 chef's tasting menu. Our bill was around $2,400 for two. Breakdown below, and follow for the next verdict.
@@ -129,7 +132,7 @@ The night started in the wine cellar, where they had a magnum of Dom Pérignon e
 
 Then they surprised us with a private room looking right into the kitchen.
 
-The service is why they just won the James Beard award for hospitality. Always there, never hovering. Chef Michael Cimarusti also won Best Chef: West back in 2019.
+The service is why they just won the James Beard award for hospitality. You can really feel the care they put into their patrons. Chef Michael Cimarusti also won Best Chef: West back in 2019.
 
 The food? Every dish hit. Not one miss.
 
