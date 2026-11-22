@@ -14,7 +14,10 @@ pastes the caption and posts it themselves. Saved 2026-11-20 as given.
 - Letdowns: none.
 - Footage: wine cellar, the room, the food, the menu.
 - Also seen (user, 2026-11-22): in the wine cellar, a Dom Pérignon bottle with
-  three Michelin stars on it, to celebrate the third star. Footage of it: to confirm.
+  three Michelin stars on it, to celebrate the third star. Photo confirmed
+  (2026-11-22): a 1.5-litre (magnum) Dom Pérignon Vintage 2012, engraved
+  "Congratulations", three red Michelin star symbols, "Providence".
+  Crop out the handwritten note on the cork board (top right) before posting.
 
 ## Verified accolades (checked 2026-11-19)
 - 3 Michelin stars. Third star awarded 2025 (its 20th anniversary); Providence and Somni were the first LA restaurants ever to get three. Still 3 stars in the June 24, 2026 Michelin Guide California.
@@ -99,7 +102,7 @@ Cover: $2,400 FOR TWO. WORTH IT?
 | ~0:04 | "PROVIDENCE, LA" | the room |
 | ~0:04 | "★★★ MICHELIN" | the menu or the room |
 | ~0:09 | "WINE CELLAR" | cellar |
-| ~0:12 | "3-STAR DOM PÉRIGNON" | the bottle in the cellar (footage to confirm) |
+| ~0:12 | "3-STAR DOM PÉRIGNON" | the engraved magnum (photo IMG_5031); slow zoom onto "Congratulations ✿✿✿ Providence", crop out the cork-board note |
 | ~0:17 | "SURPRISE PRIVATE ROOM" | room, kitchen view |
 | ~0:23 | "JAMES BEARD AWARD" | service footage |
 | ~0:29 | "EVERY DISH HIT" | a new dish every second or so |
