@@ -3,6 +3,38 @@
 Status: VIDEO MADE by the user (reviewed 2026-11-22 from a 720p export).
 Caption not written yet. See "As made" below for what the video actually says.
 
+## As made, edit 2 (from the video's captions, reviewed 2026-11-22)
+
+Read from the typed-on captions at 2 frames a second; the audio was not heard.
+42.7s, no end card. Hook 84.4 STRONG; humanizer 79.1 PASS (voice 100).
+
+```
+I paid $1,600 for two, for two stars, and I wouldn't return.
+This is Atomix New York, the only US spot on the world's 50 best list.
+When you walk in, you get to see all of their awards, such as their Michelin plaques and trophies,
+and my expectations from seeing this are sky high.
+When you walk into a restaurant with THIS much hype behind it, you're kind of excited for how memorable this meal's gonna be.
+The service was good, but the food felt Americanized.
+It didn't feel like I was eating actual Korean food.
+They had a lot of fancy ingredients, such as king crab, caviar, and truffle, but it felt flat.
+Nothing really stuck with me.
+Now, don't get me wrong, the food was good, but there was just no dish that really stood out to make it very memorable.
+Was it worth it? In my opinion, not really.
+But follow me, because the next one just might be.
+```
+
+What changed from edit 1: service line added ("The service was good"); "It
+didn't feel like I was eating actual Korean food" added; CapCut end card
+removed; key words in red ($1,600, sky high, THIS); "Worth it? NO" card in red
+over the last shots. Covers food, service and experience.
+
+Still open (2026-11-22):
+- 0:06-0:08: "world's 50 best list" is still said over the NORTH AMERICA'S 50
+  BEST RESTAURANTS 2025 trophy.
+- Captions still sit at about 73-82% of the frame height (safe line is 75%).
+- The script still ends "the next one just might be." (an open ending).
+- The opening caption may read "for two, for two stars"; check the wording.
+
 ## As made (from the video's burned-in captions, reviewed 2026-11-22)
 
 Read from the captions at 3 frames a second; the audio itself was not heard.
