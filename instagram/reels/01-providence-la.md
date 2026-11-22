@@ -44,13 +44,14 @@ Added (user, 2026-11-22): a bottle of Dom Pérignon with three Michelin stars
 on it, to celebrate the newly awarded third star. To fit under 45s: cellar
 and room lines shortened; "Not one miss." cut.
 The Dom Pérignon was in the wine cellar (user, 2026-11-22), so it sits in the cellar line.
+The private room was a surprise (user, 2026-11-22).
 
 ```
 $2,400 for dinner for two. Here's what you actually get.
 Okay so, Providence, LA.
 One of the first LA spots ever to get three Michelin stars.
 First, they take us down to the wine cellar, and there's a Dom Pérignon with three stars on it, celebrating the new star.
-Then it's a private room looking straight into the kitchen.
+Then they surprised us with a private room looking straight into the kitchen.
 The service?
 They just won the James Beard award for hospitality, and you can feel it.
 Always there, never hovering.
