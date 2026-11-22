@@ -48,7 +48,7 @@ The three points:
 $2,400 for dinner for two. Here's what you actually get.
 Providence, LA.
 One of the first LA spots ever to get three Michelin stars.
-First, they take us down to the wine cellar, where a Dom Pérignon has three stars on it, celebrating the new star.
+First, they take us down to the wine cellar, where a bottle of Dom has three stars on it, celebrating the new star.
 Then they surprised us with a private room looking straight into the kitchen.
 The service?
 They just won the James Beard award for hospitality,
@@ -103,7 +103,7 @@ Cover: $2,400 FOR TWO. WORTH IT?
 | ~0:04 | "PROVIDENCE, LA" | the room |
 | ~0:04 | "★★★ MICHELIN" | the menu or the room |
 | ~0:09 | "WINE CELLAR" | cellar |
-| ~0:12 | "3-STAR DOM PÉRIGNON" | the engraved magnum (photo IMG_5031); slow zoom onto "Congratulations ✿✿✿ Providence", crop out the cork-board note |
+| ~0:12 | "3-STAR DOM" | the engraved magnum (photo IMG_5031); slow zoom onto "Congratulations ✿✿✿ Providence", crop out the cork-board note |
 | ~0:17 | "SURPRISE PRIVATE ROOM" | room, kitchen view |
 | ~0:23 | "JAMES BEARD AWARD" | service footage |
 | ~0:29 | "EVERY DISH HIT" | a new dish every second or so |
