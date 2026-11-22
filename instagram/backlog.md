@@ -137,7 +137,7 @@ USD conversions at 2026-11-19 rates (CAD 0.699, TWD 0.0303).
 === RESTAURANTS (11) ===
 
 PROVIDENCE (Los Angeles), 3 stars, January
-Paid: menu from US$395pp; the menu they had was US$495pp (corrected by the user 2026-11-22; earlier note said US$375). Bill CA$3,400 (~US$2,400) for two, incl. two wine pairings, a US$100 cocktail, menu add-ons, tip
+Paid: menus start at US$375pp; they had the chef's tasting menu at US$495pp (clarified by the user 2026-11-22). Bill CA$3,400 (~US$2,400) for two, incl. two wine pairings, a US$100 cocktail, menu add-ons, tip
 Worth it: YES, definitely
 Best moments: service attentive without being overbearing; every dish a flavor bomb; private room with a view of the kitchen; wine cellar tour
 Letdowns: none

@@ -11,8 +11,8 @@ pastes the caption and posts it themselves. Saved 2026-11-20 as given.
 ## Facts
 - Restaurant: Providence, Los Angeles. Seafood-focused tasting menu, chef Michael Cimarusti.
 - Visited: January 2026, dinner for two.
-- Menu starts at US$395 per person; the menu they had was US$495 per person
-  (corrected by the user 2026-11-22; earlier versions said US$375).
+- Menus start at US$375 per person; they had the chef's tasting menu at
+  US$495 per person (clarified by the user 2026-11-22).
 - Bill: about CA$3,400 total = roughly US$2,400 for two (CAD to USD at 0.699, 2026-11-18). Includes two wine pairings, a US$100 cocktail, menu add-ons, tax and tip.
 - Verdict: WORTH IT, definitely.
 - Moments: service attentive all night without hovering or being overbearing; every dish a "flavor bomb"; they gave us a private room with a view right into the kitchen; took us on a wine cellar tour.
@@ -32,8 +32,8 @@ pastes the caption and posts it themselves. Saved 2026-11-20 as given.
 
 ## Rewrite option (version 2, DRAFT, 2026-11-22)
 Written after the user asked for better scripts. Not replacing the locked
-version unless the user says so. ~45.5s, 16 beats; hook 100.0 STRONG
-(was 63.2 when re-scored); humanizer 88.9 PASS (was 75.4); loops on "get
+version unless the user says so. ~46.2s, 16 beats; hook 100.0 STRONG
+(was 63.2 when re-scored); humanizer 90.3 PASS (was 75.4); loops on "get
 what" (the locked version doesn't loop). Hook technique: 3 benefits + 2
 curiosity. Same facts as the locked version; "Not one miss" = letdowns: none.
 
@@ -48,7 +48,7 @@ They just won the James Beard award for hospitality, and you can feel it.
 Always there, never hovering.
 And the food, honestly, every single dish was a flavor bomb.
 Not one miss.
-Bill? $495 a person for the menu, then two wine pairings, a $100 cocktail, add-ons and tip.
+Bill? $495 a person for the chef's tasting menu, then two wine pairings, a $100 cocktail, add-ons and tip.
 $2,400 for two.
 Worth it?
 Definitely.
@@ -101,7 +101,7 @@ Cover: $495 TASTING MENU. WORTH IT?
 Caption linter READY; humanizer 72.7 PASS; 900/2200 chars; first line 115 chars, shows in full; one ask = follow; 4 hashtags below the fold.
 
 ```
-Our menu was $495 a person. Our bill was around $2,400 for two. Breakdown below, and follow for the next verdict.
+We did the $495 chef's tasting menu. Our bill was around $2,400 for two. Breakdown below, and follow for the next verdict.
 
 Providence LA has three Michelin stars, and it was one of the first restaurants in Los Angeles to ever get three.
 
