@@ -3,11 +3,6 @@
 Status: script re-locked 2026-11-22 (version 2 replaces the 2026-11-19 script); caption locked 2026-11-19. Not posted from here: the user
 pastes the caption and posts it themselves. Saved 2026-11-20 as given.
 
-## The three points (in the script)
-- Food: "Every single dish was a flavor bomb, I'm not even kidding."
-- Service: "There's a reason they won a James Beard award for hospitality. Always there, but never hovering."
-- Experience: the wine cellar tour first, then the private room looking into the kitchen.
-
 ## Facts
 - Restaurant: Providence, Los Angeles. Seafood-focused tasting menu, chef Michael Cimarusti.
 - Visited: January 2026, dinner for two.
