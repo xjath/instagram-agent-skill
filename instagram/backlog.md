@@ -139,7 +139,7 @@ USD conversions at 2026-11-19 rates (CAD 0.699, TWD 0.0303).
 PROVIDENCE (Los Angeles), 3 stars, January
 Paid: menus start at US$375pp; they had the chef's tasting menu at US$495pp (clarified by the user 2026-11-22). Bill CA$3,400 (~US$2,400) for two, incl. two wine pairings, a US$100 cocktail, menu add-ons, tip
 Worth it: YES, definitely
-Best moments: service attentive without being overbearing; every dish a flavor bomb; private room with a view of the kitchen; wine cellar tour
+Best moments: service attentive without being overbearing; every dish a flavor bomb; wine cellar tour first, then a private room with a view of the kitchen (order confirmed 2026-11-22)
 Letdowns: none
 Footage: wine cellar, room, food, menu
 Accolades (verified): 3 Michelin stars (3rd in 2025, among LA's first); James Beard Outstanding Hospitality 2026; chef Michael Cimarusti James Beard Best Chef: West 2019

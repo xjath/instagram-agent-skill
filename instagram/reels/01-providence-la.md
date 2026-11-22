@@ -6,7 +6,7 @@ pastes the caption and posts it themselves. Saved 2026-11-20 as given.
 ## The three points (in the script)
 - Food: "Every single dish was a flavor bomb, I'm not even kidding."
 - Service: "There's a reason they won a James Beard award for hospitality. Always there, but never hovering."
-- Experience: the private room looking into the kitchen; the wine cellar tour.
+- Experience: the wine cellar tour first, then the private room looking into the kitchen.
 
 ## Facts
 - Restaurant: Providence, Los Angeles. Seafood-focused tasting menu, chef Michael Cimarusti.
@@ -32,18 +32,19 @@ pastes the caption and posts it themselves. Saved 2026-11-20 as given.
 
 ## Rewrite option (version 2, DRAFT, 2026-11-22)
 Written after the user asked for better scripts. Not replacing the locked
-version unless the user says so. ~44.7s, 16 beats; hook 100.0 STRONG
-(was 63.2 when re-scored); humanizer 92.8 PASS (was 75.4); loops on "get
+version unless the user says so. ~45.1s, 16 beats; hook 100.0 STRONG
+(was 63.2 when re-scored); humanizer 88.2 PASS (was 75.4); loops on "get
 what" (the locked version doesn't loop). Hook technique: 3 benefits + 2
 curiosity. Same facts as the locked version; "Not one miss" = letdowns: none.
 Food line changed by the user: "every dish hit" (pairs with "Not one miss").
+Order fixed by the user: wine cellar first, then the private room.
 
 ```
 $2,400 for dinner for two. Here's what you actually get.
 Okay so, Providence, LA.
 It's one of the first LA spots ever to get three Michelin stars.
-And it starts before the food even lands, cuz they've got us in a private room looking straight into the kitchen.
-Then they take us down to the wine cellar.
+And it starts before the food even lands, cuz they take us down to the wine cellar first.
+Then they've got us in a private room looking straight into the kitchen.
 The service?
 They just won the James Beard award for hospitality, and you can feel it.
 Always there, never hovering.
