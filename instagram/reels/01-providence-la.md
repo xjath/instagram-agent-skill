@@ -1,6 +1,6 @@
 # Reel #1: Providence, Los Angeles
 
-Status: script re-locked 2026-11-22 (version 2 replaces the 2026-11-19 script); caption locked 2026-11-19. Not posted from here: the user
+Status: script re-locked 2026-11-22 (version 2 replaces the 2026-11-19 script); caption version 2 drafted 2026-11-22 (version 1 had the cellar order wrong). Not posted from here: the user
 pastes the caption and posts it themselves. Saved 2026-11-20 as given.
 
 ## Facts
@@ -112,21 +112,28 @@ Cover: $2,400 FOR TWO. WORTH IT?
 
 Check what's on screen matches what's said (see workflow.md, step 3).
 
-## Final caption
-Caption linter READY; humanizer 72.7 PASS; 900/2200 chars; first line 115 chars, shows in full; one ask = follow; 4 hashtags below the fold.
+## Final caption (version 2, DRAFT 2026-11-22, matches script version 2)
+Caption linter READY; humanizer 82.0 PASS; 1010/2200 chars; first line 122
+chars, shows in full; one ask = follow; 4 hashtags below the fold.
+Fixes the order (version 1 said the cellar tour was "after dinner"; the user
+says it came first), adds the Dom Pérignon magnum and the surprise room, and
+uses "every dish hit". "Set the tone for the whole night" from version 1 was
+dropped.
 
 ```
 We did the $495 chef's tasting menu. Our bill was around $2,400 for two. Breakdown below, and follow for the next verdict.
 
 Providence LA has three Michelin stars, and it was one of the first restaurants in Los Angeles to ever get three.
 
-They gave us a private room looking right into the kitchen, which honestly set the tone for the whole night.
+The night started in the wine cellar, where they had a magnum of Dom Pérignon engraved with three stars to celebrate the new one.
+
+Then they surprised us with a private room looking right into the kitchen.
 
 The service is why they just won the James Beard award for hospitality. Always there, never hovering. Chef Michael Cimarusti also won Best Chef: West back in 2019.
 
-Every course on the tasting menu was a flavor bomb, and after dinner they took us down for a wine cellar tour.
+The food? Every dish hit. Not one miss.
 
-The bill? Two wine pairings, a $100 cocktail, a few add-ons and tip. It came to about $3,400 CAD, so roughly $2,400 USD.
+The bill? Menus start at $375 a person. We went for the $495 chef's tasting menu, plus two wine pairings, a $100 cocktail, a few add-ons and tip. It came to about $3,400 CAD, so roughly $2,400 USD.
 
 Worth it? Definitely. If you're doing one big fine dining night in Los Angeles, I'd put this on the list.
 
