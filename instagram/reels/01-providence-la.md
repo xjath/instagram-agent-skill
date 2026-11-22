@@ -30,6 +30,30 @@ pastes the caption and posts it themselves. Saved 2026-11-20 as given.
   - timeout.com/los-angeles/news/here-are-the-l-a-winners-of-the-2019-james-beard-awards-050619
   - guide.michelin.com/us/en/article/michelin-guide-ceremony/guide-michelin-california
 
+## Hook change in progress (DRAFT, 2026-11-22)
+The user wants the hook to be about three Michelin stars, and suggested "The
+best three-star Michelin meal I've had" (43.4 WEAK as written). Version
+below adds the price for stakes: hook 84.4 STRONG; humanizer 82.1 PASS;
+~45.8s; loops on "meal". Not locked: waiting for the user.
+Note: calling Providence "the best" in reel #1 gives away the result of the
+#20 Providence vs. Le Cinq head-to-head.
+
+```
+The best three Michelin star meal I've ever had cost $2,400.
+Providence, LA.
+One of the first LA spots ever to get all three.
+First, they take us down to the wine cellar, where a bottle of Dom has three stars on it, celebrating the new star.
+Then they surprised us with a private room looking straight into the kitchen.
+They just won the James Beard award for hospitality, and you can really feel the care they put into their patrons.
+And the food? Every dish hit.
+Not one miss.
+Bill? $495 a person for the chef's tasting menu, then two wine pairings, a $100 cocktail, add-ons and tip.
+Was it worth it?
+Yeah, definitely.
+Follow me,
+cuz not every meal is worth what you pay.
+```
+
 ## Final script (version 2, LOCKED 2026-11-22)
 ~45.8s at 165 wpm, 16 beats; hook 100.0 STRONG; humanizer 79.0 PASS; loops on
 "get what". Hook technique: 3 benefits + 2 curiosity.
