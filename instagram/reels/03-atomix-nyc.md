@@ -29,6 +29,9 @@ removed; key words in red ($1,600, sky high, THIS); "Worth it? NO" card in red
 over the last shots. Covers food, service and experience.
 
 Still open (2026-11-22):
+- FIX BEFORE POSTING: the opening shot (0:00-0:01, Dom Pérignon Vintage 2017
+  on a stone counter) is NOT from Atomix (user, 2026-11-22). Replace it with
+  real Atomix footage, e.g. the outside sign, the plaque wall, or a dish.
 - 0:06-0:08: "world's 50 best list" is still said over the NORTH AMERICA'S 50
   BEST RESTAURANTS 2025 trophy.
 - Captions still sit at about 73-82% of the frame height (safe line is 75%).
