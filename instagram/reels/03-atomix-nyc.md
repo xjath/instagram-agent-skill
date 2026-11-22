@@ -1,7 +1,42 @@
 # Reel #3: Atomix, New York
 
-Status: DRAFT, waiting for the user's approval (written 2026-11-20). Caption
-not written yet.
+Status: VIDEO MADE by the user (reviewed 2026-11-22 from a 720p export).
+Caption not written yet. See "As made" below for what the video actually says.
+
+## As made (from the video's burned-in captions, reviewed 2026-11-22)
+
+Read from the captions at 3 frames a second; the audio itself was not heard.
+~42.7s of content, then a CapCut end card to ~45.4s.
+
+```
+I paid $1,600 for two people for two stars, and I wouldn't return.
+This is Atomix, New York, the only US spot on the World's fifty best list.
+When you walk in, you get to see all their awards, such as their Michelin plaques and trophies,
+and my expectations from seeing this are sky-high.
+When you walk into a restaurant with this much hype behind it,
+you're kind of excited for how memorable this meal is gonna be.
+But the truth is, the Korean food felt kind of Americanized.
+They had a lot of fancy ingredients, such as king crab, caviar, and truffle, but it felt flat.
+Nothing really stuck with me.
+Now, don't get me wrong, the food was good,
+but there was no dish that really stood out to make it memorable.
+Was it worth it? In my opinion, not really.
+But follow me, because the next one just might be
+```
+
+New facts from the user in the video: king crab, caviar and truffle among the
+ingredients. Verdict wording: "not really". No service line in the video.
+
+Review notes (2026-11-22):
+- 0:06-0:09: the voiceover says "World's fifty best list" over a trophy that
+  reads "NORTH AMERICA'S 50 BEST RESTAURANTS 2025" (base text appears to say
+  "... in USA Northeast"). Different list from the one in the voiceover.
+- Captions sit at about 74-81% of the frame height, partly below the 75% line
+  where Instagram's caption and buttons cover the video.
+- The last caption is "one just might be", then the video cuts.
+- A CapCut end card runs from ~0:43 to the end.
+- Captions are white on black; the voice rules call for the key word in red.
+- Michelin plaques for 2022, 2023, 2024 and 2025 are visible at 0:10-0:13.
 
 ## Facts used
 - Atomix, New York. Korean tasting menu. Visited July 2026, dinner for two.
