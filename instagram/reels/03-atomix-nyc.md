@@ -32,7 +32,8 @@ Still open (2026-11-22):
 - 0:06-0:08: "world's 50 best list" is still said over the NORTH AMERICA'S 50
   BEST RESTAURANTS 2025 trophy.
 - Captions still sit at about 73-82% of the frame height (safe line is 75%).
-- The script still ends "the next one just might be." (an open ending).
+- Ending "the next one just might be." is open ON PURPOSE (user, 2026-11-22):
+  it invites people to follow to keep up with the adventures.
 - The opening caption may read "for two, for two stars"; check the wording.
 
 ## As made (from the video's burned-in captions, reviewed 2026-11-22)

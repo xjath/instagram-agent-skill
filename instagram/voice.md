@@ -82,3 +82,8 @@ Hooks so far (all "I paid $X... worth it?" pattern):
 Not used yet: 3, 4, 5, 7. Vary the pattern so the series doesn't feel
 predictable (Claude's judgment; check against Insights).
 
+## Sign-off
+The user may end on an open line on purpose, e.g. "But follow me, because the
+next one just might be." It invites people to follow to keep up with the
+adventures. Don't "fix" an open ending.
+
