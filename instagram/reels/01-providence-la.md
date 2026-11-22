@@ -11,7 +11,8 @@ pastes the caption and posts it themselves. Saved 2026-11-20 as given.
 ## Facts
 - Restaurant: Providence, Los Angeles. Seafood-focused tasting menu, chef Michael Cimarusti.
 - Visited: January 2026, dinner for two.
-- Menu starts at US$375 per person.
+- Menu starts at US$395 per person; the menu they had was US$495 per person
+  (corrected by the user 2026-11-22; earlier versions said US$375).
 - Bill: about CA$3,400 total = roughly US$2,400 for two (CAD to USD at 0.699, 2026-11-18). Includes two wine pairings, a US$100 cocktail, menu add-ons, tax and tip.
 - Verdict: WORTH IT, definitely.
 - Moments: service attentive all night without hovering or being overbearing; every dish a "flavor bomb"; they gave us a private room with a view right into the kitchen; took us on a wine cellar tour.
@@ -31,8 +32,8 @@ pastes the caption and posts it themselves. Saved 2026-11-20 as given.
 
 ## Rewrite option (version 2, DRAFT, 2026-11-22)
 Written after the user asked for better scripts. Not replacing the locked
-version unless the user says so. ~45.1s, 16 beats; hook 100.0 STRONG
-(was 63.2 when re-scored); humanizer 88.4 PASS (was 75.4); loops on "get
+version unless the user says so. ~45.5s, 16 beats; hook 100.0 STRONG
+(was 63.2 when re-scored); humanizer 88.9 PASS (was 75.4); loops on "get
 what" (the locked version doesn't loop). Hook technique: 3 benefits + 2
 curiosity. Same facts as the locked version; "Not one miss" = letdowns: none.
 
@@ -47,7 +48,7 @@ They just won the James Beard award for hospitality, and you can feel it.
 Always there, never hovering.
 And the food, honestly, every single dish was a flavor bomb.
 Not one miss.
-Bill? $375 a person to start, then two wine pairings, a $100 cocktail, add-ons and tip.
+Bill? $495 a person for the menu, then two wine pairings, a $100 cocktail, add-ons and tip.
 $2,400 for two.
 Worth it?
 Definitely.
@@ -59,7 +60,7 @@ cuz you don't always get what you pay for.
 Locked 2026-11-19; ~41.5s at 165 wpm, 18 beats; humanizer 75.4 PASS; hook score 78.7 STRONG.
 
 ```
-Is a $375 tasting menu actually worth it?
+Is a $495 tasting menu actually worth it?
 Okay so, Providence, LA.
 One of the first LA restaurants ever with three Michelin stars.
 They gave us a private room looking right into the kitchen.
@@ -82,11 +83,11 @@ cuz the next one might not be worth it.
 Delivery notes: short pause after "Was it worth it?" before "Definitely." Read the last two lines as one sentence. The ending repeats "worth it" from the hook so the reel loops. If it runs long, cut "Not bad, right?" first.
 
 ## On-screen cards and shots
-Cover: $375 TASTING MENU. WORTH IT?
+Cover: $495 TASTING MENU. WORTH IT?
 
 | Time | Card | Shot |
 |---|---|---|
-| ~0:00 | "$375 MENU. WORTH IT?" | over the menu |
+| ~0:00 | "$495 MENU. WORTH IT?" | over the menu |
 | ~0:03 | "PROVIDENCE, LA" | over the room |
 | ~0:04 | "★★★ MICHELIN" | over the room or menu |
 | ~0:08 | "PRIVATE ROOM" | kitchen view |
@@ -100,7 +101,7 @@ Cover: $375 TASTING MENU. WORTH IT?
 Caption linter READY; humanizer 72.7 PASS; 900/2200 chars; first line 115 chars, shows in full; one ask = follow; 4 hashtags below the fold.
 
 ```
-Menu starts at $375 a person. Our bill was around $2,400 for two. Breakdown below, and follow for the next verdict.
+Our menu was $495 a person. Our bill was around $2,400 for two. Breakdown below, and follow for the next verdict.
 
 Providence LA has three Michelin stars, and it was one of the first restaurants in Los Angeles to ever get three.
 

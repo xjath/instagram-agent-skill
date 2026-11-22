@@ -41,7 +41,7 @@ None for now. Add the WhatsApp community link once it opens to the public.
 Profile grid thumbnails show as 3:4, centre-cropped (secondary sources:
 kapwing.com, engadget.com, usa.inquirer.net). Keep cover text in the centre;
 thumbnails can be adjusted by hand. Same format every time:
-`[PRICE] [THING]. WORTH IT?` (e.g. `$375 TASTING MENU. WORTH IT?`), same font
+`[PRICE] [THING]. WORTH IT?` (e.g. `$495 TASTING MENU. WORTH IT?`), same font
 and position.
 
 ## Photo, handle, account type
