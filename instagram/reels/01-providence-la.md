@@ -32,10 +32,11 @@ pastes the caption and posts it themselves. Saved 2026-11-20 as given.
 
 ## Rewrite option (version 2, DRAFT, 2026-11-22)
 Written after the user asked for better scripts. Not replacing the locked
-version unless the user says so. ~46.2s, 16 beats; hook 100.0 STRONG
-(was 63.2 when re-scored); humanizer 90.3 PASS (was 75.4); loops on "get
+version unless the user says so. ~44.7s, 16 beats; hook 100.0 STRONG
+(was 63.2 when re-scored); humanizer 92.8 PASS (was 75.4); loops on "get
 what" (the locked version doesn't loop). Hook technique: 3 benefits + 2
 curiosity. Same facts as the locked version; "Not one miss" = letdowns: none.
+Food line changed by the user: "every dish hit" (pairs with "Not one miss").
 
 ```
 $2,400 for dinner for two. Here's what you actually get.
@@ -46,7 +47,7 @@ Then they take us down to the wine cellar.
 The service?
 They just won the James Beard award for hospitality, and you can feel it.
 Always there, never hovering.
-And the food, honestly, every single dish was a flavor bomb.
+And the food, honestly, every dish hit.
 Not one miss.
 Bill? $495 a person for the chef's tasting menu, then two wine pairings, a $100 cocktail, add-ons and tip.
 $2,400 for two.
