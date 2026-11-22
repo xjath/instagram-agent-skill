@@ -29,6 +29,32 @@ pastes the caption and posts it themselves. Saved 2026-11-20 as given.
   - timeout.com/los-angeles/news/here-are-the-l-a-winners-of-the-2019-james-beard-awards-050619
   - guide.michelin.com/us/en/article/michelin-guide-ceremony/guide-michelin-california
 
+## Rewrite option (version 2, DRAFT, 2026-11-22)
+Written after the user asked for better scripts. Not replacing the locked
+version unless the user says so. ~45.1s, 16 beats; hook 100.0 STRONG
+(was 63.2 when re-scored); humanizer 88.4 PASS (was 75.4); loops on "get
+what" (the locked version doesn't loop). Hook technique: 3 benefits + 2
+curiosity. Same facts as the locked version; "Not one miss" = letdowns: none.
+
+```
+$2,400 for dinner for two. Here's what you actually get.
+Okay so, Providence, LA.
+It's one of the first LA spots ever to get three Michelin stars.
+And it starts before the food even lands, cuz they've got us in a private room looking straight into the kitchen.
+Then they take us down to the wine cellar.
+The service?
+They just won the James Beard award for hospitality, and you can feel it.
+Always there, never hovering.
+And the food, honestly, every single dish was a flavor bomb.
+Not one miss.
+Bill? $375 a person to start, then two wine pairings, a $100 cocktail, add-ons and tip.
+$2,400 for two.
+Worth it?
+Definitely.
+Follow me,
+cuz you don't always get what you pay for.
+```
+
 ## Final script
 Locked 2026-11-19; ~41.5s at 165 wpm, 18 beats; humanizer 75.4 PASS; hook score 78.7 STRONG.
 

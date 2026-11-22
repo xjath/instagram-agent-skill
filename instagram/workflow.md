@@ -19,6 +19,17 @@ happen on your phone or computer.
 - [ ] Open sign-off is fine ("...the next one just might be").
 - [ ] Saved to `reels/NN-place.md` and committed.
 
+### What makes a script better (learned 2026-11-22)
+- Lead with the payoff number and a promise ("$2,400 for dinner for two.
+  Here's what you actually get.") rather than the same "I paid $X... worth
+  it?" every time. Rotate the hook techniques.
+- Contractions and "I / you / we" (the humanizer's biggest factor).
+- Each talking point gets a reaction, not a label ("and you can feel it",
+  "not one miss").
+- End on a line that repeats a word from the hook, so the reel loops.
+- Cut lines that repeat the verdict ("the entire experience was amazing").
+- Keep each line under ~4s, or plan a shot change inside it.
+
 ## 3. Shot list (Claude)
 - [ ] One shot per line from the footage you have; a new shot every 1-2s.
 - [ ] Whatever is ON SCREEN matches what is SAID (Atomix lesson: don't say
