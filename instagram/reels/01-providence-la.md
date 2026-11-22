@@ -1,6 +1,6 @@
 # Reel #1: Providence, Los Angeles
 
-Status: script and caption locked 2026-11-19. Not posted from here: the user
+Status: script re-locked 2026-11-22 (version 2 replaces the 2026-11-19 script); caption locked 2026-11-19. Not posted from here: the user
 pastes the caption and posts it themselves. Saved 2026-11-20 as given.
 
 ## The three points (in the script)
@@ -32,25 +32,24 @@ pastes the caption and posts it themselves. Saved 2026-11-20 as given.
   - timeout.com/los-angeles/news/here-are-the-l-a-winners-of-the-2019-james-beard-awards-050619
   - guide.michelin.com/us/en/article/michelin-guide-ceremony/guide-michelin-california
 
-## Rewrite option (version 2, DRAFT, 2026-11-22)
-Written after the user asked for better scripts. Not replacing the locked
-version unless the user says so. ~44.7s, 15 beats; hook 100.0 STRONG
-(was 63.2 when re-scored); humanizer 90.5 PASS (was 75.4); loops on "get
-what" (the locked version doesn't loop). Hook technique: 3 benefits + 2
-curiosity. Same facts as the locked version; "Not one miss" = letdowns: none.
-Food line changed by the user: "every dish hit" (pairs with "Not one miss").
-Order fixed by the user: wine cellar first, then the private room.
-Added (user, 2026-11-22): a bottle of Dom Pérignon with three Michelin stars
-on it, to celebrate the newly awarded third star. To fit under 45s: cellar
-and room lines shortened; "Not one miss." cut.
-The Dom Pérignon was in the wine cellar (user, 2026-11-22), so it sits in the cellar line.
-The private room was a surprise (user, 2026-11-22).
+## Final script (version 2, LOCKED 2026-11-22)
+~44.7s at 165 wpm, 16 beats; hook 100.0 STRONG; humanizer 84.8 PASS; loops on
+"get what". Hook technique: 3 benefits + 2 curiosity.
+Built from the user's edits on 2026-11-22: $495 chef's tasting menu (menus
+start at $375); wine cellar first, with the three-star Dom Pérignon; then the
+surprise private room; "every dish hit".
+
+The three points:
+- Experience: wine cellar with the three-star Dom Pérignon; surprise private
+  room looking into the kitchen.
+- Service: James Beard hospitality award; always there, never hovering.
+- Food: every dish hit.
 
 ```
 $2,400 for dinner for two. Here's what you actually get.
-Okay so, Providence, LA.
+Providence, LA.
 One of the first LA spots ever to get three Michelin stars.
-First, they take us down to the wine cellar, and there's a Dom Pérignon with three stars on it, celebrating the new star.
+First, they take us down to the wine cellar, where a Dom Pérignon has three stars on it, celebrating the new star.
 Then they surprised us with a private room looking straight into the kitchen.
 The service?
 They just won the James Beard award for hospitality, and you can feel it.
@@ -64,7 +63,13 @@ Follow me,
 cuz you don't always get what you pay for.
 ```
 
-## Final script
+Delivery notes: short pause after "Worth it?" before "Definitely." Read the
+last two lines as one sentence. Drop "just" from "they just won" if it posts
+in 2027 (award was June 2026). Long lines need a shot change inside them:
+the cellar line (~8.4s): cellar, then the Dom Pérignon; the James Beard line
+(~5.1s); the bill line (~6.5s): menu, then wine pairings.
+
+## Previous script (version 1, locked 2026-11-19, replaced 2026-11-22)
 Locked 2026-11-19; ~41.5s at 165 wpm, 18 beats; humanizer 75.4 PASS; hook score 78.7 STRONG.
 
 ```
@@ -90,20 +95,24 @@ cuz the next one might not be worth it.
 
 Delivery notes: short pause after "Was it worth it?" before "Definitely." Read the last two lines as one sentence. The ending repeats "worth it" from the hook so the reel loops. If it runs long, cut "Not bad, right?" first.
 
-## On-screen cards and shots
-Cover: $495 TASTING MENU. WORTH IT?
+## On-screen cards and shots (for version 2)
+Cover: $2,400 FOR TWO. WORTH IT?
 
 | Time | Card | Shot |
 |---|---|---|
-| ~0:00 | "$495 MENU. WORTH IT?" | over the menu |
-| ~0:03 | "PROVIDENCE, LA" | over the room |
-| ~0:04 | "★★★ MICHELIN" | over the room or menu |
-| ~0:08 | "PRIVATE ROOM" | kitchen view |
-| ~0:14 | "JAMES BEARD AWARD" | service footage |
-| ~0:20 | (no card) | a new dish every second or so |
-| ~0:26 | "WINE CELLAR" | cellar |
-| ~0:31 | "~$2,400 FOR TWO" | |
-| ~0:35 | "DEFINITELY" in red | on the word, after the pause |
+| ~0:00 | "$2,400 DINNER FOR TWO" | wine cellar, moving (motion in frame 1) |
+| ~0:04 | "PROVIDENCE, LA" | the room |
+| ~0:04 | "★★★ MICHELIN" | the menu or the room |
+| ~0:09 | "WINE CELLAR" | cellar |
+| ~0:12 | "3-STAR DOM PÉRIGNON" | the bottle in the cellar (footage to confirm) |
+| ~0:17 | "SURPRISE PRIVATE ROOM" | room, kitchen view |
+| ~0:23 | "JAMES BEARD AWARD" | service footage |
+| ~0:29 | "EVERY DISH HIT" | a new dish every second or so |
+| ~0:32 | "$495 CHEF'S TASTING MENU" | the menu |
+| ~0:38 | "~$2,400 FOR TWO" | food or table |
+| ~0:40 | "DEFINITELY" in red | on the word, after the pause |
+
+Check what's on screen matches what's said (see workflow.md, step 3).
 
 ## Final caption
 Caption linter READY; humanizer 72.7 PASS; 900/2200 chars; first line 115 chars, shows in full; one ask = follow; 4 hashtags below the fold.
