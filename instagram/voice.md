@@ -59,3 +59,26 @@ VERDICT: worth it? Price per night is weighed here.
 
 Gaps in the notes as of 2026-11-20 (ask the user when writing each script):
 Amanyangyun service; Bulgari Hotel Shanghai amenities; Josun Palace service.
+
+## Hook techniques (from an Instagram creator course the user took; saved 2026-11-22)
+
+A checklist, not tested research. Every script notes which technique(s) its
+hook uses. A strong hook lands in the first 1-3 seconds by creating
+curiosity, showing value or triggering an emotion.
+
+1. Establish authority: personal experience, achievements, media, research, experts.
+2. Spark curiosity: intrigue that makes people watch to find the answer.
+3. Highlight the benefits: what viewers will gain or learn.
+4. Create relatability: familiar situations or experiences viewers share.
+5. Before & after: a visible transformation or difference.
+6. Challenge common beliefs: go against conventional wisdom.
+7. Emphasize loss / FOMO: what viewers might miss out on.
+
+Hooks so far (all "I paid $X... worth it?" pattern):
+- #1 Providence: 2 curiosity.
+- #2 Bulgari Tokyo: 1 authority + 2 curiosity.
+- #3 Atomix: 1 authority + 6 challenge beliefs.
+- #4 Banbo: 1 authority + 2 curiosity.
+Not used yet: 3, 4, 5, 7. Vary the pattern so the series doesn't feel
+predictable (Claude's judgment; check against Insights).
+

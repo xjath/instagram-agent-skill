@@ -52,6 +52,14 @@ unchanged. Bulgari Hotel Shanghai still posts before the head-to-head.
 | 21 | Every Key hotel, ranked | Ranking |
 | 22 | Every Michelin restaurant, ranked | Finale |
 
+Suggested hook techniques (numbers from the list in voice.md; based only on
+the user's own notes, to confirm when each script is written):
+- #7 Pujol: 6 challenge beliefs (user: "a lot of simple food in Mexico was much better").
+- #9 Le Cinq: 4 relatability (special occasion; flowers arranged for the user's girlfriend).
+- #11 Mizue: 5 before & after (0 stars at the visit, 2 stars about a month later).
+- #6, #13, #18 Toronto: 7 FOMO, once the concierge community is live.
+- #15 and #20 head-to-heads: 3 benefits (which one to book).
+
 Notes on this order:
 - Local Toronto restaurants will be added into this same series, not a
   separate one (user, 2026-11-20). They lean heavily Michelin. Most of the
