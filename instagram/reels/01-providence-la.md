@@ -18,6 +18,8 @@ pastes the caption and posts it themselves. Saved 2026-11-20 as given.
 - Moments: service attentive all night without hovering or being overbearing; every dish a "flavor bomb"; they gave us a private room with a view right into the kitchen; took us on a wine cellar tour.
 - Letdowns: none.
 - Footage: wine cellar, the room, the food, the menu.
+- Also seen (user, 2026-11-22): a Dom Pérignon bottle with three Michelin stars
+  on it, to celebrate the third star. Footage of it: to confirm.
 
 ## Verified accolades (checked 2026-11-19)
 - 3 Michelin stars. Third star awarded 2025 (its 20th anniversary); Providence and Somni were the first LA restaurants ever to get three. Still 3 stars in the June 24, 2026 Michelin Guide California.
@@ -32,24 +34,26 @@ pastes the caption and posts it themselves. Saved 2026-11-20 as given.
 
 ## Rewrite option (version 2, DRAFT, 2026-11-22)
 Written after the user asked for better scripts. Not replacing the locked
-version unless the user says so. ~45.1s, 16 beats; hook 100.0 STRONG
-(was 63.2 when re-scored); humanizer 88.2 PASS (was 75.4); loops on "get
+version unless the user says so. ~44.4s, 15 beats; hook 100.0 STRONG
+(was 63.2 when re-scored); humanizer 91.7 PASS (was 75.4); loops on "get
 what" (the locked version doesn't loop). Hook technique: 3 benefits + 2
 curiosity. Same facts as the locked version; "Not one miss" = letdowns: none.
 Food line changed by the user: "every dish hit" (pairs with "Not one miss").
 Order fixed by the user: wine cellar first, then the private room.
+Added (user, 2026-11-22): a bottle of Dom Pérignon with three Michelin stars
+on it, to celebrate the newly awarded third star. To fit under 45s: cellar
+and room lines shortened; "Not one miss." cut.
 
 ```
 $2,400 for dinner for two. Here's what you actually get.
 Okay so, Providence, LA.
-It's one of the first LA spots ever to get three Michelin stars.
-And it starts before the food even lands, cuz they take us down to the wine cellar first.
-Then they've got us in a private room looking straight into the kitchen.
+One of the first LA spots ever to get three Michelin stars, and they've got a Dom Pérignon with three stars on it to celebrate.
+First, they take us down to the wine cellar.
+Then it's a private room looking straight into the kitchen.
 The service?
 They just won the James Beard award for hospitality, and you can feel it.
 Always there, never hovering.
 And the food, honestly, every dish hit.
-Not one miss.
 Bill? $495 a person for the chef's tasting menu, then two wine pairings, a $100 cocktail, add-ons and tip.
 $2,400 for two.
 Worth it?
