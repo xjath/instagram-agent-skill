@@ -61,6 +61,8 @@ millions of dollars of Baccarat crystal." Source: Forbes Travel Guide
 Verdict question (user, 2026-11-23): "Was the money spent worth it?" (nightly
 rate removed).
 Verdict (user, 2026-11-23): "Definitely. I'm convinced that hotels matter now."
+Swapped (user, 2026-11-23): the "Mirrors, built-in TVs..." line now comes
+before the closet and bathroom line.
 
 ```
 I spent $12,000 at a one Michelin Key hotel.
@@ -69,8 +71,8 @@ This is Baccarat Hotel New York.
 The whole place is filled with millions of dollars of Baccarat crystal.
 And the first thing that hits you is the space.
 This is what dreams are made of.
-There's a full mirror walk-in closet before going into the marble bathroom, with double sinks and a very spacious shower.
 Mirrors, built-in TVs, Baccarat glasses, Evian, all of it.
+There's a full mirror walk-in closet before going into the marble bathroom, with double sinks and a very spacious shower.
 Everything just feels grand.
 The one catch? There's literally no view, but the inside more than makes up for it.
 And the service? They gave us a complimentary upgrade at check-in, and the doorman was so easy to talk to.
