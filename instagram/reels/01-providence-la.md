@@ -61,11 +61,12 @@ The three points:
 the user's pace (229 wpm); humanizer 74.6 REVIEW (was 75.7 PASS). Re-record line 2.
 Prices switched to CAD (user, 2026-11-23). $3,400 is the actual CAD bill.
 City added to the hook (user, 2026-11-23).
+"one of the first in LA" became "one of the first in the city" so LA isn't said twice.
 
 ```
 I spent $3,400 at a three Michelin star restaurant in LA.
 Come check it out with me.
-This is Providence, one of the first in LA to ever get three stars, and they know how to treat their guests like royalty.
+This is Providence, one of the first in the city to ever get three stars, and they know how to treat their guests like royalty.
 Like, when we check in, they invite us down to their wine cellar, which is amazing, and they even have a custom bottle of Dom with three stars on it, celebrating the milestone.
 And they're not done.
 They surprise us with the best room in the house, a private room with a view of the kitchen, so we're watching the chefs cook right in front of us.
