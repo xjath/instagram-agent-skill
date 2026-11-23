@@ -52,6 +52,7 @@ Maybach line cut to "And they've got complimentary Maybach rides." (user,
 Service added (user, 2026-11-23): free upgrade at check-in; the doorman was
 pleasant to talk to; the Maybach driver went beyond the usual boundaries.
 ~40.4s at the user's pace; humanizer 83.5 PASS.
+"They gave us a complimentary upgrade at check-in" (user, 2026-11-23).
 
 ```
 I spent $12,000 at a one Michelin Key hotel.
@@ -64,7 +65,7 @@ There's a full mirror walk-in closet before going into the marble bathroom, with
 Mirrors, built-in TVs, Baccarat glasses, Evian, all of it.
 Everything just feels grand.
 The one catch? There's literally no view, but the inside more than makes up for it.
-And the service? They upgraded us for free at check-in, and the doorman was so easy to talk to.
+And the service? They gave us a complimentary upgrade at check-in, and the doorman was so easy to talk to.
 And they've got complimentary Maybach rides, our driver even took us past the usual limit.
 So, $2,400 a night, worth it?
 Definitely.
