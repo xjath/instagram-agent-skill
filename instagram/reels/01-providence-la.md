@@ -12,7 +12,8 @@ pastes the caption and posts it themselves. Saved 2026-11-20 as given.
 - Verdict: WORTH IT, definitely.
 - Moments: service attentive all night without hovering or being overbearing; every dish a "flavor bomb"; they gave us a private room with a view right into the kitchen; took us on a wine cellar tour.
 - Letdowns: none.
-- Footage: wine cellar, the room, the food, the menu.
+- Footage: wine cellar, the room, the food, the menu. Confirmed 2026-11-23:
+  the king crab, the uni egg and the black bass each have footage.
 - Also seen (user, 2026-11-22/23): invited to the wine cellar at check-in; a custom Dom Pérignon bottle with
   three Michelin stars on it, to celebrate the third star. Photo confirmed
   (2026-11-22): a 1.5-litre (magnum) Dom Pérignon Vintage 2012, engraved
