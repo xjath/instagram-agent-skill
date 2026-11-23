@@ -3,6 +3,34 @@
 Status: VIDEO MADE by the user (reviewed 2026-11-22 from a 720p export).
 Caption not written yet. See "As made" below for what the video actually says.
 
+## Detail answers (user, 2026-11-23)
+- Service: attention to detail; water refills; an extra alcohol top-up.
+- Food: always likes golden eye snapper; the lobster dish was good too.
+- Expected more flavour, spice and fermentation.
+- Seating: all at a U-shaped counter.
+
+## Script on the framework (version 10, DRAFT, 2026-11-23)
+Redo at the user's request, to be re-recorded. ~57.8s; hook 80.8 STRONG;
+humanizer 80.8 PASS (voice 100); loops on "Michelin star". Follows the "no
+without burning bridges" rules: criticises the food, not people; credits the
+service, the snapper and the lobster. No "who it's for" line.
+
+```
+I spent $1,600 at a two Michelin star restaurant.
+This is Atomix, the only US spot on the World's 50 Best, so my expectations are sky-high.
+You walk in past all their Michelin plaques and awards, and it's all counter seating in this U shape.
+And the service lives up to it.
+Water's always topped up, they even top up your drink, they notice every little detail.
+So by the time the food comes out, I'm expecting a meal I'll remember for life.
+And that's where it falls flat.
+Don't get me wrong, the golden eye snapper and the lobster were good.
+But it all felt kind of Americanized, fancy stuff like king crab, caviar and truffle, without the flavor, the spice, or the fermentation I was hoping for.
+Nothing really stuck with me.
+So, worth it?
+Not really.
+I give you the real experience behind every Michelin star and Key I visit, so follow for the next one.
+```
+
 ## As made, edit 2 (from the video's captions, reviewed 2026-11-22)
 
 Read from the typed-on captions at 2 frames a second; the audio was not heard.
