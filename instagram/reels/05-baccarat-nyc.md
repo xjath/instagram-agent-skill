@@ -68,11 +68,12 @@ Actual CAD total: CA$18,000 (user, 2026-11-23); replaces the converted $17,200.
 City added to the hook (user, 2026-11-23). "This is Baccarat Hotel New York" kept: it is the hotel's name.
 "This is Baccarat Hotel New York." became "This is Baccarat Hotel." (user,
 2026-11-23), since the hook already says New York.
+Now "This is the Baccarat Hotel." (user, 2026-11-23).
 
 ```
 I spent $18,000 at a one Michelin Key hotel in New York.
 Come check it out with me.
-This is Baccarat Hotel.
+This is the Baccarat Hotel.
 The whole place is filled with millions of dollars of Baccarat crystal.
 And the first thing that hits you is the space.
 This is what dreams are made of.
