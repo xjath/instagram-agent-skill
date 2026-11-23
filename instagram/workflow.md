@@ -15,7 +15,9 @@ happen on your phone or computer.
 - [ ] You answer the detail questions in `detail-questions.md` (the hard
       part made easy); Claude turns them into lines on the skeleton.
 - [ ] Hook: score it (`hookscore.py`), aim for STRONG and 8-10 words.
-- [ ] Time it (`beats.py`), aim for 30-45s.
+- [ ] Time it (`beats.py --wpm 229`), aim for 30-45s. The user's measured
+      pace is ~229 words a minute (Atomix edit 2: 163 words in 42.7s), not the
+      tool's default 165.
 - [ ] Flow check: every section has a lead-in (bank in `script-template.md`).
 - [ ] Humanizer (`/ig-human`), aim for PASS.
 - [ ] Facts in the script match the notes and the verified sources.

@@ -3,6 +3,29 @@
 Status: VIDEO MADE by the user (reviewed 2026-11-22 from a 720p export).
 Caption not written yet. See "As made" below for what the video actually says.
 
+## Script version 11 (DRAFT, 2026-11-23)
+Combined at the user's direction: the recorded edit's intro and experience,
+the new service lines, only the food letdown (no "what was good" line), the
+"It wasn't for me." verdict, standard hook and sign-off. 164 words; ~43s at
+the user's measured pace (229 wpm; ~59.6s at the tool's default 165);
+humanizer 94.0 PASS (voice 100); loops on "Michelin star".
+
+```
+I spent $1,600 at a two Michelin star restaurant.
+This is Atomix New York, the only US spot on the world's 50 best list.
+When you walk in, you get to see all of their awards, such as their Michelin plaques and trophies,
+and my expectations from seeing this are sky high.
+When you walk into a restaurant with THIS much hype behind it, you're kind of excited for how memorable this meal's gonna be.
+And the service lives up to it.
+Water's always topped up, they even top up the wine pairing, they notice every little detail.
+But the food? That's where it falls flat.
+It all felt kind of Americanized, fancy stuff like king crab, caviar and truffle, without the flavor, the spice, or the fermentation I was hoping for.
+Nothing really stuck with me.
+So, worth it?
+It wasn't for me.
+I give you the real experience behind every Michelin star and Key I visit, so follow for the next one.
+```
+
 ## Detail answers (user, 2026-11-23)
 - Service: attention to detail; water refills; an extra top-up of wine during
   the wine pairing.
