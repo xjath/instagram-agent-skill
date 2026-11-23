@@ -17,7 +17,8 @@ Status: DRAFT on the framework (2026-11-23). Caption not written yet.
 ## Detail answers (user, 2026-11-23)
 - First impression of the Prestige Suite: how spacious it was, especially for
   New York where hotel rooms are tiny; didn't expect it at all.
-- Bathrooms: marble; a walk-in closet before the bathroom, so it felt like a
+- Bathrooms: marble; a full-mirror walk-in closet before the bathroom; double
+  sinks; so it felt like a
   home; spacious showers; lots of lighting.
 - Baccarat: the same Baccarat as the crystal brand; the crystal is the hotel's
   signature.
@@ -39,15 +40,18 @@ line: gap in the three points.
 Edits (user, 2026-11-23): booking/upgrade story cut ("I stayed in the
 Prestige Suite."); "I did not expect this" became "this hotel is what
 dreams are made of".
+Edits (user, 2026-11-23): crystal line cut; "This is what dreams are made
+of."; bathroom line in the user's words (full-mirror walk-in closet before the
+bathroom, double sinks, very spacious shower).
 
 ```
 I spent $12,000 at a one Michelin Key hotel.
 Come check it out with me.
-This is Baccarat Hotel New York, yes, as in the crystal, and it's the signature of the whole hotel.
+This is Baccarat Hotel New York.
 I stayed in the Prestige Suite.
 And the first thing that hits you is the space.
-In New York, where every hotel room is tiny, this hotel is what dreams are made of.
-The bathroom's all marble, with a walk-in closet before you even get to it, so it feels like a home, and the shower's huge.
+This is what dreams are made of.
+There's a full mirror walk-in closet before going into the bathroom, with double sinks and a very spacious shower.
 Mirrors, built-in TVs, Baccarat glasses, Evian, all of it.
 The one catch? There's literally no view, but the inside more than makes up for it.
 And they've got complimentary Maybach rides, technically only 15 blocks, but we got it all the way up to the Met.
