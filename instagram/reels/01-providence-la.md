@@ -59,7 +59,7 @@ good", "literally".
 ```
 I spent $2,400 at a three Michelin star restaurant.
 Okay, I need to tell you about this place.
-It's Providence, one of the first in LA to ever get three stars.
+This is Providence, one of the first in LA to ever get three stars.
 First, they take us down to the wine cellar, and there's a bottle of Dom with three stars on it, celebrating their new star.
 Then they surprise us with the best room in the house, a private room with a view of the kitchen.
 And the whole night, the staff make you feel at home.

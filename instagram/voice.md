@@ -149,4 +149,4 @@ just might be", stays as an option.)
 ## Flow (user, 2026-11-23)
 Every script flows with ease: each section leads into the next, like talking
 to your best friend. Lead-in bank and flow check: `script-template.md`.
-
+- Introduce the place with "This is [NAME]..." in every script, never "It's [NAME]".

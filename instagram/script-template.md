@@ -13,7 +13,7 @@ shot change inside it.
 Restaurant:
 ```
 I spent $[TOTAL] at [NAME].
-[CITY]. [PROOF LINE: stars, award or ranking].
+This is [NAME], [PROOF LINE: city, stars, award or ranking].
 [EXPERIENCE: first moment of the night], [your reaction].
 Then [second moment].
 The service? [one specific thing], [how it felt].
@@ -28,7 +28,7 @@ Follow for the next verdict.
 Hotel:
 ```
 I spent $[TOTAL STAY] at [NAME].
-[CITY], [N] nights in a [ROOM TYPE]. [upgrade, if any]
+This is [NAME], [CITY]. [N] nights in a [ROOM TYPE]. [upgrade, if any]
 [ROOM: the first thing you noticed], [your reaction].
 [THE VIEW], [reaction]. [letdown here if it's the room]
 The service? [one specific thing], [how it felt].
@@ -113,6 +113,8 @@ Flow check before a script is shown:
       ("Moving on to the cuisine...").
 
 ## Rules every section follows
+- The context line always starts "This is [NAME]..." (user, 2026-11-23),
+  never "It's [NAME]".
 - Tone (user, 2026-11-23): talk to the viewer like they're your best friend.
   "Okay, I need to tell you about this place", "you", "trust me",
   "I'm not kidding", "okay, but the...". Move through the night in order,
