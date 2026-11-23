@@ -184,4 +184,5 @@ All prices in every reel, card and caption are in CANADIAN dollars. Use the
 actual CAD amount paid where known; otherwise convert at the backlog's rates
 (CAD 0.699 USD; TWD 0.0303 USD) and round to the nearest $100 in hooks.
 Actual card charges may differ from these conversions.
-
+- Restaurant visits are for two people unless stated otherwise (user,
+  2026-11-23). Hook totals are for two.

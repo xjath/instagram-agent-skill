@@ -4,6 +4,13 @@ Saved from the user's notes on 2026-11-20. Source material for `/ig-reel`,
 `/ig-plan` and `/ig-carousel`: pull a restaurant or hotel from here as the idea.
 Kept exactly as given; facts not re-checked when saved.
 
+## Party size (user, 2026-11-23)
+Every restaurant visit was for TWO people unless stated otherwise (Banbo was
+four). Restaurant prices in this backlog are therefore for two unless marked
+"pp". Hooks use the total for two (the biggest true number).
+Totals still needed for the hook (only per-person prices noted): Kato
+(~US$300pp plus pairings, tax, tip), Alo (CA$245pp), Shoushin (~CA$600pp).
+
 ## Series status (from the user, 2026-11-20)
 
 - Bao Li Xuan: no plans for a reel.
