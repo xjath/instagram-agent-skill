@@ -28,12 +28,14 @@ Status: DRAFT on the framework (2026-11-23). Caption not written yet.
 ## The three points (hotel)
 - Room: the space; marble bathroom, walk-in closet, big shower; mirrors,
   built-in TVs, Baccarat glasses, Evian; letdown: no view.
-- Service: room service was really good (still a label).
+- Service: GAP (room service line cut by the user).
 - Amenities: complimentary Maybach rides (to the Met).
 
 ## Script (version 1, DRAFT, 2026-11-23)
 186 words; ~48.7s at the user's pace (229 wpm); hook 80.8 STRONG; humanizer
 80.6 PASS; loops on "Michelin Key".
+Room service line cut (user, 2026-11-23). The script now has no service
+line: gap in the three points.
 
 ```
 I spent $12,000 at a one Michelin Key hotel.
@@ -45,7 +47,6 @@ In New York, where every hotel room is tiny, I did not expect this.
 The bathroom's all marble, with a walk-in closet before you even get to it, so it feels like a home, and the shower's huge.
 Mirrors, built-in TVs, Baccarat glasses, Evian, all of it.
 The one catch? There's literally no view, but the inside more than makes up for it.
-Room service was really good too.
 And they've got complimentary Maybach rides, technically only 15 blocks, but we got it all the way up to the Met.
 So, $2,400 a night, worth it?
 Definitely.
