@@ -12,7 +12,7 @@ Status: DRAFT on the framework (2026-11-23). Caption not written yet.
 - Toronto reel: the user's concierge access is mostly in Toronto (see voice.md).
 
 ## Detail answers (user, 2026-11-23)
-- The user is a regular; Saito greets them on a first-name basis; "VVVIP"
+- The user is a regular (every couple of months, sometimes solo); Saito greets them on a first-name basis; "VVVIP"
   customer.
 - Horse mackerel is consistently one of the best courses, alongside the salmon
   and the tuna.
@@ -36,6 +36,8 @@ Shoushin (#18) is another Toronto sushi reel with a YES verdict, and the
 user has front-of-house relationships in Toronto.
 Kept as the user's opinion (2026-11-23): "Easily the best sushi in Toronto. By
 far." The user considered the Shoushin (#18) point and chose to keep it.
+Verdict (user, 2026-11-23): "Definitely. I come here every couple of months,
+even solo sometimes when I feel like it."
 
 ```
 I spent $2,600 at a one Michelin star restaurant.
@@ -48,6 +50,6 @@ Then the pieces.
 The horse mackerel is consistently one of the best things he makes, right up there with the salmon and the tuna.
 Easily the best sushi in Toronto. By far.
 Was the money spent worth it?
-Definitely.
+Definitely. I come here every couple of months, even solo sometimes when I feel like it.
 I give you the real experience behind every Michelin star and Key I visit, so follow for the next one.
 ```
