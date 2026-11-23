@@ -47,8 +47,8 @@ Hook back to "We spent $850..." (user, 2026-11-23; 80.8 STRONG).
 The river is a cauliflower purée (user, 2026-11-23).
 Verdict (user, 2026-11-23): "Was it worth it? If you love a great storytelling
 experience with food, then it definitely is."
-Verdict tweaked to "...then it's definitely worth it." for the humanizer
-(73.4 PASS; was 70.0 REVIEW). The who-it's-for verdict is a BANBO-SPECIFIC
+Verdict wording chosen by the user: "If you love a great storytelling
+experience with food? Then it definitely is." (71.3 PASS; was 70.0 REVIEW). The who-it's-for verdict is a BANBO-SPECIFIC
 choice (user, 2026-11-23); other reels don't say who to book for.
 
 ```
@@ -63,7 +63,7 @@ The food itself was cooked well, but honestly, it's the stories you remember.
 And the cocktails? So creative.
 The most memorable one came with a bubble, and the presentation was so unique.
 Was it worth it?
-If you love a great storytelling experience with food, then it's definitely worth it.
+If you love a great storytelling experience with food? Then it definitely is.
 I give you the real experience behind every Michelin star and Key I visit, so follow for the next one.
 ```
 
