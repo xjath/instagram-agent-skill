@@ -49,9 +49,10 @@ experience with food, then it definitely is."
 Verdict wording chosen by the user: "If you love a great storytelling
 experience with food? Then it definitely is." (71.3 PASS; was 70.0 REVIEW). The who-it's-for verdict is a BANBO-SPECIFIC
 choice (user, 2026-11-23); other reels don't say who to book for.
+Prices switched to CAD (user, 2026-11-23). NT$28,000 = ~US$848 = ~CA$1,214 (TWD 0.0303 USD, CAD 0.699 USD), rounded to $1,200.
 
 ```
-We spent $850 at a one Michelin star restaurant.
+We spent $1,200 at a one Michelin star restaurant.
 Come check it out with me.
 This is Banbo in Neihu, Taipei, and we came for the tasting menu with the cocktail pairing.
 And every dish here tells its own story about Taiwan.

@@ -14,9 +14,10 @@ the user's measured pace (229 wpm; ~59.6s at the tool's default 165);
 humanizer 94.0 PASS (voice 100); loops on "Michelin star".
 "Come check it out with me." added after the hook (user, 2026-11-23). ~44.5s at
 the user's pace; humanizer 93.0 PASS.
+Prices switched to CAD (user, 2026-11-23). US$927 food (~CA$1,326 at 0.699) + CA$954 wine = ~CA$2,280, rounded to $2,300.
 
 ```
-I spent $1,600 at a two Michelin star restaurant.
+I spent $2,300 at a two Michelin star restaurant.
 Come check it out with me.
 This is Atomix New York, the only US spot on the world's 50 best list.
 When you walk in, you get to see all of their awards, such as their Michelin plaques and trophies,

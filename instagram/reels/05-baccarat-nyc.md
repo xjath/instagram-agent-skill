@@ -63,9 +63,10 @@ rate removed).
 Verdict (user, 2026-11-23): "Definitely. I'm convinced that hotels matter now."
 Swapped (user, 2026-11-23): the "Mirrors, built-in TVs..." line now comes
 before the closet and bathroom line.
+Prices switched to CAD (user, 2026-11-23). US$12,000 = ~CA$17,167 at 0.699, rounded to $17,200.
 
 ```
-I spent $12,000 at a one Michelin Key hotel.
+I spent $17,200 at a one Michelin Key hotel.
 Come check it out with me.
 This is Baccarat Hotel New York.
 The whole place is filled with millions of dollars of Baccarat crystal.

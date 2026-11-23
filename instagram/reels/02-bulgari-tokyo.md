@@ -65,9 +65,10 @@ makes it feel luxurious"; "Three nights in..."; "overlooking the city".
 Kept: "The entire experience was amazing." and "from the hotel room".
 "Come check it out with me." added after the hook (user, 2026-11-23). ~36.7s at
 the user's pace (229 wpm); humanizer 82.1 PASS. Re-record line 2.
+Prices switched to CAD (user, 2026-11-23). CA$2,000/night x 3 = CA$6,000 (actual CAD).
 
 ```
-I spent $4,200 at a three Michelin Key hotel.
+I spent $6,000 at a three Michelin Key hotel.
 Come check it out with me.
 This is Bulgari Hotel Tokyo.
 Three nights in a Premium Guest Room.
@@ -80,7 +81,7 @@ Then the amenities.
 The pool had high ceilings, with beds and pods by the side,
 and the gym had Technogym equipment overlooking the city.
 The entire experience was amazing.
-For $1,400 a night, it was definitely worth it.
+For $2,000 a night, it was definitely worth it.
 I give you the real experience behind every Michelin star and Key I visit, so follow for the next one.
 ```
 
