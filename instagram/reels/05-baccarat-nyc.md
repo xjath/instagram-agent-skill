@@ -6,7 +6,7 @@ Status: script version 1 LOCKED 2026-11-23. Caption not written yet.
 - Baccarat Hotel New York, 1 Michelin Key (verified 2026-11-23: Michelin hotel
   page and Michelin's Oct 2025 New York Key list).
 - Stayed July 14-19, 2026 (5 nights). US$12,000 total for the stay, including
-  the paid upgrade (user, 2026-11-23). ~US$2,400 a night.
+  the paid upgrade; CA$18,000 actual (user, 2026-11-23). ~CA$3,600 a night.
 - Booked a Grand Classic King; free upgrade to a Classic Suite; paid upgrade to
   the Prestige Suite.
 - Verdict: YES.
@@ -64,9 +64,10 @@ Verdict (user, 2026-11-23): "Definitely. I'm convinced that hotels matter now."
 Swapped (user, 2026-11-23): the "Mirrors, built-in TVs..." line now comes
 before the closet and bathroom line.
 Prices switched to CAD (user, 2026-11-23). US$12,000 = ~CA$17,167 at 0.699, rounded to $17,200.
+Actual CAD total: CA$18,000 (user, 2026-11-23); replaces the converted $17,200.
 
 ```
-I spent $17,200 at a one Michelin Key hotel.
+I spent $18,000 at a one Michelin Key hotel.
 Come check it out with me.
 This is Baccarat Hotel New York.
 The whole place is filled with millions of dollars of Baccarat crystal.

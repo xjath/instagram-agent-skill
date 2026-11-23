@@ -261,7 +261,7 @@ THE SHILLA SEOUL, 1 Key, April
 Footage: none
 
 BACCARAT HOTEL NEW YORK, 1 Key (verified 2026-11-23: Michelin hotel page and Michelin's Oct 2025 NYC Key list), July 14-19 (5 nights)
-Paid: US$12,000 (~US$2,400/night)
+Paid: US$12,000 (~US$2,400/night); CA$18,000 actual (user, 2026-11-23)
 Room: booked Grand Classic King; free upgrade to Classic Suite; paid upgrade to Prestige Suite
 Worth it: YES
 Best moments: among the best rooms I've stayed in (and among the highest priced); beautiful room and decor, mirrors, built-in TVs, Baccarat glassware, Evian water; good room service; gorgeous bathrooms; complimentary Maybach rides
