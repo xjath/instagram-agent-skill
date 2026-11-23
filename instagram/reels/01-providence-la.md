@@ -57,7 +57,7 @@ Favourites (user, 2026-11-23): the king crab, the uni egg and the black bass;
 ```
 I spent $2,400 at a three Michelin star restaurant.
 This is Providence, one of the first in LA to ever get three stars.
-So when we check in, they invite us down to their wine cellar, which is amazing, and they even have a custom bottle of Dom with three stars on it, celebrating the milestone.
+When we check in, they invite us down to their wine cellar, which is amazing, and they even have a custom bottle of Dom with three stars on it, celebrating the milestone.
 Then they surprise us with the best room in the house, a private room with a view of the kitchen.
 And the whole night, the staff make you feel at home.
 So by the time the food comes out, the bar's already high.
