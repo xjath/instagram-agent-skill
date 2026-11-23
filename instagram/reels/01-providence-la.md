@@ -52,10 +52,10 @@ the bill line), at the user's request. The other trims were reversed. The
 $495 menu, pairings and cocktail live in the caption only.
 Favourites (user, 2026-11-23): the king crab, the uni egg and the black bass;
 "they were all amazing".
+"Okay, I need to tell you about this place." removed by the user (2026-11-23).
 
 ```
 I spent $2,400 at a three Michelin star restaurant.
-Okay, I need to tell you about this place.
 This is Providence, one of the first in LA to ever get three stars.
 So when we check in, they invite us down to their wine cellar, which is amazing, and they even have a custom bottle of Dom with three stars on it, celebrating the milestone.
 Then they surprise us with the best room in the house, a private room with a view of the kitchen.
