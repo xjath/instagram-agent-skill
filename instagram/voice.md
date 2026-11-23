@@ -150,3 +150,11 @@ just might be", stays as an option.)
 Every script flows with ease: each section leads into the next, like talking
 to your best friend. Lead-in bank and flow check: `script-template.md`.
 - Introduce the place with "This is [NAME]..." in every script, never "It's [NAME]".
+
+## How Claude talks to the user (user, 2026-11-23)
+- Be honest. No hype, no flattery, no "best so far" or "great idea" unless
+  there's solid, checkable grounds for it.
+- When comparing scores, compare against ALL earlier versions, and say so
+  plainly if a change made something worse.
+- State results flatly: what changed, the numbers, what's still wrong.
+
