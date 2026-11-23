@@ -54,9 +54,12 @@ hotel food footage). "Breakfast was amazing, and the service was even
 better." became "The service was amazing." ~49.1s, 14 beats; hook 61.6 OK;
 humanizer 64.7 REVIEW; no loop. Doesn't yet use the standard hook ("I spent
 $X at...") or the standard sign-off.
+Standard hook applied (user, 2026-11-23): "I spent $4,200 at a three Michelin
+Key hotel." Verdict "For that price a night" became "For $1,400 a night",
+since the hook no longer gives the nightly price.
 
 ```
-I paid $1,400 a night for a 3 Michelin Key hotel in Japan. Was it worth it?
+I spent $4,200 at a three Michelin Key hotel.
 This is Bulgari Hotel Tokyo.
 I stayed three nights in a Premium Guest Room.
 The room is spacious, zen, and really well designed, and the bed is incredibly comfortable.
@@ -68,7 +71,7 @@ Then there's the amenities, such as the pool.
 It had high ceilings, with beds and pods by the side, which makes it feel luxurious,
 and the gym had Technogym equipment overlooking the skyline of the city.
 The entire experience was amazing.
-For that price a night, it was definitely worth it.
+For $1,400 a night, it was definitely worth it.
 Follow for more.
 ```
 
