@@ -38,7 +38,8 @@ pastes the caption and posts it themselves. Saved 2026-11-20 as given.
 3. Service: the bartender who made their drink knew how to tell a story; the
    staff who served them were very informative, funny, and made them feel
    welcome and at home.
-4. Food: the black bass was a favourite: simple, delicate, yet unexpectedly
+4. Food: favourites were the king crab, the uni egg and the black bass (all
+   amazing, 2026-11-23); the black bass was simple, delicate, yet unexpectedly
    flavourful.
 5. End of the night: full and happy. Many restaurants start strong and fall
    off; Providence kept the level the hors d'oeuvres set, all the way through.
@@ -48,6 +49,8 @@ pastes the caption and posts it themselves. Saved 2026-11-20 as given.
 Version 5 with only the second price mention removed (the bill lead-in and
 the bill line), at the user's request. The other trims were reversed. The
 $495 menu, pairings and cocktail live in the caption only.
+Favourites (user, 2026-11-23): the king crab, the uni egg and the black bass;
+"they were all amazing".
 
 ```
 I spent $2,400 at a three Michelin star restaurant.
@@ -58,8 +61,8 @@ Then they surprise us with the best room in the house, a private room with a vie
 And the whole night, the staff make you feel at home.
 So by the time the food comes out, the bar's already high.
 And it never drops.
-My favorite?
-The black bass. So simple, so delicate, way more flavor than you'd expect.
+My favorites?
+The king crab, the uni egg, and the black bass. They were all amazing.
 Worth it?
 Trust me, I'd go back with anyone.
 I rate every Michelin star and Key I visit, so follow for the next verdict.
