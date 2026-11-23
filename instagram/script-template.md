@@ -1,0 +1,85 @@
+# Script framework (DRAFT, 2026-11-23)
+
+The layout every reel follows, so writing one is filling in blanks. Built from
+the locked Providence script and the rules in `voice.md`. Still being shaped
+with the user; open questions at the bottom.
+
+Pace: 165 words a minute = about 2.75 words a second. Target 35-45s total
+(about 100-120 words). Keep each line under ~4s (about 11 words), or plan a
+shot change inside it.
+
+## Restaurant layout
+
+| # | Section | Time | Words | What goes here | On screen |
+|---|---|---|---|---|---|
+| 1 | HOOK | 0-3s | ~6-9 | "I spent $[TOTAL] at [NAME]." or "...at a [N] Michelin star restaurant." | NAME + ★ rating, price; up from frame 1 |
+| 2 | CONTEXT | 3-8s | ~10-14 | City, plus one verified proof line (stars, award, ranking) | CITY / award |
+| 3 | EXPERIENCE | 8-18s | ~20-28 | The night in order: room, ambiance, storytelling, extras. One specific moment, told as a reaction | 1-2 cards, 6 words max |
+| 4 | SERVICE | 18-24s | ~12-16 | One specific + how it felt | "SERVICE: ..." |
+| 5 | FOOD | 24-31s | ~14-20 | One specific + reaction. Letdown goes here if the food was the letdown, balanced ("don't get me wrong...") | "FOOD: ..." |
+| 6 | THE BILL | 31-36s | ~12-16 | What the money covered: menu price, pairings, extras, tip | breakdown card |
+| 7 | VERDICT | 36-39s | ~4-8 | "Worth it?" (pause) + answer. A "no" adds who it IS for | answer in red |
+| 8 | SIGN-OFF | 39-43s | ~13 | "I rate every Michelin star and Key I visit. Follow for the next verdict." | FOLLOW FOR THE NEXT VERDICT |
+
+## Hotel layout
+
+| # | Section | Time | Words | What goes here | On screen |
+|---|---|---|---|---|---|
+| 1 | HOOK | 0-3s | ~7-10 | "I spent $[X] a night at [NAME]." or "...at a [N] Michelin Key hotel." | NAME + Keys, price |
+| 2 | CONTEXT | 3-7s | ~8-12 | City, nights, room type (and any upgrade) | CITY / ROOM TYPE |
+| 3 | ROOM | 7-17s | ~20-28 | Design, space, bed, bathroom, and the view. Letdown here if it's the room | 1-2 cards |
+| 4 | SERVICE | 17-23s | ~12-16 | One specific + how it felt | "SERVICE: ..." |
+| 5 | AMENITIES | 23-31s | ~16-22 | Breakfast, spa, pool, gym, bar, extras (car service etc.) | 1 card per amenity |
+| 6 | THE BILL | 31-35s | ~8-12 | Per night, nights, total | price card |
+| 7 | VERDICT | 35-38s | ~4-8 | "Worth it?" (pause) + answer | answer in red |
+| 8 | SIGN-OFF | 38-42s | ~13 | same as restaurants | FOLLOW FOR THE NEXT VERDICT |
+
+## Verdict lines by type
+
+| Verdict | Spoken | Notes |
+|---|---|---|
+| Yes | "Worth it? Definitely." / "Yeah, it was." | |
+| Yes, with a condition | "Worth it? For a special occasion, yes." | e.g. Le Cinq |
+| Mixed | "Worth it? Not exactly." + one line why | e.g. Il Pagliaccio |
+| No | "Worth it? Not really." + who it IS for | follow "no without burning bridges" in voice.md |
+
+## Rules every section follows
+- React, don't label ("and you can feel it", not "the service was excellent").
+- Contractions and "I / we / you".
+- Every fact is from the user's notes or verified with a source.
+- Each of the three talking points gets at least one spoken line. Gaps: ask.
+- Letdowns are always mentioned if the notes have one; "none" can become
+  "not one miss".
+
+## Fill-in sheet (what each reel needs before writing)
+
+```
+NAME / CITY / RATING (verified):
+HOOK PRICE (total, per person or per night):
+PROOF LINE (award or fact, verified):
+EXPERIENCE or ROOM moment:
+SERVICE line:
+FOOD or AMENITIES line:
+LETDOWN (if any):
+BILL breakdown:
+VERDICT (yes / yes-if / mixed / no) + who it's for:
+FOOTAGE for each section:
+```
+
+## Example: Providence (locked) mapped to the layout
+1. HOOK: "$2,400 for dinner for two. Here's what you actually get." (made before the standard hook)
+2. CONTEXT: "Providence, LA. One of the first LA spots ever to get three Michelin stars."
+3. EXPERIENCE: wine cellar with the three-star Dom; the surprise private room
+4. SERVICE: James Beard hospitality award; "you can really feel the care..."
+5. FOOD: "Every dish hit."
+6. THE BILL: $495 chef's tasting menu, pairings, cocktail, add-ons, tip
+7. VERDICT: "Worth it? Definitely."
+8. SIGN-OFF: (old) "Follow me, cuz you don't always get what you pay for."
+
+## Open questions for the user
+1. Section order: Experience, Service, Food (restaurants) and Room, Service,
+   Amenities (hotels)?
+2. Hotel hook price: per night (comparable across hotels) or the total stay
+   (bigger number)?
+3. Should Providence move to the standard hook and sign-off, so reel #1
+   matches the rest of the series?
