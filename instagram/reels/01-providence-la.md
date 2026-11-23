@@ -45,17 +45,18 @@ pastes the caption and posts it themselves. Saved 2026-11-20 as given.
 6. Would go back with anyone; "it's just that good".
 
 ## Script version 4: storytelling (DRAFT, 2026-11-23)
-The user asked for a story, not a description. ~54.5s, 12 beats; hook 80.8
-STRONG; humanizer 77.1 PASS; loops on "Michelin star". Over the 45s working
+The user asked for a story, not a description. ~52.0s, 12 beats; hook 80.8
+STRONG; humanizer PASS; loops on "Michelin star". Over the 45s working
 range: the user decides whether the story is worth the extra ~10s. Every
 detail is from the user's answers; nothing added.
+Bartender line cut by the user (2026-11-23).
 
 ```
 I spent $2,400 at a three Michelin star restaurant.
 So this is Providence, one of the first in LA to ever get three stars.
 The night starts in the wine cellar, rows and rows of bottles, and a bottle of Dom with three stars on it, celebrating their new star.
 Then they surprise us with a private room, watching the chefs cook right in front of us.
-Our bartender had a story for every drink, and honestly, the staff made it feel like home.
+And honestly, the staff made it feel like home.
 And the food?
 The black bass was my favorite, so simple, so delicate, but it hit way harder than I expected.
 And it never fell off, first bite to last.
