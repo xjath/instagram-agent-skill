@@ -1,6 +1,6 @@
 # Reel #5: Baccarat Hotel New York
 
-Status: DRAFT on the framework (2026-11-23). Caption not written yet.
+Status: script version 1 LOCKED 2026-11-23. Caption not written yet.
 
 ## Facts used
 - Baccarat Hotel New York, 1 Michelin Key (verified 2026-11-23: Michelin hotel
@@ -34,7 +34,7 @@ Status: DRAFT on the framework (2026-11-23). Caption not written yet.
   boundaries (user, 2026-11-23).
 - Amenities: complimentary Maybach rides (to the Met).
 
-## Script (version 1, DRAFT, 2026-11-23)
+## Final script (version 1, LOCKED 2026-11-23)
 186 words; ~48.7s at the user's pace (229 wpm); hook 80.8 STRONG; humanizer
 80.6 PASS; loops on "Michelin Key".
 Room service line cut (user, 2026-11-23). The script now has no service
