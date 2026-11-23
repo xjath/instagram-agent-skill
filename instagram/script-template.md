@@ -8,6 +8,38 @@ Pace: 165 words a minute = about 2.75 words a second. Target 35-45s total
 (about 100-120 words). Keep each line under ~4s (about 11 words), or plan a
 shot change inside it.
 
+## The skeleton (copy, then fill in the brackets)
+
+Restaurant:
+```
+I spent $[TOTAL] at [NAME].
+[CITY]. [PROOF LINE: stars, award or ranking].
+[EXPERIENCE: first moment of the night], [your reaction].
+Then [second moment].
+The service? [one specific thing], [how it felt].
+And the food? [one specific thing]. [reaction, or "don't get me wrong..." balance].
+Bill? [menu price], [pairings], [extras], [tip].
+Worth it?
+[ANSWER]. [for a "no": who it IS for]
+I rate every Michelin star and Key I visit.
+Follow for the next verdict.
+```
+
+Hotel:
+```
+I spent $[PRICE] a night at [NAME].
+[CITY], [N] nights in a [ROOM TYPE]. [upgrade, if any]
+[ROOM: the first thing you noticed], [your reaction].
+[THE VIEW], [reaction]. [letdown here if it's the room]
+The service? [one specific thing], [how it felt].
+Then the amenities. [AMENITY 1], [reaction]. [AMENITY 2].
+[N] nights, $[TOTAL].
+Worth it?
+[ANSWER].
+I rate every Michelin star and Key I visit.
+Follow for the next verdict.
+```
+
 ## Restaurant layout
 
 | # | Section | Time | Words | What goes here | On screen |
