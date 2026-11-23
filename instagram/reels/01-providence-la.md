@@ -53,18 +53,21 @@ $495 menu, pairings and cocktail live in the caption only.
 Favourites (user, 2026-11-23): the king crab, the uni egg and the black bass;
 "they were all amazing".
 "Okay, I need to tell you about this place." removed by the user (2026-11-23).
+Restructured (user, 2026-11-23) so each section sets up the next, starting
+after the venue intro. "The staff make you feel at home" cut (the royalty line
+covers service). ~59.6s; humanizer 76.6 PASS.
 
 ```
 I spent $2,400 at a three Michelin star restaurant.
 This is Providence, one of the first in LA to ever get three stars, and they know how to treat their guests like royalty.
-When we check in, they invite us down to their wine cellar, which is amazing, and they even have a custom bottle of Dom with three stars on it, celebrating the milestone.
-Then they surprise us with the best room in the house, a private room with a view of the kitchen.
-And the whole night, the staff make you feel at home.
+Like, when we check in, they invite us down to their wine cellar, which is amazing, and they even have a custom bottle of Dom with three stars on it, celebrating the milestone.
+And they're not done.
+They surprise us with the best room in the house, a private room with a view of the kitchen, so we're watching the chefs cook right in front of us.
 So by the time the food comes out, the bar's already high.
 And it never drops.
 My favorites?
 The king crab, the uni egg, and the black bass. They were all amazing.
-Worth it?
+So after a night like that, was it worth it?
 Trust me, I'd go back with anyone.
 I rate every Michelin star and Key I visit, so follow for the next verdict.
 ```

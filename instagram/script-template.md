@@ -119,6 +119,9 @@ Flow check before a script is shown:
   "Okay, I need to tell you about this place", "you", "trust me",
   "I'm not kidding", "okay, but the...". Move through the night in order,
   with a reaction at each step. Not a list, and not a narrated story.
+- Each section sets up the next one, starting from the venue intro (user,
+  2026-11-23). E.g. the intro ends on a claim ("they know how to treat their
+  guests like royalty") that the next section proves.
 - Lead into each section, don't jump (user, 2026-11-23): e.g. service to
   food: "so by the time the food comes out, the bar's already high"; food
   to bill: "so what does a night like that cost?"
