@@ -3,25 +3,23 @@
 Planned 2026-11-20, before the account is set up. Nothing here is saved to
 Instagram automatically: the user enters each field in the app.
 
-## Bio (FINAL, confirmed by the user)
+## Bio (FINAL, changed by the user 2026-11-23)
 
 ```
-Is a Michelin dinner or a luxury hotel actually worth it?
+The real experience behind every Michelin star and Key.
 I pay the bill, you get an honest yes or no. Toronto based, eating and staying everywhere.
 ```
 
-148 of 150 characters, counting the line break as 1. Paste into Instagram to
-confirm it fits. If it doesn't: change "Toronto based" to "Toronto".
-"I pay the bill" is accurate: the user pays for everything (confirmed).
+146 of 150 characters (line break counted as 1). The first line repeats the
+reel sign-off. Previous bio (2026-11-20): "Is a Michelin dinner or a luxury
+hotel actually worth it? I pay the bill, you get an honest yes or no. Toronto
+based, eating and staying everywhere." "I pay the bill" is accurate: the user
+pays for everything (confirmed).
 
-## Name field (30 characters): NOT CONFIRMED YET (handle changed 2026-11-23)
+## Name field (CONFIRMED 2026-11-23)
 
-"Lux Verdict | Michelin Reviews" no longer matches the handle. Options:
-- `Stars n Suites | Michelin` (25)
-- `Stars n Suites | Fine Dining` (28)
-- `Stars n Suites | Luxury Travel` (30)
-The name field is matched by Instagram search, so it should carry searched
-words (Michelin, fine dining, luxury travel).
+`Stars n Suites | Michelin` (25 characters). The user said "I have that name"
+in reply to this recommendation. Instagram search matches this field.
 
 ## Pinned three (once the reels exist)
 
