@@ -1,9 +1,12 @@
 # Reel #3: Atomix, New York
 
-Status: VIDEO MADE by the user (reviewed 2026-11-22 from a 720p export).
+Status: script version 11 LOCKED 2026-11-23, to be RE-RECORDED (the earlier
+video used the old script). Video fixes still apply: replace the opening
+bottle shot (not from Atomix), don't show the North America's 50 Best trophy
+while saying "world's 50 best", move captions up.
 Caption not written yet. See "As made" below for what the video actually says.
 
-## Script version 11 (DRAFT, 2026-11-23)
+## Final script (version 11, LOCKED 2026-11-23)
 Combined at the user's direction: the recorded edit's intro and experience,
 the new service lines, only the food letdown (no "what was good" line), the
 "It wasn't for me." verdict, standard hook and sign-off. 164 words; ~43s at
