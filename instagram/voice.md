@@ -121,3 +121,14 @@ matching sign-off that repeats a word from it, so the reel loops.
 *Scored with hookscore.py on "I spent $1,600 at a two Michelin star
 restaurant. [closer]" on 2026-11-23.
 
+## Standard hook (chosen by the user, 2026-11-23)
+
+Use this on every reel unless the user asks otherwise:
+- Restaurants: "I spent $X at a [N] Michelin star restaurant. Here's my verdict."
+- Hotels: "I spent $X a night at a [N] Michelin Key hotel. Here's my verdict."
+Sign-off: "Follow for the next verdict." (repeats "verdict", so the reel loops;
+ties to the account name). The user's own wording was "...and here's my
+verdict on it"; the shorter form scores higher (79.4 vs 69.4 restaurants;
+75.1 vs 58.0 hotels) and is ~1s quicker. Show the hook as on-screen text from
+frame 1, since it runs 4-5s.
+
