@@ -87,7 +87,8 @@ streetsoftoronto.com (2026 ceremony), tastet.ca (2026 winners),
 michelin.com 2026 Toronto press release, dailyhive.com (2025 list).
 
 SUSHI MASAKI SAITO (Toronto), 1 star at the latest visit (confirmed by the user)
-Paid: CA$780pp (~US$545pp) at the latest visit, not including sake or wine pairings
+Paid: CA$780pp (~US$545pp) at the latest visit, not including sake or wine pairings.
+Total for two at the latest visit: CA$2,600 (user, 2026-11-23; ~US$1,817 at CAD 0.699).
 Worth it: YES, definitely
 Best moments: the dishes Saito made himself; the food was really, really good; hospitality and service good too
 Letdowns: none
