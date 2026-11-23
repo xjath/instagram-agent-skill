@@ -41,11 +41,13 @@ which posts just before it at #3.
 ## Script on the framework (version 7, DRAFT, 2026-11-23)
 154 words; ~40.4s at the user's pace (229 wpm); hook 80.8 STRONG; humanizer
 74.9 PASS; loops on "Michelin star".
+Hook (user, 2026-11-23): "Friends and I spent $850..." (77.2 STRONG). Line 3
+now says "we came for..." since the hook mentions friends.
 
 ```
-We spent $850 at a one Michelin star restaurant.
+Friends and I spent $850 at a one Michelin star restaurant.
 Come check it out with me.
-This is Banbo in Neihu, Taipei, and the four of us came for the tasting menu with the cocktail pairing.
+This is Banbo in Neihu, Taipei, and we came for the tasting menu with the cocktail pairing.
 And every dish here tells its own story about Taiwan.
 Like the shrimp, plated like a piece of art: the plate's the river, the shrimp is what actually lives in it, and the black chips are the rocks.
 And each dish is one part of a bigger story, told one course at a time.
