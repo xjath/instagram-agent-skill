@@ -50,7 +50,7 @@ star". Not locked yet: version 2 stays locked until the user approves this.
 
 ```
 I spent $2,400 at a three Michelin star restaurant.
-Providence, one of LA's first two three-star spots ever.
+This is Providence, one of LA's first two three-star spots ever.
 The sommelier walks us through the wine cellar, rows and rows of bottles, and a Dom with three stars on it.
 Then a surprise private room, with the chefs cooking right in front of us.
 Our bartender tells a story with every drink.
