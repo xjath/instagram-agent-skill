@@ -34,6 +34,8 @@ user's experience, not a claim about every restaurant).
 Added (user, 2026-11-23): "Easily the best sushi in the city. By far." Flag:
 Shoushin (#18) is another Toronto sushi reel with a YES verdict, and the
 user has front-of-house relationships in Toronto.
+Kept as the user's opinion (2026-11-23): "Easily the best sushi in Toronto. By
+far." The user considered the Shoushin (#18) point and chose to keep it.
 
 ```
 I spent $2,600 at a one Michelin star restaurant.
@@ -44,7 +46,7 @@ And then you watch him mix two types of vinegar into the sushi rice, right in fr
 Honestly, it's some of the best sushi rice I've ever had, and I haven't seen anyone else do that.
 Then the pieces.
 The horse mackerel is consistently one of the best things he makes, right up there with the salmon and the tuna.
-Easily the best sushi in the city. By far.
+Easily the best sushi in Toronto. By far.
 Was the money spent worth it?
 Definitely.
 I give you the real experience behind every Michelin star and Key I visit, so follow for the next one.
