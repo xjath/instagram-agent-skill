@@ -171,3 +171,11 @@ account doesn't use numbers. Loops on "Michelin star" when the hook uses it.
   ask follow-up questions before writing (user, 2026-11-23).
 - After the hook, every script says "Come check it out with me." (STANDARD,
   user 2026-11-23). Past-tense hook, present-tense invitation into the video.
+
+## Audience insight (user, 2026-11-23)
+Many people in the user's life say they "live vicariously" through the user's
+Instagram stories. This supports inviting viewers along ("Come check it out
+with me") and telling the visit in the present tense. It comes from people
+who know the user, so it isn't yet proof that strangers respond the same way:
+check against Insights (watch time, sends) after 4-5 reels.
+
