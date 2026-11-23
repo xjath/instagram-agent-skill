@@ -45,6 +45,8 @@ Hook (user, 2026-11-23): "Friends and I spent $850..." (77.2 STRONG). Line 3
 now says "we came for..." since the hook mentions friends.
 Hook back to "We spent $850..." (user, 2026-11-23; 80.8 STRONG).
 The river is a cauliflower purée (user, 2026-11-23).
+Verdict (user, 2026-11-23): "Was it worth it? If you love a great storytelling
+experience with food, then it definitely is."
 
 ```
 We spent $850 at a one Michelin star restaurant.
@@ -57,8 +59,8 @@ The service? Attentive and friendly the whole way through.
 The food itself was cooked well, but honestly, it's the stories you remember.
 And the cocktails? So creative.
 The most memorable one came with a bubble, and the presentation was so unique.
-So, worth it?
-Definitely.
+Was it worth it?
+If you love a great storytelling experience with food, then it definitely is.
 I give you the real experience behind every Michelin star and Key I visit, so follow for the next one.
 ```
 
