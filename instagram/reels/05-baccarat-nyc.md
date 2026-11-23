@@ -58,6 +58,8 @@ hotels I've ever stayed in." (user, 2026-11-23; from their notes).
 Switched to option 2 (user, 2026-11-23): "The whole place is filled with
 millions of dollars of Baccarat crystal." Source: Forbes Travel Guide
 ("flooded with millions of dollars of prismatic Baccarat crystals").
+Verdict question (user, 2026-11-23): "Was the money spent worth it?" (nightly
+rate removed).
 
 ```
 I spent $12,000 at a one Michelin Key hotel.
@@ -72,7 +74,7 @@ Everything just feels grand.
 The one catch? There's literally no view, but the inside more than makes up for it.
 And the service? They gave us a complimentary upgrade at check-in, and the doorman was so easy to talk to.
 And they've got complimentary Maybach rides, our driver even took us past the usual limit.
-So, $2,400 a night, worth it?
+Was the money spent worth it?
 Definitely.
 I give you the real experience behind every Michelin star and Key I visit, so follow for the next one.
 ```
