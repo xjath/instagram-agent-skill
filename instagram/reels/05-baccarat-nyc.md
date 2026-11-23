@@ -55,12 +55,15 @@ pleasant to talk to; the Maybach driver went beyond the usual boundaries.
 "They gave us a complimentary upgrade at check-in" (user, 2026-11-23).
 "I stayed in the Prestige Suite." replaced with "Honestly, one of the best
 hotels I've ever stayed in." (user, 2026-11-23; from their notes).
+Switched to option 2 (user, 2026-11-23): "The whole place is filled with
+millions of dollars of Baccarat crystal." Source: Forbes Travel Guide
+("flooded with millions of dollars of prismatic Baccarat crystals").
 
 ```
 I spent $12,000 at a one Michelin Key hotel.
 Come check it out with me.
 This is Baccarat Hotel New York.
-Honestly, one of the best hotels I've ever stayed in.
+The whole place is filled with millions of dollars of Baccarat crystal.
 And the first thing that hits you is the space.
 This is what dreams are made of.
 There's a full mirror walk-in closet before going into the marble bathroom, with double sinks and a very spacious shower.
