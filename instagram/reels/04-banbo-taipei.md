@@ -1,6 +1,6 @@
 # Reel #4: Banbo, Taipei
 
-Status: DRAFT, waiting for the user's approval (written 2026-11-20). Caption
+Status: script version 7 LOCKED 2026-11-23. Caption not written yet.
 not written yet.
 
 ## Facts used
@@ -38,7 +38,7 @@ which posts just before it at #3.
   actually lives in the river; black chips are the rocks. (Chosen for the script.)
 - Most memorable cocktail: one with a bubble; very unique presentation.
 
-## Script on the framework (version 7, DRAFT, 2026-11-23)
+## Final script (version 7, LOCKED 2026-11-23)
 154 words; ~40.4s at the user's pace (229 wpm); hook 80.8 STRONG; humanizer
 74.9 PASS; loops on "Michelin star".
 Hook (user, 2026-11-23): "Friends and I spent $850..." (77.2 STRONG). Line 3
