@@ -76,6 +76,9 @@ Follow for the next verdict.
 | No | "Worth it? Not really." + who it IS for | follow "no without burning bridges" in voice.md |
 
 ## Rules every section follows
+- Tell it as a story, not a list (user, 2026-11-23): move through the
+  night in order ("the night starts...", "then they...", "and the food?"),
+  in the present tense, with connecting words and a reaction at each step.
 - React, don't label ("and you can feel it", not "the service was excellent").
 - Contractions and "I / we / you".
 - Every fact is from the user's notes or verified with a source.
