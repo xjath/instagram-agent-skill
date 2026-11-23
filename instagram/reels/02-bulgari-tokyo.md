@@ -31,6 +31,40 @@ written yet.
 - Also (not used in the script): No. 15 in The World's 50 Best Hotels 2025,
   the highest-ranked hotel in Japan, per the hotel's own page.
 
+## Detail answers (user, 2026-11-23)
+- Room: beautiful when they first stepped in; very luxurious and understated;
+  the hotel's design was very nice.
+- View: best all the time, overlooking the skyline; "there's something
+  romantic about a city skyline at night".
+- Service: very attentive; Japanese hospitality took it to another level;
+  warm and welcoming; high service without feeling stiff.
+- Breakfast: the avocado toast was very good; the Japanese breakfast too.
+- Who it's for: a special trip, couples, travel lovers who love luxury.
+- Letdowns: none given. Mt Fuji: room vs hotel not answered; script says
+  "you can even see Mount Fuji" without saying from where.
+
+## Script version 3 (DRAFT on the confirmed framework, 2026-11-23)
+~62.9s, 13 beats; hook 80.8 STRONG; humanizer 75.4 PASS; loops on "Michelin
+Key". Hook uses the total stay (~US$1,400 x 3 nights = ~US$4,200; paid about
+CA$6,000). "Elevated" (user's word) not used: it's on the banned list in
+voice.md; "on another level" instead.
+
+```
+I spent $4,200 at a three Michelin Key hotel.
+This is Bulgari Hotel Tokyo, and you feel it the second you step into the room.
+It's beautiful, super luxurious but understated, and the design is so well done.
+Then you look out the window, and it's the whole skyline over the Imperial Garden, you can even see Mount Fuji.
+And at night? There's something so romantic about a city skyline.
+And the staff make it even better.
+Japanese hospitality is on another level, so warm and welcoming, super attentive, but it never feels stiff.
+Then there's everything else.
+Breakfast? The avocado toast and the Japanese breakfast are both so good.
+The pool has these high ceilings with beds and pods along the side, and the gym looks right over the city.
+So after three nights, worth it?
+Definitely. Book it for a special trip, with your partner, or if you just love luxury.
+I give you the real experience behind every Michelin star and Key I visit, so follow for the next one.
+```
+
 ## Version 1: the user's script (as written, line breaks added)
 ~50.9s, 15 beats; hook 61.6 OK (17 words, ~6.2s); humanizer 63.3 REVIEW;
 no loop; "Follow for more" flagged as a stock phrase.
