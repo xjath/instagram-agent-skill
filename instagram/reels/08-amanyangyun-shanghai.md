@@ -40,12 +40,14 @@ city (the 3-nights/1-free line scrapped). Written as "out in the countryside"
 so "Shanghai" isn't repeated after the hook. NOTE: a Jeffsetter review (Aug
 2026) puts it about half an hour from central Shanghai, depending on traffic.
 Service rewritten without the slowness (user, 2026-11-23).
+Room line (user, 2026-11-23): spacious, high ceilings, very relaxing and
+calming design.
 
 ```
 I spent $2,000 at a one Michelin Key hotel in Shanghai.
 Come check it out with me.
 This is Amanyangyun, out in the countryside, around an hour from the heart of the city.
-The room is so spacious, with these really high ceilings.
+The rooms are so spacious, high ceilings, and a really relaxing, calming design.
 And if you're looking to stay at an Aman, this one's really good value.
 And the service? They took care of everything: every restaurant booking, every ride to and from the hotel, and they kept us in the loop the whole time.
 Then there's everything else.
