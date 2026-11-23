@@ -4,6 +4,9 @@ Saved from the user's notes on 2026-11-20. Source material for `/ig-reel`,
 `/ig-plan` and `/ig-carousel`: pull a restaurant or hotel from here as the idea.
 Kept exactly as given; facts not re-checked when saved.
 
+## Script progress note (2026-11-23)
+#7 Pujol: SKIPPED for now at the user's request; come back to it later.
+
 ## Party size (user, 2026-11-23)
 Every restaurant visit was for TWO people unless stated otherwise (Banbo was
 four). Restaurant prices in this backlog are therefore for two unless marked
