@@ -45,8 +45,10 @@ pastes the caption and posts it themselves. Saved 2026-11-20 as given.
 6. Would go back with anyone; "it's just that good".
 
 ## Script version 6: trimmed (DRAFT, 2026-11-23)
-Version 5 cut from ~61.1s to ~50.9s; humanizer 86.0 PASS; hook 80.8. Waiting
-for the user to accept or reject each cut.
+Version 5 cut from ~61.1s to ~46.5s; humanizer 82.1 PASS (86.0 before the
+bill was removed); hook 80.8. The bill line was removed at the user's request
+("we open with the price already"); the $495 menu, pairings and cocktail now
+live in the caption only.
 
 ```
 I spent $2,400 at a three Michelin star restaurant.
@@ -59,8 +61,6 @@ So when the food comes out, the bar's already high.
 And it never drops.
 My favorite?
 The black bass. So simple, so delicate, way more flavor than you'd expect.
-So, the damage?
-$495 a person, plus pairings, a cocktail and tip.
 Worth it?
 Trust me, I'd go back with anyone.
 I rate every Michelin star and Key I visit, so follow for the next verdict.
