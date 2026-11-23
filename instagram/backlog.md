@@ -259,7 +259,7 @@ Footage: video of the room, some of the lobby, bar, etc.
 THE SHILLA SEOUL, 1 Key, April
 Footage: none
 
-BACCARAT HOTEL NEW YORK, 1 Key, July 14-19 (5 nights)
+BACCARAT HOTEL NEW YORK, 1 Key (verified 2026-11-23: Michelin hotel page and Michelin's Oct 2025 NYC Key list), July 14-19 (5 nights)
 Paid: US$12,000 (~US$2,400/night)
 Room: booked Grand Classic King; free upgrade to Classic Suite; paid upgrade to Prestige Suite
 Worth it: YES

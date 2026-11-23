@@ -141,7 +141,8 @@ Short and sweet. One line, two forms:
 Both score 80.8 STRONG; adding "Here's my verdict." doesn't raise the score.
 On screen from frame 1: the place name plus its stars or Keys
 (e.g. "ATOMIX ★★", "BULGARI TOKYO · 3 KEYS").
-Sign-off: "I rate every Michelin star and Key I visit. Follow for the next
-verdict." (or the user's open ending, "...the next one just might be").
+Sign-off (CONFIRMED by the user, 2026-11-23): "I rate every Michelin star and
+Key I visit. Follow for the next verdict." (The open ending, "...the next one
+just might be", stays as an option.)
 "Luxury traveller" lives in the bio and name field, not the reel.
 
