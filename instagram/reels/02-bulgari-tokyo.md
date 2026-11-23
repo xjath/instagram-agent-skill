@@ -67,11 +67,15 @@ Kept: "The entire experience was amazing." and "from the hotel room".
 the user's pace (229 wpm); humanizer 82.1 PASS. Re-record line 2.
 Prices switched to CAD (user, 2026-11-23). CA$2,000/night x 3 = CA$6,000 (actual CAD).
 City added to the hook (user, 2026-11-23).
+"This is the Bulgari Hotel in Ginza." at the user's direction (2026-11-23).
+NOTE: the hotel's address is 2-2-1 Yaesu, Chuo-ku (Tokyo Midtown Yaesu,
+floors 40-45), per bulgarihotels.com, Forbes Travel Guide and Business
+Traveller; Ginza is nearby. Kept as Ginza at the user's direction.
 
 ```
 I spent $6,000 at a three Michelin Key hotel in Tokyo.
 Come check it out with me.
-This is Bulgari Hotel Tokyo.
+This is the Bulgari Hotel in Ginza.
 Three nights in a Premium Guest Room.
 The room's spacious, zen, and really well designed, and the bed is incredibly comfortable.
 The view's phenomenal.
