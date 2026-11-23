@@ -1,4 +1,4 @@
-# Script framework (DRAFT, 2026-11-23)
+# Script framework (CONFIRMED 2026-11-23)
 
 The layout every reel follows, so writing one is filling in blanks. Built from
 the locked Providence script and the rules in `voice.md`. Still being shaped
@@ -27,13 +27,13 @@ Follow for the next verdict.
 
 Hotel:
 ```
-I spent $[PRICE] a night at [NAME].
+I spent $[TOTAL STAY] at [NAME].
 [CITY], [N] nights in a [ROOM TYPE]. [upgrade, if any]
 [ROOM: the first thing you noticed], [your reaction].
 [THE VIEW], [reaction]. [letdown here if it's the room]
 The service? [one specific thing], [how it felt].
 Then the amenities. [AMENITY 1], [reaction]. [AMENITY 2].
-[N] nights, $[TOTAL].
+$[PER NIGHT] a night, [N] nights.
 Worth it?
 [ANSWER].
 I rate every Michelin star and Key I visit.
@@ -57,12 +57,12 @@ Follow for the next verdict.
 
 | # | Section | Time | Words | What goes here | On screen |
 |---|---|---|---|---|---|
-| 1 | HOOK | 0-3s | ~7-10 | "I spent $[X] a night at [NAME]." or "...at a [N] Michelin Key hotel." | NAME + Keys, price |
+| 1 | HOOK | 0-3s | ~6-9 | "I spent $[TOTAL STAY] at [NAME]." or "...at a [N] Michelin Key hotel." | NAME + Keys, price |
 | 2 | CONTEXT | 3-7s | ~8-12 | City, nights, room type (and any upgrade) | CITY / ROOM TYPE |
 | 3 | ROOM | 7-17s | ~20-28 | Design, space, bed, bathroom, and the view. Letdown here if it's the room | 1-2 cards |
 | 4 | SERVICE | 17-23s | ~12-16 | One specific + how it felt | "SERVICE: ..." |
 | 5 | AMENITIES | 23-31s | ~16-22 | Breakfast, spa, pool, gym, bar, extras (car service etc.) | 1 card per amenity |
-| 6 | THE BILL | 31-35s | ~8-12 | Per night, nights, total | price card |
+| 6 | THE BILL | 31-35s | ~8-12 | Per night and number of nights | price card |
 | 7 | VERDICT | 35-38s | ~4-8 | "Worth it?" (pause) + answer | answer in red |
 | 8 | SIGN-OFF | 38-42s | ~13 | same as restaurants | FOLLOW FOR THE NEXT VERDICT |
 
@@ -108,10 +108,11 @@ FOOTAGE for each section:
 7. VERDICT: "Worth it? Definitely."
 8. SIGN-OFF: (old) "Follow me, cuz you don't always get what you pay for."
 
-## Open questions for the user
-1. Section order: Experience, Service, Food (restaurants) and Room, Service,
-   Amenities (hotels)?
-2. Hotel hook price: per night (comparable across hotels) or the total stay
-   (bigger number)?
-3. Should Providence move to the standard hook and sign-off, so reel #1
-   matches the rest of the series?
+## Decisions (user, 2026-11-23)
+1. Order confirmed: Experience, Service, Food (restaurants); Room, Service,
+   Amenities (hotels).
+2. Hook price = the biggest true number, for shock value: the total bill for
+   restaurants, the total stay for hotels. Per-person or per-night prices go
+   in THE BILL section.
+3. Providence will be redone on this framework, after the content (footage)
+   is sorted.
