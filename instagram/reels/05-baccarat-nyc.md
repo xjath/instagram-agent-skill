@@ -60,6 +60,7 @@ millions of dollars of Baccarat crystal." Source: Forbes Travel Guide
 ("flooded with millions of dollars of prismatic Baccarat crystals").
 Verdict question (user, 2026-11-23): "Was the money spent worth it?" (nightly
 rate removed).
+Verdict (user, 2026-11-23): "Definitely. I'm convinced that hotels matter now."
 
 ```
 I spent $12,000 at a one Michelin Key hotel.
@@ -75,6 +76,6 @@ The one catch? There's literally no view, but the inside more than makes up for 
 And the service? They gave us a complimentary upgrade at check-in, and the doorman was so easy to talk to.
 And they've got complimentary Maybach rides, our driver even took us past the usual limit.
 Was the money spent worth it?
-Definitely.
+Definitely. I'm convinced that hotels matter now.
 I give you the real experience behind every Michelin star and Key I visit, so follow for the next one.
 ```
