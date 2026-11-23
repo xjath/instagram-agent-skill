@@ -53,12 +53,14 @@ Service added (user, 2026-11-23): free upgrade at check-in; the doorman was
 pleasant to talk to; the Maybach driver went beyond the usual boundaries.
 ~40.4s at the user's pace; humanizer 83.5 PASS.
 "They gave us a complimentary upgrade at check-in" (user, 2026-11-23).
+"I stayed in the Prestige Suite." replaced with "Honestly, one of the best
+hotels I've ever stayed in." (user, 2026-11-23; from their notes).
 
 ```
 I spent $12,000 at a one Michelin Key hotel.
 Come check it out with me.
 This is Baccarat Hotel New York.
-I stayed in the Prestige Suite.
+Honestly, one of the best hotels I've ever stayed in.
 And the first thing that hits you is the space.
 This is what dreams are made of.
 There's a full mirror walk-in closet before going into the marble bathroom, with double sinks and a very spacious shower.
