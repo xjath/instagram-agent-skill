@@ -38,11 +38,12 @@ Kept as the user's opinion (2026-11-23): "Easily the best sushi in Toronto. By
 far." The user considered the Shoushin (#18) point and chose to keep it.
 Verdict (user, 2026-11-23): "Definitely. I come here every couple of months,
 even solo sometimes when I feel like it."
+City added to the hook (user, 2026-11-23). "in Toronto" dropped from line 3 so the city isn't said twice.
 
 ```
-I spent $2,600 at a one Michelin star restaurant.
+I spent $2,600 at a one Michelin star restaurant in Toronto.
 Come check it out with me.
-This is Sushi Masaki Saito in Toronto, and I'm a regular here.
+This is Sushi Masaki Saito, and I'm a regular here.
 So when I walk in, Saito greets me by my first name.
 And then you watch him mix two types of vinegar into the sushi rice, right in front of you.
 Honestly, it's some of the best sushi rice I've ever had, and I haven't seen anyone else do that.

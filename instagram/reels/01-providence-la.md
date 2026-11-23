@@ -60,9 +60,10 @@ The three points:
 "Come check it out with me." added after the hook (user, 2026-11-23). ~45.9s at
 the user's pace (229 wpm); humanizer 74.6 REVIEW (was 75.7 PASS). Re-record line 2.
 Prices switched to CAD (user, 2026-11-23). $3,400 is the actual CAD bill.
+City added to the hook (user, 2026-11-23).
 
 ```
-I spent $3,400 at a three Michelin star restaurant.
+I spent $3,400 at a three Michelin star restaurant in LA.
 Come check it out with me.
 This is Providence, one of the first in LA to ever get three stars, and they know how to treat their guests like royalty.
 Like, when we check in, they invite us down to their wine cellar, which is amazing, and they even have a custom bottle of Dom with three stars on it, celebrating the milestone.

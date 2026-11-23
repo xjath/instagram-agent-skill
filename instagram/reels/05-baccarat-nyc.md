@@ -65,9 +65,10 @@ Swapped (user, 2026-11-23): the "Mirrors, built-in TVs..." line now comes
 before the closet and bathroom line.
 Prices switched to CAD (user, 2026-11-23). US$12,000 = ~CA$17,167 at 0.699, rounded to $17,200.
 Actual CAD total: CA$18,000 (user, 2026-11-23); replaces the converted $17,200.
+City added to the hook (user, 2026-11-23). "This is Baccarat Hotel New York" kept: it is the hotel's name.
 
 ```
-I spent $18,000 at a one Michelin Key hotel.
+I spent $18,000 at a one Michelin Key hotel in New York.
 Come check it out with me.
 This is Baccarat Hotel New York.
 The whole place is filled with millions of dollars of Baccarat crystal.

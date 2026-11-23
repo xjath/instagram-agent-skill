@@ -186,3 +186,6 @@ actual CAD amount paid where known; otherwise convert at the backlog's rates
 Actual card charges may differ from these conversions.
 - Restaurant visits are for two people unless stated otherwise (user,
   2026-11-23). Hook totals are for two.
+- The hook names the city right after the star or Key rating (user,
+  2026-11-23): "I spent $X at a [N] Michelin star restaurant in [CITY]." / "...a
+  [N] Michelin Key hotel in [CITY]." Don't repeat the city in the "This is" line.

@@ -12,9 +12,9 @@ shot change inside it.
 
 Restaurant:
 ```
-I spent $[TOTAL] at [NAME].
+I spent $[TOTAL] at a [N] Michelin star restaurant in [CITY].
 Come check it out with me.
-This is [NAME], [PROOF LINE: city, stars, award or ranking].
+This is [NAME], [PROOF LINE: stars, award or ranking; don't repeat the city].
 [EXPERIENCE: first moment of the night], [your reaction].
 Then [second moment].
 The service? [one specific thing], [how it felt].
@@ -27,9 +27,9 @@ I give you the real experience behind every Michelin star and Key I visit, so fo
 
 Hotel:
 ```
-I spent $[TOTAL STAY] at [NAME].
+I spent $[TOTAL STAY] at a [N] Michelin Key hotel in [CITY].
 Come check it out with me.
-This is [NAME], [CITY]. [N] nights in a [ROOM TYPE]. [upgrade, if any]
+This is [NAME]. [N] nights in a [ROOM TYPE]. [upgrade, if any]
 [ROOM: the first thing you noticed], [your reaction].
 [THE VIEW], [reaction]. [letdown here if it's the room]
 The service? [one specific thing], [how it felt].
