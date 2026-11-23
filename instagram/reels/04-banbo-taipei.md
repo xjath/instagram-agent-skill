@@ -28,6 +28,36 @@ not written yet.
 Mirrors the Atomix hook ("I paid $1,600 for two stars. Wouldn't return."),
 which posts just before it at #3.
 
+## Detail answers (user, 2026-11-23)
+- The user paid only for themselves; the group of four spent about US$850
+  (NT$7,000 x 4 = NT$28,000, at TWD 0.0303; assumes all four had the same menu
+  and pairing: to confirm).
+- Lamb dish: red sauce signifying the animal's blood; greens representing the
+  forest around it.
+- Shrimp dish: designed like an art piece showing a river; the shrimp is what
+  actually lives in the river; black chips are the rocks. (Chosen for the script.)
+- Most memorable cocktail: one with a bubble; very unique presentation.
+
+## Script on the framework (version 7, DRAFT, 2026-11-23)
+154 words; ~40.4s at the user's pace (229 wpm); hook 80.8 STRONG; humanizer
+74.9 PASS; loops on "Michelin star".
+
+```
+We spent $850 at a one Michelin star restaurant.
+Come check it out with me.
+This is Banbo in Neihu, Taipei, and the four of us came for the tasting menu with the cocktail pairing.
+And every dish here tells its own story about Taiwan.
+Like the shrimp, plated like a piece of art: the plate's the river, the shrimp is what actually lives in it, and the black chips are the rocks.
+And each dish is one part of a bigger story, told one course at a time.
+The service? Attentive and friendly the whole way through.
+The food itself was cooked well, but honestly, it's the stories you remember.
+And the cocktails? So creative.
+The most memorable one came with a bubble, and the presentation was so unique.
+So, worth it?
+Definitely.
+I give you the real experience behind every Michelin star and Key I visit, so follow for the next one.
+```
+
 ## Script (version 6, 2026-11-20)
 ~42.2s at 165 wpm, 12 beats; hook 83.1 STRONG; humanizer 74.0 PASS.
 The user's version 4 plus service and food lines, so it covers food, service
