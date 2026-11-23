@@ -1,6 +1,6 @@
 # Reel #2: Bulgari Hotel Tokyo
 
-Status: DRAFT (2026-11-20). Version 1 is the user's own script; version 2 is
+Status: version 5 CHOSEN by the user 2026-11-23 (not locked yet). Version 1 is the user's own script; version 2 is
 Claude's tightened edit of it. Waiting for the user to pick. Caption not
 written yet.
 
@@ -47,6 +47,30 @@ written yet.
   everyday, minimalist, clean, nothing grand, but very high quality luxury
   that doesn't scream. Mt Fuji is seen FROM THE ROOM. Service: they treated
   the user like a regular even though it was their first time.
+
+## Script version 5: the user's original minus breakfast (CHOSEN, 2026-11-23)
+The user chose their original script with only the breakfast removed (no
+hotel food footage). "Breakfast was amazing, and the service was even
+better." became "The service was amazing." ~49.1s, 14 beats; hook 61.6 OK;
+humanizer 64.7 REVIEW; no loop. Doesn't yet use the standard hook ("I spent
+$X at...") or the standard sign-off.
+
+```
+I paid $1,400 a night for a 3 Michelin Key hotel in Japan. Was it worth it?
+This is Bulgari Hotel Tokyo.
+I stayed three nights in a Premium Guest Room.
+The room is spacious, zen, and really well designed, and the bed is incredibly comfortable.
+The view is phenomenal.
+You wake up to the skyline over the Imperial Garden, and you can even see Mount Fuji from the hotel room.
+The service was amazing.
+They treat their guests like family.
+Then there's the amenities, such as the pool.
+It had high ceilings, with beds and pods by the side, which makes it feel luxurious,
+and the gym had Technogym equipment overlooking the skyline of the city.
+The entire experience was amazing.
+For that price a night, it was definitely worth it.
+Follow for more.
+```
 
 ## Script version 4 (DRAFT, 2026-11-23)
 ~66.2s, 14 beats; hook 80.8 STRONG; humanizer 85.9 PASS (version 3: 75.4);
