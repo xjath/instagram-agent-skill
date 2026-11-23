@@ -1,9 +1,9 @@
-# Voice profile: @theluxverdict
+# Voice profile: @starsnsuites (was @theluxverdict until 2026-11-23)
 
 Saved 2026-11-20 from the user's notes. Every skill reads this before writing.
 
 ## The account
-- Instagram account @theluxverdict: a new luxury lifestyle account, separate
+- Instagram account @starsnsuites (renamed from @theluxverdict on 2026-11-23): a new luxury lifestyle account, separate
   from the user's personal account. Never cross-post to or reference the
   personal account.
 - Angle: "is it actually worth it?" with real prices and honest verdicts. Global.
