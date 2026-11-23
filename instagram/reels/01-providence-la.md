@@ -30,6 +30,40 @@ pastes the caption and posts it themselves. Saved 2026-11-20 as given.
   - timeout.com/los-angeles/news/here-are-the-l-a-winners-of-the-2019-james-beard-awards-050619
   - guide.michelin.com/us/en/article/michelin-guide-ceremony/guide-michelin-california
 
+## Detail answers (user, 2026-11-23)
+1. Private room: chefs working in the kitchen, dinner being made right in
+   front of them for the people dining in the restaurant.
+2. Cellar: smaller than expected; the sommelier gave a tour; rows and rows of
+   bottles on wooden wine shelves.
+3. Service: the bartender who made their drink knew how to tell a story; the
+   staff who served them were very informative, funny, and made them feel
+   welcome and at home.
+4. Food: the black bass was a favourite: simple, delicate, yet unexpectedly
+   flavourful.
+5. End of the night: full and happy. Many restaurants start strong and fall
+   off; Providence kept the level the hors d'oeuvres set, all the way through.
+6. Would go back with anyone; "it's just that good".
+
+## Script version 3 (DRAFT on the confirmed framework, 2026-11-23)
+~44.4s, 13 beats; hook 80.8 STRONG; humanizer 76.6 PASS; loops on "Michelin
+star". Not locked yet: version 2 stays locked until the user approves this.
+
+```
+I spent $2,400 at a three Michelin star restaurant.
+Providence, one of LA's first two three-star spots ever.
+The sommelier walks us through the wine cellar, rows and rows of bottles, and a Dom with three stars on it.
+Then a surprise private room, with the chefs cooking right in front of us.
+Our bartender tells a story with every drink.
+And the staff make you feel at home.
+The black bass?
+Simple, delicate, way more flavor than I expected.
+And it never dropped off.
+$495 a person for the chef's menu, plus pairings, a $100 cocktail and tip.
+Worth it?
+Definitely. I'd go back with anyone.
+I rate every Michelin star and Key I visit, so follow for the next verdict.
+```
+
 ## Hook change in progress (DRAFT, 2026-11-22)
 The user wants the hook to be about three Michelin stars, framed as sharing
 their experience (no "best" claim). Top option: hook 83.0 STRONG; humanizer
