@@ -20,7 +20,7 @@ The service? [one specific thing], [how it felt].
 And the food? [one specific thing]. [reaction, or "don't get me wrong..." balance].
 Bill? [menu price], [pairings], [extras], [tip].
 Worth it?
-[ANSWER]. [for a "no": who it IS for]
+[ANSWER]. [for a "no": "It wasn't for me."]
 I give you the real experience behind every Michelin star and Key I visit, so follow for the next one.
 ```
 
@@ -71,7 +71,7 @@ I give you the real experience behind every Michelin star and Key I visit, so fo
 | Yes | "Worth it? Definitely." / "Yeah, it was." | |
 | Yes, with a condition | "Worth it? For a special occasion, yes." | e.g. Le Cinq |
 | Mixed | "Worth it? Not exactly." + one line why | e.g. Il Pagliaccio |
-| No | "Worth it? Not really." + who it IS for | follow "no without burning bridges" in voice.md |
+| No | "Worth it? It wasn't for me." (STANDARD for every no, user 2026-11-23) | follow "no without burning bridges" in voice.md |
 
 ## Flow: lead-ins between sections (applies to EVERY script, user 2026-11-23)
 

@@ -93,7 +93,9 @@ Honest verdicts stay, but every "no" or "not really" script follows these:
 - Criticise the experience, never the people (staff, chef, owners).
 - Always say what was good too (the three talking points make this automatic).
   Atomix model: "the service was good... the food was good, but it felt flat."
-- Say who it IS worth it for when it fits ("not for me, but if you love X...").
+- Every "no" verdict is worded "It wasn't for me." (STANDARD, user
+  2026-11-23): personal taste, not a ruling on the restaurant. Add who it IS
+  for only if the user asks.
 - No mocking, sarcasm or pile-on language.
 - Toronto restaurants: be extra careful, since the concierge access depends on
   front-of-house relationships there. Flag any Toronto "no" to the user first.
