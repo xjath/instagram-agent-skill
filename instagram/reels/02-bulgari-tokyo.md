@@ -55,6 +55,7 @@ Breakfast line removed: the user has no footage of the hotel food
 (2026-11-23). Amenities now = pool and gym.
 Service detail (user, 2026-11-23): a welcome note, and fresh pastries daily.
 Now ~65.8s; humanizer 88.5 PASS.
+Who-to-book-for line removed at the user's request (2026-11-23).
 
 ```
 I spent $4,200 at a three Michelin Key hotel.
@@ -68,7 +69,7 @@ So warm, super attentive, and never stiff.
 Then there's everything else.
 The pool has these high ceilings with beds and pods along the side, and the gym looks right over the city.
 So after three nights, worth it?
-Definitely. Book it for a special trip, with your partner, or if you just love luxury.
+Definitely.
 I give you the real experience behind every Michelin star and Key I visit, so follow for the next one.
 ```
 
