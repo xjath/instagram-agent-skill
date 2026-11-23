@@ -87,3 +87,18 @@ The user may end on an open line on purpose, e.g. "But follow me, because the
 next one just might be." It invites people to follow to keep up with the
 adventures. Don't "fix" an open ending.
 
+## Giving a "no" without burning bridges (user, 2026-11-23)
+
+Honest verdicts stay, but every "no" or "not really" script follows these:
+- Criticise the experience, never the people (staff, chef, owners).
+- Always say what was good too (the three talking points make this automatic).
+  Atomix model: "the service was good... the food was good, but it felt flat."
+- Say who it IS worth it for when it fits ("not for me, but if you love X...").
+- No mocking, sarcasm or pile-on language.
+- Toronto restaurants: be extra careful, since the concierge access depends on
+  front-of-house relationships there. Flag any Toronto "no" to the user first.
+- Sponsored or comped content gets the same honest verdict, and any material
+  connection (payment, free meals, discounts, trips) is disclosed visibly,
+  above the "...more" cut (Canada's Competition Bureau; US FTC 16 CFR 255).
+  General information, not legal advice.
+

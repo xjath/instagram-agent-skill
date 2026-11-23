@@ -17,6 +17,8 @@ happen on your phone or computer.
 - [ ] Humanizer (`/ig-human`), aim for PASS.
 - [ ] Facts in the script match the notes and the verified sources.
 - [ ] Open sign-off is fine ("...the next one just might be").
+- [ ] For a "no": follow "Giving a 'no' without burning bridges" in voice.md.
+- [ ] Any free meal, discount or payment: disclosure planned for the caption.
 - [ ] Saved to `reels/NN-place.md` and committed.
 
 ### What makes a script better (learned 2026-11-22)
