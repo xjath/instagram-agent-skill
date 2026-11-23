@@ -1,6 +1,6 @@
 # Reel #2: Bulgari Hotel Tokyo
 
-Status: version 5 CHOSEN by the user 2026-11-23 (not locked yet). Version 1 is the user's own script; version 2 is
+Status: version 6 LOCKED 2026-11-23. Caption not written yet. Version 1 is the user's own script; version 2 is
 Claude's tightened edit of it. Waiting for the user to pick. Caption not
 written yet.
 
@@ -47,6 +47,35 @@ written yet.
   everyday, minimalist, clean, nothing grand, but very high quality luxury
   that doesn't scream. Mt Fuji is seen FROM THE ROOM. Service: they treated
   the user like a regular even though it was their first time.
+
+## Final script (version 6, LOCKED 2026-11-23)
+The user's original script with: breakfast removed (no food footage), the
+standard hook, "For $1,400 a night" in the verdict, two contractions ("The
+room's", "The view's"), and the standard sign-off. ~51.3s; hook 80.8 STRONG;
+humanizer 81.2 PASS; loops on "Michelin Key".
+
+The three points:
+- Room: spacious, zen, well designed, incredibly comfortable bed; skyline over
+  the Imperial Garden; Mt Fuji from the room.
+- Service: amazing; they treat their guests like family.
+- Amenities: pool (high ceilings, beds and pods); gym (Technogym, city view).
+
+```
+I spent $4,200 at a three Michelin Key hotel.
+This is Bulgari Hotel Tokyo.
+I stayed three nights in a Premium Guest Room.
+The room's spacious, zen, and really well designed, and the bed is incredibly comfortable.
+The view's phenomenal.
+You wake up to the skyline over the Imperial Garden, and you can even see Mount Fuji from the hotel room.
+The service was amazing.
+They treat their guests like family.
+Then there's the amenities, such as the pool.
+It had high ceilings, with beds and pods by the side, which makes it feel luxurious,
+and the gym had Technogym equipment overlooking the skyline of the city.
+The entire experience was amazing.
+For $1,400 a night, it was definitely worth it.
+I give you the real experience behind every Michelin star and Key I visit, so follow for the next one.
+```
 
 ## Script version 5: the user's original minus breakfast (CHOSEN, 2026-11-23)
 The user chose their original script with only the breakfast removed (no
