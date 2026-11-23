@@ -1,6 +1,6 @@
 # Reel #2: Bulgari Hotel Tokyo
 
-Status: version 6 LOCKED 2026-11-23. Caption not written yet. Version 1 is the user's own script; version 2 is
+Status: version 7 LOCKED 2026-11-23. Caption not written yet. Version 1 is the user's own script; version 2 is
 Claude's tightened edit of it. Waiting for the user to pick. Caption not
 written yet.
 
@@ -16,8 +16,8 @@ written yet.
   pool with high ceilings and beds and pods along the side; gym with
   Technogym equipment overlooking the city.
 - Footage: photos and videos of the room, hallway, entrance, decor, pool, gym.
-  NO footage of the hotel food or breakfast (user, 2026-11-23). Pastries:
-  footage not confirmed (they're food).
+  NO footage of the hotel food or breakfast (user, 2026-11-23). Pastries are in
+  the script at the user's request, so footage exists.
 
 ## The three points (hotel)
 - Room: spacious, zen, well designed, comfortable bed; skyline and Imperial
@@ -48,7 +48,7 @@ written yet.
   that doesn't scream. Mt Fuji is seen FROM THE ROOM. Service: they treated
   the user like a regular even though it was their first time.
 
-## Final script (version 6, LOCKED 2026-11-23)
+## Final script (version 7, LOCKED 2026-11-23)
 The user's original script with: breakfast removed (no food footage), the
 standard hook, "For $1,400 a night" in the verdict, two contractions ("The
 room's", "The view's"), and the standard sign-off. ~51.3s; hook 80.8 STRONG;
@@ -57,7 +57,8 @@ humanizer 81.2 PASS; loops on "Michelin Key".
 The three points:
 - Room: spacious, zen, well designed, incredibly comfortable bed; skyline over
   the Imperial Garden; Mt Fuji from the room.
-- Service: amazing; they treat their guests like family.
+- Service: amazing; a welcome note in the room and fresh pastries every day
+  (replaces "they treat their guests like family", user 2026-11-23).
 - Amenities: pool (high ceilings, beds and pods); gym (Technogym, city view).
 
 ```
@@ -68,7 +69,7 @@ The room's spacious, zen, and really well designed, and the bed is incredibly co
 The view's phenomenal.
 You wake up to the skyline over the Imperial Garden, and you can even see Mount Fuji from the hotel room.
 The service was amazing.
-They treat their guests like family.
+I got a welcome note in the room and fresh pastries every day.
 Then there's the amenities, such as the pool.
 It had high ceilings, with beds and pods by the side, which makes it feel luxurious,
 and the gym had Technogym equipment overlooking the skyline of the city.
