@@ -39,7 +39,8 @@ happen on your phone or computer.
 - [ ] One shot per line from the footage you have; a new shot every 1-2s.
 - [ ] Whatever is ON SCREEN matches what is SAID (Atomix lesson: don't say
       "World's 50 Best" over the North America's 50 Best trophy).
-- [ ] Flag any line with no footage.
+- [ ] Lines the user said themselves have footage; don't ask. Only check lines
+      Claude wrote from older notes.
 
 ## 4. Record the voiceover (you)
 

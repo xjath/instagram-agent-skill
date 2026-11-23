@@ -157,4 +157,7 @@ to your best friend. Lead-in bank and flow check: `script-template.md`.
 - When comparing scores, compare against ALL earlier versions, and say so
   plainly if a change made something worse.
 - State results flatly: what changed, the numbers, what's still wrong.
+- Don't ask whether there's footage for something the user puts in a script.
+  If they say it in the script, they have footage of it (user, 2026-11-23).
+  Only flag footage for lines Claude wrote from older notes.
 
