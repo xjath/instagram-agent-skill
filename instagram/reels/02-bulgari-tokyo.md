@@ -16,7 +16,8 @@ written yet.
   pool with high ceilings and beds and pods along the side; gym with
   Technogym equipment overlooking the city.
 - Footage: photos and videos of the room, hallway, entrance, decor, pool, gym.
-  NO footage of the hotel food or breakfast (user, 2026-11-23).
+  NO footage of the hotel food or breakfast (user, 2026-11-23). Pastries:
+  footage not confirmed (they're food).
 
 ## The three points (hotel)
 - Room: spacious, zen, well designed, comfortable bed; skyline and Imperial
@@ -52,6 +53,8 @@ written yet.
 loops on "Michelin Key". Uses the follow-up answers. Still long; trim pending.
 Breakfast line removed: the user has no footage of the hotel food
 (2026-11-23). Amenities now = pool and gym.
+Service detail (user, 2026-11-23): a welcome note, and fresh pastries daily.
+Now ~65.8s; humanizer 88.5 PASS.
 
 ```
 I spent $4,200 at a three Michelin Key hotel.
@@ -60,7 +63,7 @@ The second you step into the room, it's so zen and calming, clean and minimal, b
 Then you look out the window, the whole skyline over the Imperial Garden, and you can see Mount Fuji right from the room.
 And at night? There's something so romantic about a city skyline.
 And the staff?
-It was my first time there, and they treated me like a regular.
+It was my first time there, and they treated me like a regular, a welcome note in the room, fresh pastries every day.
 So warm, super attentive, and never stiff.
 Then there's everything else.
 The pool has these high ceilings with beds and pods along the side, and the gym looks right over the city.
