@@ -12,6 +12,8 @@ happen on your phone or computer.
 - [ ] Pick the hook technique (list in `voice.md`; suggestions in `backlog.md`).
 
 ## 2. Script (you write it, or Claude drafts it)
+- [ ] You answer the detail questions in `detail-questions.md` (the hard
+      part made easy); Claude turns them into lines on the skeleton.
 - [ ] Hook: score it (`hookscore.py`), aim for STRONG and 8-10 words.
 - [ ] Time it (`beats.py`), aim for 30-45s.
 - [ ] Humanizer (`/ig-human`), aim for PASS.
