@@ -44,6 +44,29 @@ pastes the caption and posts it themselves. Saved 2026-11-20 as given.
    off; Providence kept the level the hors d'oeuvres set, all the way through.
 6. Would go back with anyone; "it's just that good".
 
+## Script version 5: talking to your best friend (DRAFT, 2026-11-23)
+The user wants it told like they're talking to their best friend, not
+storytelling. ~55.6s, 13 beats; hook 80.8 STRONG; humanizer 84.3 PASS
+(voice 100); loops on "Michelin star". Every detail is from the user's
+answers. "Way more flavor than you'd expect" = the user's "unexpectedly
+flavorful".
+
+```
+I spent $2,400 at a three Michelin star restaurant.
+Okay, I need to tell you about this place.
+It's Providence, one of the first in LA to ever get three stars.
+So first, they take us down to the wine cellar, and there's literally a bottle of Dom with three stars on it, for their new star.
+Then out of nowhere, they give us a private room, and we're watching the chefs cook right in front of us.
+And the staff? They make you feel at home, I'm not kidding.
+Okay, but the black bass.
+So simple, so delicate, and way more flavor than you'd expect.
+And it never fell off, first bite to last.
+$495 a person, plus pairings, a $100 cocktail and tip.
+Worth it?
+Trust me, I'd go back with anyone. It's just that good.
+I rate every Michelin star and Key I visit, so follow for the next verdict.
+```
+
 ## Script version 4: storytelling (DRAFT, 2026-11-23)
 The user asked for a story, not a description. ~52.0s, 12 beats; hook 80.8
 STRONG; humanizer PASS; loops on "Michelin star". Over the 45s working

@@ -76,9 +76,10 @@ Follow for the next verdict.
 | No | "Worth it? Not really." + who it IS for | follow "no without burning bridges" in voice.md |
 
 ## Rules every section follows
-- Tell it as a story, not a list (user, 2026-11-23): move through the
-  night in order ("the night starts...", "then they...", "and the food?"),
-  in the present tense, with connecting words and a reaction at each step.
+- Tone (user, 2026-11-23): talk to the viewer like they're your best friend.
+  "Okay, I need to tell you about this place", "you", "trust me",
+  "I'm not kidding", "okay, but the...". Move through the night in order,
+  with a reaction at each step. Not a list, and not a narrated story.
 - React, don't label ("and you can feel it", not "the service was excellent").
 - Contractions and "I / we / you".
 - Every fact is from the user's notes or verified with a source.
