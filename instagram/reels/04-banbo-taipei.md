@@ -43,9 +43,10 @@ which posts just before it at #3.
 74.9 PASS; loops on "Michelin star".
 Hook (user, 2026-11-23): "Friends and I spent $850..." (77.2 STRONG). Line 3
 now says "we came for..." since the hook mentions friends.
+Hook back to "We spent $850..." (user, 2026-11-23; 80.8 STRONG).
 
 ```
-Friends and I spent $850 at a one Michelin star restaurant.
+We spent $850 at a one Michelin star restaurant.
 Come check it out with me.
 This is Banbo in Neihu, Taipei, and we came for the tasting menu with the cocktail pairing.
 And every dish here tells its own story about Taiwan.
