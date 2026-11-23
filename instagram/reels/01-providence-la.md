@@ -46,26 +46,31 @@ pastes the caption and posts it themselves. Saved 2026-11-20 as given.
 
 ## Script version 5: talking to your best friend (DRAFT, 2026-11-23)
 The user wants it told like they're talking to their best friend, not
-storytelling. ~59.3s, 14 beats; hook 80.8 STRONG; humanizer 80.7 PASS; loops on "Michelin star". Every detail is from the user's
+storytelling. ~57.8s, 15 beats; hook 80.8 STRONG; humanizer 75.6 PASS; loops on "Michelin star". Every detail is from the user's
 answers. "Way more flavor than you'd expect" = the user's "unexpectedly
 flavorful".
 Room line (user, 2026-11-23): "they surprised us with the best room in the
 house, a private room with a view of the kitchen".
+Flow pass (user, 2026-11-23): lead-ins between sections ("so by the time the
+food comes out...", "so what does a night like that cost?"). Cut to fit:
+"Like, we're watching the chefs cook...", "I'm not kidding", "It's just that
+good", "literally".
 
 ```
 I spent $2,400 at a three Michelin star restaurant.
 Okay, I need to tell you about this place.
 It's Providence, one of the first in LA to ever get three stars.
-So first, they take us down to the wine cellar, and there's literally a bottle of Dom with three stars on it, celebrating their new star.
+First, they take us down to the wine cellar, and there's a bottle of Dom with three stars on it, celebrating their new star.
 Then they surprise us with the best room in the house, a private room with a view of the kitchen.
-Like, we're watching the chefs cook right in front of us.
-And the staff? They make you feel at home, I'm not kidding.
-Okay, but the black bass.
-So simple, so delicate, and way more flavor than you'd expect.
-And it never fell off, first bite to last.
+And the whole night, the staff make you feel at home.
+So by the time the food comes out, the bar's already high.
+And it never drops.
+My favorite?
+The black bass. So simple, so delicate, way more flavor than you'd expect.
+So what does a night like that cost?
 $495 a person, plus pairings, a $100 cocktail and tip.
 Worth it?
-Trust me, I'd go back with anyone. It's just that good.
+Trust me, I'd go back with anyone.
 I rate every Michelin star and Key I visit, so follow for the next verdict.
 ```
 

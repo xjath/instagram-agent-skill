@@ -80,6 +80,9 @@ Follow for the next verdict.
   "Okay, I need to tell you about this place", "you", "trust me",
   "I'm not kidding", "okay, but the...". Move through the night in order,
   with a reaction at each step. Not a list, and not a narrated story.
+- Lead into each section, don't jump (user, 2026-11-23): e.g. service to
+  food: "so by the time the food comes out, the bar's already high"; food
+  to bill: "so what does a night like that cost?"
 - React, don't label ("and you can feel it", not "the service was excellent").
 - Contractions and "I / we / you".
 - Every fact is from the user's notes or verified with a source.
