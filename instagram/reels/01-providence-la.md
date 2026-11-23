@@ -13,7 +13,7 @@ pastes the caption and posts it themselves. Saved 2026-11-20 as given.
 - Moments: service attentive all night without hovering or being overbearing; every dish a "flavor bomb"; they gave us a private room with a view right into the kitchen; took us on a wine cellar tour.
 - Letdowns: none.
 - Footage: wine cellar, the room, the food, the menu.
-- Also seen (user, 2026-11-22): in the wine cellar, a Dom Pérignon bottle with
+- Also seen (user, 2026-11-22/23): invited to the wine cellar at check-in; a custom Dom Pérignon bottle with
   three Michelin stars on it, to celebrate the third star. Photo confirmed
   (2026-11-22): a 1.5-litre (magnum) Dom Pérignon Vintage 2012, engraved
   "Congratulations", three red Michelin star symbols, "Providence".
@@ -55,12 +55,16 @@ Flow pass (user, 2026-11-23): lead-ins between sections ("so by the time the
 food comes out...", "so what does a night like that cost?"). Cut to fit:
 "Like, we're watching the chefs cook...", "I'm not kidding", "It's just that
 good", "literally".
+Cellar (user, 2026-11-23): when they arrived and checked in, the restaurant
+invited them to view the wine cellar, which was amazing; a custom bottle of
+Dom with three stars on it, to celebrate the milestone. Now ~61.1s;
+humanizer 85.6 PASS.
 
 ```
 I spent $2,400 at a three Michelin star restaurant.
 Okay, I need to tell you about this place.
 This is Providence, one of the first in LA to ever get three stars.
-First, they take us down to the wine cellar, and there's a bottle of Dom with three stars on it, celebrating their new star.
+So when we check in, they invite us down to their wine cellar, which is amazing, and there's even a custom bottle of Dom with three stars on it, celebrating the milestone.
 Then they surprise us with the best room in the house, a private room with a view of the kitchen.
 And the whole night, the staff make you feel at home.
 So by the time the food comes out, the bar's already high.
