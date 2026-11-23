@@ -45,12 +45,12 @@ pastes the caption and posts it themselves. Saved 2026-11-20 as given.
 6. Would go back with anyone; "it's just that good".
 
 ## Script version 3 (DRAFT on the confirmed framework, 2026-11-23)
-~44.4s, 13 beats; hook 80.8 STRONG; humanizer 76.6 PASS; loops on "Michelin
+~46.5s, 13 beats; hook 80.8 STRONG; humanizer 74.8 PASS; loops on "Michelin
 star". Not locked yet: version 2 stays locked until the user approves this.
 
 ```
 I spent $2,400 at a three Michelin star restaurant.
-This is Providence, one of LA's first two three-star spots ever.
+This is Providence, one of the first restaurants in LA to ever get three stars.
 The sommelier walks us through the wine cellar, rows and rows of bottles, and a Dom with three stars on it.
 Then a surprise private room, with the chefs cooking right in front of us.
 Our bartender tells a story with every drink.
