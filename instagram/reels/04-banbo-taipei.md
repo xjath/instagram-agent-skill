@@ -34,7 +34,7 @@ which posts just before it at #3.
   and pairing: to confirm).
 - Lamb dish: red sauce signifying the animal's blood; greens representing the
   forest around it.
-- Shrimp dish: designed like an art piece showing a river; the shrimp is what
+- Shrimp dish: designed like an art piece showing a river (a cauliflower purée); the shrimp is what
   actually lives in the river; black chips are the rocks. (Chosen for the script.)
 - Most memorable cocktail: one with a bubble; very unique presentation.
 
@@ -44,13 +44,14 @@ which posts just before it at #3.
 Hook (user, 2026-11-23): "Friends and I spent $850..." (77.2 STRONG). Line 3
 now says "we came for..." since the hook mentions friends.
 Hook back to "We spent $850..." (user, 2026-11-23; 80.8 STRONG).
+The river is a cauliflower purée (user, 2026-11-23).
 
 ```
 We spent $850 at a one Michelin star restaurant.
 Come check it out with me.
 This is Banbo in Neihu, Taipei, and we came for the tasting menu with the cocktail pairing.
 And every dish here tells its own story about Taiwan.
-Like the shrimp, plated like a piece of art: the plate's the river, the shrimp is what actually lives in it, and the black chips are the rocks.
+Like the shrimp, plated like a piece of art: the cauliflower purée is the river, the shrimp is what actually lives in it, and the black chips are the rocks.
 And each dish is one part of a bigger story, told one course at a time.
 The service? Attentive and friendly the whole way through.
 The food itself was cooked well, but honestly, it's the stories you remember.
