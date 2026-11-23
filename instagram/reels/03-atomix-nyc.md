@@ -1,7 +1,141 @@
 # Reel #3: Atomix, New York
 
-Status: DRAFT, waiting for the user's approval (written 2026-11-20). Caption
-not written yet.
+Status: script version 11 LOCKED 2026-11-23, to be RE-RECORDED (the earlier
+video used the old script). Video fixes still apply: replace the opening
+bottle shot (not from Atomix), don't show the North America's 50 Best trophy
+while saying "world's 50 best", move captions up.
+Caption not written yet. See "As made" below for what the video actually says.
+
+## Final script (version 11, LOCKED 2026-11-23)
+Combined at the user's direction: the recorded edit's intro and experience,
+the new service lines, only the food letdown (no "what was good" line), the
+"It wasn't for me." verdict, standard hook and sign-off. 164 words; ~43s at
+the user's measured pace (229 wpm; ~59.6s at the tool's default 165);
+humanizer 94.0 PASS (voice 100); loops on "Michelin star".
+"Come check it out with me." added after the hook (user, 2026-11-23). ~44.5s at
+the user's pace; humanizer 93.0 PASS.
+Prices switched to CAD (user, 2026-11-23). US$927 food (~CA$1,326 at 0.699) + CA$954 wine = ~CA$2,280, rounded to $2,300.
+City added to the hook (user, 2026-11-23). "This is Atomix New York" became "This is Atomix" so the city isn't said twice.
+
+```
+I spent $2,300 at a two Michelin star restaurant in New York.
+Come check it out with me.
+This is Atomix, the only US spot on the world's 50 best list.
+When you walk in, you get to see all of their awards, such as their Michelin plaques and trophies,
+and my expectations from seeing this are sky high.
+When you walk into a restaurant with THIS much hype behind it, you're kind of excited for how memorable this meal's gonna be.
+And the service lives up to it.
+Water's always topped up, they even top up the wine pairing, they notice every little detail.
+But the food? That's where it falls flat.
+It all felt kind of Americanized, fancy stuff like king crab, caviar and truffle, without the flavor, the spice, or the fermentation I was hoping for.
+Nothing really stuck with me.
+So, worth it?
+It wasn't for me.
+I give you the real experience behind every Michelin star and Key I visit, so follow for the next one.
+```
+
+## Detail answers (user, 2026-11-23)
+- Service: attention to detail; water refills; an extra top-up of wine during
+  the wine pairing.
+- Food: always likes golden eye snapper; the lobster dish was good too.
+- Expected more flavour, spice and fermentation.
+- Seating: all at a U-shaped counter.
+
+## Script on the framework (version 10, DRAFT, 2026-11-23)
+Redo at the user's request, to be re-recorded. ~57.8s; hook 80.8 STRONG;
+humanizer 80.8 PASS (voice 100); loops on "Michelin star". Follows the "no
+without burning bridges" rules: criticises the food, not people; credits the
+service, the snapper and the lobster. No "who it's for" line.
+The top-up was wine, during the wine pairing (user, 2026-11-23).
+Verdict wording (user, 2026-11-23): "It wasn't for me." instead of "Not really."
+U-shaped counter removed (user, 2026-11-23).
+
+```
+I spent $1,600 at a two Michelin star restaurant.
+This is Atomix, the only US spot on the World's 50 Best, so my expectations are sky-high.
+You walk in past all their Michelin plaques and awards.
+And the service lives up to it.
+Water's always topped up, they even top up the wine pairing, they notice every little detail.
+So by the time the food comes out, I'm expecting a meal I'll remember for life.
+And that's where it falls flat.
+Don't get me wrong, the golden eye snapper and the lobster were good.
+But it all felt kind of Americanized, fancy stuff like king crab, caviar and truffle, without the flavor, the spice, or the fermentation I was hoping for.
+Nothing really stuck with me.
+So, worth it?
+It wasn't for me.
+I give you the real experience behind every Michelin star and Key I visit, so follow for the next one.
+```
+
+## As made, edit 2 (from the video's captions, reviewed 2026-11-22)
+
+Read from the typed-on captions at 2 frames a second; the audio was not heard.
+42.7s, no end card. Hook 84.4 STRONG; humanizer 79.1 PASS (voice 100).
+
+```
+I paid $1,600 for two, for two stars, and I wouldn't return.
+This is Atomix New York, the only US spot on the world's 50 best list.
+When you walk in, you get to see all of their awards, such as their Michelin plaques and trophies,
+and my expectations from seeing this are sky high.
+When you walk into a restaurant with THIS much hype behind it, you're kind of excited for how memorable this meal's gonna be.
+The service was good, but the food felt Americanized.
+It didn't feel like I was eating actual Korean food.
+They had a lot of fancy ingredients, such as king crab, caviar, and truffle, but it felt flat.
+Nothing really stuck with me.
+Now, don't get me wrong, the food was good, but there was just no dish that really stood out to make it very memorable.
+Was it worth it? In my opinion, not really.
+But follow me, because the next one just might be.
+```
+
+What changed from edit 1: service line added ("The service was good"); "It
+didn't feel like I was eating actual Korean food" added; CapCut end card
+removed; key words in red ($1,600, sky high, THIS); "Worth it? NO" card in red
+over the last shots. Covers food, service and experience.
+
+Still open (2026-11-22):
+- FIX BEFORE POSTING: the opening shot (0:00-0:01, Dom Pérignon Vintage 2017
+  on a stone counter) is NOT from Atomix (user, 2026-11-22). Replace it with
+  real Atomix footage, e.g. the outside sign, the plaque wall, or a dish.
+- 0:06-0:08: "world's 50 best list" is still said over the NORTH AMERICA'S 50
+  BEST RESTAURANTS 2025 trophy.
+- Captions still sit at about 73-82% of the frame height (safe line is 75%).
+- Ending "the next one just might be." is open ON PURPOSE (user, 2026-11-22):
+  it invites people to follow to keep up with the adventures.
+- The opening caption may read "for two, for two stars"; check the wording.
+
+## As made (from the video's burned-in captions, reviewed 2026-11-22)
+
+Read from the captions at 3 frames a second; the audio itself was not heard.
+~42.7s of content, then a CapCut end card to ~45.4s.
+
+```
+I paid $1,600 for two people for two stars, and I wouldn't return.
+This is Atomix, New York, the only US spot on the World's fifty best list.
+When you walk in, you get to see all their awards, such as their Michelin plaques and trophies,
+and my expectations from seeing this are sky-high.
+When you walk into a restaurant with this much hype behind it,
+you're kind of excited for how memorable this meal is gonna be.
+But the truth is, the Korean food felt kind of Americanized.
+They had a lot of fancy ingredients, such as king crab, caviar, and truffle, but it felt flat.
+Nothing really stuck with me.
+Now, don't get me wrong, the food was good,
+but there was no dish that really stood out to make it memorable.
+Was it worth it? In my opinion, not really.
+But follow me, because the next one just might be
+```
+
+New facts from the user in the video: king crab, caviar and truffle among the
+ingredients. Verdict wording: "not really". No service line in the video.
+
+Review notes (2026-11-22):
+- 0:06-0:09: the voiceover says "World's fifty best list" over a trophy that
+  reads "NORTH AMERICA'S 50 BEST RESTAURANTS 2025" (base text appears to say
+  "... in USA Northeast"). Different list from the one in the voiceover.
+- Captions sit at about 74-81% of the frame height, partly below the 75% line
+  where Instagram's caption and buttons cover the video.
+- The last caption is "one just might be", then the video cuts.
+- A CapCut end card runs from ~0:43 to the end.
+- Captions are white on black; the voice rules call for the key word in red.
+- Michelin plaques for 2022, 2023, 2024 and 2025 are visible at 0:10-0:13.
 
 ## Facts used
 - Atomix, New York. Korean tasting menu. Visited July 2026, dinner for two.

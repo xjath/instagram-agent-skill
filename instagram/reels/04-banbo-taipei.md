@@ -1,7 +1,6 @@
 # Reel #4: Banbo, Taipei
 
-Status: DRAFT, waiting for the user's approval (written 2026-11-20). Caption
-not written yet.
+Status: script version 7 LOCKED 2026-11-23. Caption not written yet.
 
 ## Facts used
 - Banbo (Michelin spells it "Ban Bo"), Taipei. Visited June 2026.
@@ -27,6 +26,47 @@ not written yet.
 - 62.6 OK      "$210 for a Michelin star, and honestly it was worth it."
 Mirrors the Atomix hook ("I paid $1,600 for two stars. Wouldn't return."),
 which posts just before it at #3.
+
+## Detail answers (user, 2026-11-23)
+- The user paid only for themselves; the group of four spent about US$850
+  (NT$7,000 x 4 = NT$28,000, at TWD 0.0303; assumes all four had the same menu
+  and pairing: to confirm).
+- Lamb dish: red sauce signifying the animal's blood; greens representing the
+  forest around it.
+- Shrimp dish: designed like an art piece showing a river (a cauliflower purée); the shrimp is what
+  actually lives in the river; black chips are the rocks. (Chosen for the script.)
+- Most memorable cocktail: one with a bubble; very unique presentation.
+
+## Final script (version 7, LOCKED 2026-11-23)
+154 words; ~40.4s at the user's pace (229 wpm); hook 80.8 STRONG; humanizer
+74.9 PASS; loops on "Michelin star".
+Hook (user, 2026-11-23): "Friends and I spent $850..." (77.2 STRONG). Line 3
+now says "we came for..." since the hook mentions friends.
+Hook back to "We spent $850..." (user, 2026-11-23; 80.8 STRONG).
+The river is a cauliflower purée (user, 2026-11-23).
+Verdict (user, 2026-11-23): "Was it worth it? If you love a great storytelling
+experience with food, then it definitely is."
+Verdict wording chosen by the user: "If you love a great storytelling
+experience with food? Then it definitely is." (71.3 PASS; was 70.0 REVIEW). The who-it's-for verdict is a BANBO-SPECIFIC
+choice (user, 2026-11-23); other reels don't say who to book for.
+Prices switched to CAD (user, 2026-11-23). NT$28,000 = ~US$848 = ~CA$1,214 (TWD 0.0303 USD, CAD 0.699 USD), rounded to $1,200.
+City added to the hook (user, 2026-11-23). "in Neihu, Taipei" became "in Neihu" so the city isn't said twice.
+
+```
+We spent $1,200 at a one Michelin star restaurant in Taipei.
+Come check it out with me.
+This is Banbo in Neihu, and we came for the tasting menu with the cocktail pairing.
+And every dish here tells its own story about Taiwan.
+Like the shrimp, plated like a piece of art: the cauliflower purée is the river, the shrimp is what actually lives in it, and the black chips are the rocks.
+And each dish is one part of a bigger story, told one course at a time.
+The service? Attentive and friendly the whole way through.
+The food itself was cooked well, but honestly, it's the stories you remember.
+And the cocktails? So creative.
+The most memorable one came with a bubble, and the presentation was so unique.
+Was it worth it?
+If you love a great storytelling experience with food? Then it definitely is.
+I give you the real experience behind every Michelin star and Key I visit, so follow for the next one.
+```
 
 ## Script (version 6, 2026-11-20)
 ~42.2s at 165 wpm, 12 beats; hook 83.1 STRONG; humanizer 74.0 PASS.

@@ -1,0 +1,89 @@
+# Reel #5: Baccarat Hotel New York
+
+Status: script version 1 LOCKED 2026-11-23. Caption not written yet.
+
+## Facts used
+- Baccarat Hotel New York, 1 Michelin Key (verified 2026-11-23: Michelin hotel
+  page and Michelin's Oct 2025 New York Key list).
+- Stayed July 14-19, 2026 (5 nights). US$12,000 total for the stay, including
+  the paid upgrade; CA$18,000 actual (user, 2026-11-23). ~CA$3,600 a night.
+- Booked a Grand Classic King; free upgrade to a Classic Suite; paid upgrade to
+  the Prestige Suite.
+- Verdict: YES.
+- Letdown: literally no view from the hotel; the inside made up for it.
+- Footage: room videos of both suites, hotel bar video, Forbes plaque photo,
+  hotel key photo.
+
+## Detail answers (user, 2026-11-23)
+- First impression of the Prestige Suite: how spacious it was, especially for
+  New York where hotel rooms are tiny; didn't expect it at all.
+- Bathrooms: marble; a full-mirror walk-in closet before the bathroom; double
+  sinks; so it felt like a
+  home; spacious showers; lots of lighting.
+- Baccarat: the same Baccarat as the crystal brand; the crystal is the hotel's
+  signature.
+- Maybach rides: technically only within 15 blocks, but they got one all the
+  way up to the Met.
+- Not answered: room service specifics; the bar.
+
+## The three points (hotel)
+- Room: the space; marble bathroom, walk-in closet, big shower; mirrors,
+  built-in TVs, Baccarat glasses, Evian; letdown: no view.
+- Service: free upgrade at check-in (from the booked room to a suite); the
+  doorman was very pleasant to talk to; the Maybach driver went beyond the
+  boundaries (user, 2026-11-23).
+- Amenities: complimentary Maybach rides (to the Met).
+
+## Final script (version 1, LOCKED 2026-11-23)
+186 words; ~48.7s at the user's pace (229 wpm); hook 80.8 STRONG; humanizer
+80.6 PASS; loops on "Michelin Key".
+Room service line cut (user, 2026-11-23). The script now has no service
+line: gap in the three points.
+Edits (user, 2026-11-23): booking/upgrade story cut ("I stayed in the
+Prestige Suite."); "I did not expect this" became "this hotel is what
+dreams are made of".
+Edits (user, 2026-11-23): crystal line cut; "This is what dreams are made
+of."; bathroom line in the user's words (full-mirror walk-in closet before the
+bathroom, double sinks, very spacious shower).
+Added (user, 2026-11-23): "Everything just feels grand." after "all of it".
+Maybach line cut to "And they've got complimentary Maybach rides." (user,
+2026-11-23).
+"Marble" back in the bathroom line (user, 2026-11-23).
+Service added (user, 2026-11-23): free upgrade at check-in; the doorman was
+pleasant to talk to; the Maybach driver went beyond the usual boundaries.
+~40.4s at the user's pace; humanizer 83.5 PASS.
+"They gave us a complimentary upgrade at check-in" (user, 2026-11-23).
+"I stayed in the Prestige Suite." replaced with "Honestly, one of the best
+hotels I've ever stayed in." (user, 2026-11-23; from their notes).
+Switched to option 2 (user, 2026-11-23): "The whole place is filled with
+millions of dollars of Baccarat crystal." Source: Forbes Travel Guide
+("flooded with millions of dollars of prismatic Baccarat crystals").
+Verdict question (user, 2026-11-23): "Was the money spent worth it?" (nightly
+rate removed).
+Verdict (user, 2026-11-23): "Definitely. I'm convinced that hotels matter now."
+Swapped (user, 2026-11-23): the "Mirrors, built-in TVs..." line now comes
+before the closet and bathroom line.
+Prices switched to CAD (user, 2026-11-23). US$12,000 = ~CA$17,167 at 0.699, rounded to $17,200.
+Actual CAD total: CA$18,000 (user, 2026-11-23); replaces the converted $17,200.
+City added to the hook (user, 2026-11-23). "This is Baccarat Hotel New York" kept: it is the hotel's name.
+"This is Baccarat Hotel New York." became "This is Baccarat Hotel." (user,
+2026-11-23), since the hook already says New York.
+Now "This is the Baccarat Hotel." (user, 2026-11-23).
+
+```
+I spent $18,000 at a one Michelin Key hotel in New York.
+Come check it out with me.
+This is the Baccarat Hotel.
+The whole place is filled with millions of dollars of Baccarat crystal.
+And the first thing that hits you is the space.
+This is what dreams are made of.
+Mirrors, built-in TVs, Baccarat glasses, Evian, all of it.
+There's a full mirror walk-in closet before going into the marble bathroom, with double sinks and a very spacious shower.
+Everything just feels grand.
+The one catch? There's literally no view, but the inside more than makes up for it.
+And the service? They gave us a complimentary upgrade at check-in, and the doorman was so easy to talk to.
+And they've got complimentary Maybach rides, our driver even took us past the usual limit.
+Was the money spent worth it?
+Definitely. I'm convinced that hotels matter now.
+I give you the real experience behind every Michelin star and Key I visit, so follow for the next one.
+```

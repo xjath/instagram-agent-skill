@@ -1,24 +1,27 @@
-# @theluxverdict profile plan
+# @starsnsuites profile plan (renamed from @theluxverdict on 2026-11-23)
 
 Planned 2026-11-20, before the account is set up. Nothing here is saved to
 Instagram automatically: the user enters each field in the app.
 
-## Bio (FINAL, confirmed by the user)
+## Bio (FINAL, changed by the user 2026-11-23)
 
 ```
-Is a Michelin dinner or a luxury hotel actually worth it?
+The real experience behind every Michelin star and Key.
 I pay the bill, you get an honest yes or no. Toronto based, eating and staying everywhere.
 ```
 
-148 of 150 characters, counting the line break as 1. Paste into Instagram to
-confirm it fits. If it doesn't: change "Toronto based" to "Toronto".
-"I pay the bill" is accurate: the user pays for everything (confirmed).
+NOTE (2026-11-23): the user reports Instagram allows 140 characters max, not
+the 150 that third-party guides give. At 146 this bio is over; an emoji
+version under 140 is being chosen. The first line repeats the
+reel sign-off. Previous bio (2026-11-20): "Is a Michelin dinner or a luxury
+hotel actually worth it? I pay the bill, you get an honest yes or no. Toronto
+based, eating and staying everywhere." "I pay the bill" is accurate: the user
+pays for everything (confirmed).
 
-## Name field (30 characters): NOT CONFIRMED YET
+## Name field (CONFIRMED 2026-11-23)
 
-Recommended: `Lux Verdict | Michelin Reviews` (30 characters). The name field is matched
-by Instagram search, so it carries "Michelin" and "Reviews".
-Alternatives: `Michelin & Hotel Reviews` (24), `Lux Verdict | Is It Worth It?` (29).
+`Stars n Suites | Michelin` (25 characters). The user said "I have that name"
+in reply to this recommendation. Instagram search matches this field.
 
 ## Pinned three (once the reels exist)
 
@@ -41,14 +44,17 @@ None for now. Add the WhatsApp community link once it opens to the public.
 Profile grid thumbnails show as 3:4, centre-cropped (secondary sources:
 kapwing.com, engadget.com, usa.inquirer.net). Keep cover text in the centre;
 thumbnails can be adjusted by hand. Same format every time:
-`[PRICE] [THING]. WORTH IT?` (e.g. `$375 TASTING MENU. WORTH IT?`), same font
+`[PRICE] [THING]. WORTH IT?` (e.g. `$495 TASTING MENU. WORTH IT?`), same font
 and position.
 
 ## Photo, handle, account type
 
 - Photo: a simple wordmark (no face on camera), readable at about 40px. Avoid
   an interlocking "LV" (Louis Vuitton's monogram).
-- Handle: @theluxverdict. Use the same handle on other platforms.
+- Handle: @starsnsuites (user changed it on 2026-11-23; was @theluxverdict).
+  Note the spelling: "n", not "and". @theluxverdict may now be claimable by
+  others; keep it on a second account if you might want it back (not checked
+  how Instagram releases old usernames). Use the same handle on other platforms.
 - Account type: Creator (help.instagram.com/138925576505882).
 - Category: closest in-app match, e.g. "Digital creator" or "Blogger". The
   current category list was not verified.

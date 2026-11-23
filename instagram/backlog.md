@@ -4,6 +4,16 @@ Saved from the user's notes on 2026-11-20. Source material for `/ig-reel`,
 `/ig-plan` and `/ig-carousel`: pull a restaurant or hotel from here as the idea.
 Kept exactly as given; facts not re-checked when saved.
 
+## Script progress note (2026-11-23)
+#7 Pujol: SKIPPED for now at the user's request; come back to it later.
+
+## Party size (user, 2026-11-23)
+Every restaurant visit was for TWO people unless stated otherwise (Banbo was
+four). Restaurant prices in this backlog are therefore for two unless marked
+"pp". Hooks use the total for two (the biggest true number).
+Totals still needed for the hook (only per-person prices noted): Kato
+(~US$300pp plus pairings, tax, tip), Alo (CA$245pp), Shoushin (~CA$600pp).
+
 ## Series status (from the user, 2026-11-20)
 
 - Bao Li Xuan: no plans for a reel.
@@ -52,6 +62,14 @@ unchanged. Bulgari Hotel Shanghai still posts before the head-to-head.
 | 21 | Every Key hotel, ranked | Ranking |
 | 22 | Every Michelin restaurant, ranked | Finale |
 
+Suggested hook techniques (numbers from the list in voice.md; based only on
+the user's own notes, to confirm when each script is written):
+- #7 Pujol: 6 challenge beliefs (user: "a lot of simple food in Mexico was much better").
+- #9 Le Cinq: 4 relatability (special occasion; flowers arranged for the user's girlfriend).
+- #11 Mizue: 5 before & after (0 stars at the visit, 2 stars about a month later).
+- #6, #13, #18 Toronto: 7 FOMO, once the concierge community is live.
+- #15 and #20 head-to-heads: 3 benefits (which one to book).
+
 Notes on this order:
 - Local Toronto restaurants will be added into this same series, not a
   separate one (user, 2026-11-20). They lean heavily Michelin. Most of the
@@ -79,7 +97,8 @@ streetsoftoronto.com (2026 ceremony), tastet.ca (2026 winners),
 michelin.com 2026 Toronto press release, dailyhive.com (2025 list).
 
 SUSHI MASAKI SAITO (Toronto), 1 star at the latest visit (confirmed by the user)
-Paid: CA$780pp (~US$545pp) at the latest visit, not including sake or wine pairings
+Paid: CA$780pp (~US$545pp) at the latest visit, not including sake or wine pairings.
+Total for two at the latest visit: CA$2,600 (user, 2026-11-23; ~US$1,817 at CAD 0.699).
 Worth it: YES, definitely
 Best moments: the dishes Saito made himself; the food was really, really good; hospitality and service good too
 Letdowns: none
@@ -129,9 +148,9 @@ USD conversions at 2026-11-19 rates (CAD 0.699, TWD 0.0303).
 === RESTAURANTS (11) ===
 
 PROVIDENCE (Los Angeles), 3 stars, January
-Paid: menu from US$375pp. Bill CA$3,400 (~US$2,400) for two, incl. two wine pairings, a US$100 cocktail, menu add-ons, tip
+Paid: menus start at US$375pp; they had the chef's tasting menu at US$495pp (clarified by the user 2026-11-22). Bill CA$3,400 (~US$2,400) for two, incl. two wine pairings, a US$100 cocktail, menu add-ons, tip
 Worth it: YES, definitely
-Best moments: service attentive without being overbearing; every dish a flavor bomb; private room with a view of the kitchen; wine cellar tour
+Best moments: service attentive without being overbearing; every dish a flavor bomb; wine cellar tour first, then a private room with a view of the kitchen (order confirmed 2026-11-22)
 Letdowns: none
 Footage: wine cellar, room, food, menu
 Accolades (verified): 3 Michelin stars (3rd in 2025, among LA's first); James Beard Outstanding Hospitality 2026; chef Michael Cimarusti James Beard Best Chef: West 2019
@@ -251,8 +270,8 @@ Footage: video of the room, some of the lobby, bar, etc.
 THE SHILLA SEOUL, 1 Key, April
 Footage: none
 
-BACCARAT HOTEL NEW YORK, 1 Key, July 14-19 (5 nights)
-Paid: US$12,000 (~US$2,400/night)
+BACCARAT HOTEL NEW YORK, 1 Key (verified 2026-11-23: Michelin hotel page and Michelin's Oct 2025 NYC Key list), July 14-19 (5 nights)
+Paid: US$12,000 (~US$2,400/night); CA$18,000 actual (user, 2026-11-23)
 Room: booked Grand Classic King; free upgrade to Classic Suite; paid upgrade to Prestige Suite
 Worth it: YES
 Best moments: among the best rooms I've stayed in (and among the highest priced); beautiful room and decor, mirrors, built-in TVs, Baccarat glassware, Evian water; good room service; gorgeous bathrooms; complimentary Maybach rides
