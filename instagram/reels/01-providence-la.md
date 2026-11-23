@@ -1,6 +1,6 @@
 # Reel #1: Providence, Los Angeles
 
-Status: script re-locked 2026-11-22 (version 2 replaces the 2026-11-19 script); caption version 2 drafted 2026-11-22 (version 1 had the cellar order wrong). Not posted from here: the user
+Status: script version 6 LOCKED 2026-11-23 (replaces version 2); caption version 2 drafted 2026-11-22 (version 1 had the cellar order wrong). Not posted from here: the user
 pastes the caption and posts it themselves. Saved 2026-11-20 as given.
 
 ## Facts
@@ -46,7 +46,57 @@ pastes the caption and posts it themselves. Saved 2026-11-20 as given.
    off; Providence kept the level the hors d'oeuvres set, all the way through.
 6. Would go back with anyone; "it's just that good".
 
-## Script version 6 (DRAFT, 2026-11-23)
+## Final script (version 6, LOCKED 2026-11-23)
+~61.5s at 165 wpm, 12 beats; hook 80.8 STRONG; humanizer 75.7 PASS; loops on
+"Michelin star". Built on the confirmed framework from the user's detail
+answers and edits. Longer than the 45s working range; the user accepted it.
+
+The three points:
+- Service: "they know how to treat their guests like royalty", shown through
+  the cellar invitation at check-in and the surprise private room.
+- Experience: wine cellar with the custom three-star Dom; best room in the
+  house, private, with a view of the kitchen.
+- Food: the king crab, the uni egg and the black bass; "it never drops".
+
+```
+I spent $2,400 at a three Michelin star restaurant.
+This is Providence, one of the first in LA to ever get three stars, and they know how to treat their guests like royalty.
+Like, when we check in, they invite us down to their wine cellar, which is amazing, and they even have a custom bottle of Dom with three stars on it, celebrating the milestone.
+And they're not done.
+They surprise us with the best room in the house, a private room with a view of the kitchen, so we're watching the chefs cook right in front of us.
+So by the time the food comes out, the bar's already high.
+And it never drops.
+My favorites?
+The king crab, the uni egg, and the black bass. They were all amazing.
+So after a night like that, was it worth it?
+Trust me, I'd go back with anyone.
+I give you the real experience behind every Michelin star and Key I visit, so follow for the next one.
+```
+
+Delivery notes: short pause after "was it worth it?". Long lines need shot
+changes inside them: the cellar line (~11s): cellar, then the custom Dom;
+the room line (~9s): room, then chefs cooking; the favourites line: one dish
+per name (king crab, uni egg, black bass).
+
+## On-screen cards and shots (for version 6)
+Cover: $2,400. 3 MICHELIN STARS.
+
+| Time | Card | Shot |
+|---|---|---|
+| ~0:00 | "$2,400 · ★★★ MICHELIN" | cellar or room, moving (motion in frame 1) |
+| ~0:03 | "PROVIDENCE, LA" | the room |
+| ~0:08 | "WINE CELLAR" | cellar |
+| ~0:14 | "CUSTOM 3-STAR DOM" | the engraved magnum; crop out the cork-board note |
+| ~0:20 | "BEST ROOM IN THE HOUSE" | private room |
+| ~0:25 | "VIEW OF THE KITCHEN" | chefs cooking |
+| ~0:30 | (no card) | food coming out |
+| ~0:36 | "KING CRAB · UNI EGG · BLACK BASS" | one dish per name |
+| ~0:43 | "WORTH IT?" | |
+| ~0:47 | "I'D GO BACK WITH ANYONE" in red | |
+| ~0:50 | "FOLLOW FOR THE NEXT ONE" | |
+
+## Earlier drafts (history)
+### Script version 6 (DRAFT, 2026-11-23)
 Version 5 with only the second price mention removed (the bill lead-in and
 the bill line), at the user's request. The other trims were reversed. The
 $495 menu, pairings and cocktail live in the caption only.
@@ -72,7 +122,7 @@ Trust me, I'd go back with anyone.
 I give you the real experience behind every Michelin star and Key I visit, so follow for the next one.
 ```
 
-## Script version 5: talking to your best friend (DRAFT, 2026-11-23)
+### Script version 5: talking to your best friend (DRAFT, 2026-11-23)
 The user wants it told like they're talking to their best friend, not
 storytelling. ~57.8s, 15 beats; hook 80.8 STRONG; humanizer 75.6 PASS; loops on "Michelin star". Every detail is from the user's
 answers. "Way more flavor than you'd expect" = the user's "unexpectedly
@@ -106,7 +156,7 @@ Trust me, I'd go back with anyone.
 I rate every Michelin star and Key I visit, so follow for the next verdict.
 ```
 
-## Script version 4: storytelling (DRAFT, 2026-11-23)
+### Script version 4: storytelling (DRAFT, 2026-11-23)
 The user asked for a story, not a description. ~52.0s, 12 beats; hook 80.8
 STRONG; humanizer PASS; loops on "Michelin star". Over the 45s working
 range: the user decides whether the story is worth the extra ~10s. Every
@@ -128,7 +178,7 @@ I'd go back with anyone. It's just that good.
 I rate every Michelin star and Key I visit, so follow for the next verdict.
 ```
 
-## Script version 3 (DRAFT on the confirmed framework, 2026-11-23)
+### Script version 3 (DRAFT on the confirmed framework, 2026-11-23)
 ~46.5s, 13 beats; hook 80.8 STRONG; humanizer 74.8 PASS; loops on "Michelin
 star". Not locked yet: version 2 stays locked until the user approves this.
 
@@ -148,7 +198,7 @@ Definitely. I'd go back with anyone.
 I rate every Michelin star and Key I visit, so follow for the next verdict.
 ```
 
-## Hook change in progress (DRAFT, 2026-11-22)
+### Hook change in progress (DRAFT, 2026-11-22)
 The user wants the hook to be about three Michelin stars, framed as sharing
 their experience (no "best" claim). Top option: hook 83.0 STRONG; humanizer
 82.1 PASS; ~45.8s; loops on "dinner, what". Not locked: waiting for the user.
@@ -170,7 +220,7 @@ Follow me,
 cuz not every dinner is worth what you pay.
 ```
 
-## Final script (version 2, LOCKED 2026-11-22)
+## Previous script (version 2, locked 2026-11-22, replaced 2026-11-23)
 ~45.8s at 165 wpm, 16 beats; hook 100.0 STRONG; humanizer 79.0 PASS; loops on
 "get what". Hook technique: 3 benefits + 2 curiosity.
 Built from the user's edits on 2026-11-22: $495 chef's tasting menu (menus
@@ -233,25 +283,6 @@ cuz the next one might not be worth it.
 ```
 
 Delivery notes: short pause after "Was it worth it?" before "Definitely." Read the last two lines as one sentence. The ending repeats "worth it" from the hook so the reel loops. If it runs long, cut "Not bad, right?" first.
-
-## On-screen cards and shots (for version 2)
-Cover: $2,400 FOR TWO. WORTH IT?
-
-| Time | Card | Shot |
-|---|---|---|
-| ~0:00 | "$2,400 DINNER FOR TWO" | wine cellar, moving (motion in frame 1) |
-| ~0:04 | "PROVIDENCE, LA" | the room |
-| ~0:04 | "★★★ MICHELIN" | the menu or the room |
-| ~0:09 | "WINE CELLAR" | cellar |
-| ~0:12 | "3-STAR DOM" | the engraved magnum (photo IMG_5031); slow zoom onto "Congratulations ✿✿✿ Providence", crop out the cork-board note |
-| ~0:17 | "SURPRISE PRIVATE ROOM" | room, kitchen view |
-| ~0:23 | "JAMES BEARD AWARD" | service footage |
-| ~0:29 | "EVERY DISH HIT" | a new dish every second or so |
-| ~0:32 | "$495 CHEF'S TASTING MENU" | the menu |
-| ~0:38 | "~$2,400 FOR TWO" | food or table |
-| ~0:40 | "DEFINITELY" in red | on the word, after the pause |
-
-Check what's on screen matches what's said (see workflow.md, step 3).
 
 ## Final caption (version 2, DRAFT 2026-11-22, matches script version 2)
 Caption linter READY; humanizer 81.4 PASS; 1010/2200 chars; first line 122
