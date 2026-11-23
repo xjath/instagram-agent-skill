@@ -48,7 +48,9 @@ and position.
 
 - Photo: a simple wordmark (no face on camera), readable at about 40px. Avoid
   an interlocking "LV" (Louis Vuitton's monogram).
-- Handle: @theluxverdict. Use the same handle on other platforms.
+- Handle: @theluxverdict, SECURED by the user (2026-11-22). Use the same handle
+  on other platforms. Also worth registering @theluxeverdict (people may type
+  "luxe"); availability not checked.
 - Account type: Creator (help.instagram.com/138925576505882).
 - Category: closest in-app match, e.g. "Digital creator" or "Blogger". The
   current category list was not verified.
