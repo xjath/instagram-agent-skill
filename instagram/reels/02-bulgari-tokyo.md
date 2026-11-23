@@ -16,6 +16,7 @@ written yet.
   pool with high ceilings and beds and pods along the side; gym with
   Technogym equipment overlooking the city.
 - Footage: photos and videos of the room, hallway, entrance, decor, pool, gym.
+  NO footage of the hotel food or breakfast (user, 2026-11-23).
 
 ## The three points (hotel)
 - Room: spacious, zen, well designed, comfortable bed; skyline and Imperial
@@ -49,6 +50,8 @@ written yet.
 ## Script version 4 (DRAFT, 2026-11-23)
 ~66.2s, 14 beats; hook 80.8 STRONG; humanizer 85.9 PASS (version 3: 75.4);
 loops on "Michelin Key". Uses the follow-up answers. Still long; trim pending.
+Breakfast line removed: the user has no footage of the hotel food
+(2026-11-23). Amenities now = pool and gym.
 
 ```
 I spent $4,200 at a three Michelin Key hotel.
@@ -60,7 +63,6 @@ And the staff?
 It was my first time there, and they treated me like a regular.
 So warm, super attentive, and never stiff.
 Then there's everything else.
-The avocado toast and the Japanese breakfast are both so good.
 The pool has these high ceilings with beds and pods along the side, and the gym looks right over the city.
 So after three nights, worth it?
 Definitely. Book it for a special trip, with your partner, or if you just love luxury.
