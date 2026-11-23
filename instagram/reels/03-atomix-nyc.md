@@ -16,6 +16,7 @@ humanizer 80.8 PASS (voice 100); loops on "Michelin star". Follows the "no
 without burning bridges" rules: criticises the food, not people; credits the
 service, the snapper and the lobster. No "who it's for" line.
 The top-up was wine, during the wine pairing (user, 2026-11-23).
+Verdict wording (user, 2026-11-23): "It wasn't for me." instead of "Not really."
 
 ```
 I spent $1,600 at a two Michelin star restaurant.
@@ -29,7 +30,7 @@ Don't get me wrong, the golden eye snapper and the lobster were good.
 But it all felt kind of Americanized, fancy stuff like king crab, caviar and truffle, without the flavor, the spice, or the fermentation I was hoping for.
 Nothing really stuck with me.
 So, worth it?
-Not really.
+It wasn't for me.
 I give you the real experience behind every Michelin star and Key I visit, so follow for the next one.
 ```
 
