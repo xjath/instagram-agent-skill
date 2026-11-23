@@ -44,6 +44,8 @@ Edits (user, 2026-11-23): crystal line cut; "This is what dreams are made
 of."; bathroom line in the user's words (full-mirror walk-in closet before the
 bathroom, double sinks, very spacious shower).
 Added (user, 2026-11-23): "Everything just feels grand." after "all of it".
+Maybach line cut to "And they've got complimentary Maybach rides." (user,
+2026-11-23).
 
 ```
 I spent $12,000 at a one Michelin Key hotel.
@@ -56,7 +58,7 @@ There's a full mirror walk-in closet before going into the bathroom, with double
 Mirrors, built-in TVs, Baccarat glasses, Evian, all of it.
 Everything just feels grand.
 The one catch? There's literally no view, but the inside more than makes up for it.
-And they've got complimentary Maybach rides, technically only 15 blocks, but we got it all the way up to the Met.
+And they've got complimentary Maybach rides.
 So, $2,400 a night, worth it?
 Definitely.
 I give you the real experience behind every Michelin star and Key I visit, so follow for the next one.
