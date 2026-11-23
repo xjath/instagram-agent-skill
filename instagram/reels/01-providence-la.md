@@ -44,20 +44,19 @@ pastes the caption and posts it themselves. Saved 2026-11-20 as given.
    off; Providence kept the level the hors d'oeuvres set, all the way through.
 6. Would go back with anyone; "it's just that good".
 
-## Script version 6: trimmed (DRAFT, 2026-11-23)
-Version 5 cut from ~61.1s to ~46.5s; humanizer 82.1 PASS (86.0 before the
-bill was removed); hook 80.8. The bill line was removed at the user's request
-("we open with the price already"); the $495 menu, pairings and cocktail now
-live in the caption only.
+## Script version 6 (DRAFT, 2026-11-23)
+Version 5 with only the second price mention removed (the bill lead-in and
+the bill line), at the user's request. The other trims were reversed. The
+$495 menu, pairings and cocktail live in the caption only.
 
 ```
 I spent $2,400 at a three Michelin star restaurant.
-Okay, listen.
-This is Providence, one of LA's first three-star restaurants.
-So at check-in, they invite us down to their wine cellar, and there's a custom bottle of Dom with three stars on it for the milestone.
-Then they surprise us with the best room in the house, a private room looking into the kitchen.
+Okay, I need to tell you about this place.
+This is Providence, one of the first in LA to ever get three stars.
+So when we check in, they invite us down to their wine cellar, which is amazing, and there's even a custom bottle of Dom with three stars on it, celebrating the milestone.
+Then they surprise us with the best room in the house, a private room with a view of the kitchen.
 And the whole night, the staff make you feel at home.
-So when the food comes out, the bar's already high.
+So by the time the food comes out, the bar's already high.
 And it never drops.
 My favorite?
 The black bass. So simple, so delicate, way more flavor than you'd expect.
