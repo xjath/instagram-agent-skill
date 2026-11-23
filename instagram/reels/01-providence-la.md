@@ -69,7 +69,7 @@ My favorites?
 The king crab, the uni egg, and the black bass. They were all amazing.
 So after a night like that, was it worth it?
 Trust me, I'd go back with anyone.
-I rate every Michelin star and Key I visit, so follow for the next verdict.
+I give you the real experience behind every Michelin star and Key I visit, so follow for the next one.
 ```
 
 ## Script version 5: talking to your best friend (DRAFT, 2026-11-23)

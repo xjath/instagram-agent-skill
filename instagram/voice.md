@@ -161,3 +161,8 @@ to your best friend. Lead-in bank and flow check: `script-template.md`.
   If they say it in the script, they have footage of it (user, 2026-11-23).
   Only flag footage for lines Claude wrote from older notes.
 
+## Sign-off, FINAL (user, 2026-11-23; replaces every earlier sign-off)
+"I give you the real experience behind every Michelin star and Key I visit, so follow for the next one."
+"Rate" and "verdict" were dropped: rating implies a score, and the
+account doesn't use numbers. Loops on "Michelin star" when the hook uses it.
+

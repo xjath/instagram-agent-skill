@@ -21,8 +21,7 @@ And the food? [one specific thing]. [reaction, or "don't get me wrong..." balanc
 Bill? [menu price], [pairings], [extras], [tip].
 Worth it?
 [ANSWER]. [for a "no": who it IS for]
-I rate every Michelin star and Key I visit.
-Follow for the next verdict.
+I give you the real experience behind every Michelin star and Key I visit, so follow for the next one.
 ```
 
 Hotel:
@@ -36,8 +35,7 @@ Then the amenities. [AMENITY 1], [reaction]. [AMENITY 2].
 $[PER NIGHT] a night, [N] nights.
 Worth it?
 [ANSWER].
-I rate every Michelin star and Key I visit.
-Follow for the next verdict.
+I give you the real experience behind every Michelin star and Key I visit, so follow for the next one.
 ```
 
 ## Restaurant layout
@@ -51,7 +49,7 @@ Follow for the next verdict.
 | 5 | FOOD | 24-31s | ~14-20 | One specific + reaction. Letdown goes here if the food was the letdown, balanced ("don't get me wrong...") | "FOOD: ..." |
 | 6 | THE BILL | 31-36s | ~12-16 | What the money covered: menu price, pairings, extras, tip | breakdown card |
 | 7 | VERDICT | 36-39s | ~4-8 | "Worth it?" (pause) + answer. A "no" adds who it IS for | answer in red |
-| 8 | SIGN-OFF | 39-43s | ~13 | "I rate every Michelin star and Key I visit. Follow for the next verdict." | FOLLOW FOR THE NEXT VERDICT |
+| 8 | SIGN-OFF | 39-43s | ~13 | "I give you the real experience behind every Michelin star and Key I visit, so follow for the next one." | FOLLOW FOR THE NEXT ONE |
 
 ## Hotel layout
 
@@ -64,7 +62,7 @@ Follow for the next verdict.
 | 5 | AMENITIES | 23-31s | ~16-22 | Breakfast, spa, pool, gym, bar, extras (car service etc.) | 1 card per amenity |
 | 6 | THE BILL | 31-35s | ~8-12 | Per night and number of nights | price card |
 | 7 | VERDICT | 35-38s | ~4-8 | "Worth it?" (pause) + answer | answer in red |
-| 8 | SIGN-OFF | 38-42s | ~13 | same as restaurants | FOLLOW FOR THE NEXT VERDICT |
+| 8 | SIGN-OFF | 38-42s | ~13 | same as restaurants | FOLLOW FOR THE NEXT ONE |
 
 ## Verdict lines by type
 
@@ -92,7 +90,7 @@ Restaurants
 | Food highlight -> consistency or letdown | "And it never drops." / "But here's the thing, ..." / "Don't get me wrong, ..." |
 | Food -> bill | "So what does a night like that cost?" / "Now, the bill." / "So how much was all of that?" |
 | Bill -> verdict | "So, worth it?" / "Worth it?" |
-| Verdict -> sign-off | (straight into) "I rate every Michelin star and Key I visit, so follow for the next verdict." |
+| Verdict -> sign-off | (straight into) "I give you the real experience behind every Michelin star and Key I visit, so follow for the next one." |
 
 Hotels
 | From -> to | Lead-ins to pick from |
