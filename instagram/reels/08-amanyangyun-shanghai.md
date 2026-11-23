@@ -35,11 +35,15 @@ the Aman portfolio, and you can tell." The pricing comparison across Aman
 properties is the user's claim; not checked.
 Furniture line scrapped (user, 2026-11-23); replaced with "And if you're
 looking to stay at an Aman, this one's really good value."
+Line 3 (user, 2026-11-23): rural area, around an hour from the heart of the
+city (the 3-nights/1-free line scrapped). Written as "out in the countryside"
+so "Shanghai" isn't repeated after the hook. NOTE: a Jeffsetter review (Aug
+2026) puts it about half an hour from central Shanghai, depending on traffic.
 
 ```
 I spent $2,000 at a one Michelin Key hotel in Shanghai.
 Come check it out with me.
-This is Amanyangyun, three nights, and one of them was free.
+This is Amanyangyun, out in the countryside, around an hour from the heart of the city.
 The room is so spacious, with these really high ceilings.
 And if you're looking to stay at an Aman, this one's really good value.
 And the service? A little slow, but the property's huge, so that's expected.
