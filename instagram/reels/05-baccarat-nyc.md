@@ -46,6 +46,7 @@ bathroom, double sinks, very spacious shower).
 Added (user, 2026-11-23): "Everything just feels grand." after "all of it".
 Maybach line cut to "And they've got complimentary Maybach rides." (user,
 2026-11-23).
+"Marble" back in the bathroom line (user, 2026-11-23).
 
 ```
 I spent $12,000 at a one Michelin Key hotel.
@@ -54,7 +55,7 @@ This is Baccarat Hotel New York.
 I stayed in the Prestige Suite.
 And the first thing that hits you is the space.
 This is what dreams are made of.
-There's a full mirror walk-in closet before going into the bathroom, with double sinks and a very spacious shower.
+There's a full mirror walk-in closet before going into the marble bathroom, with double sinks and a very spacious shower.
 Mirrors, built-in TVs, Baccarat glasses, Evian, all of it.
 Everything just feels grand.
 The one catch? There's literally no view, but the inside more than makes up for it.
