@@ -29,7 +29,9 @@ Status: DRAFT on the framework (2026-11-23). Caption not written yet.
 ## The three points (hotel)
 - Room: the space; marble bathroom, walk-in closet, big shower; mirrors,
   built-in TVs, Baccarat glasses, Evian; letdown: no view.
-- Service: GAP (room service line cut by the user).
+- Service: free upgrade at check-in (from the booked room to a suite); the
+  doorman was very pleasant to talk to; the Maybach driver went beyond the
+  boundaries (user, 2026-11-23).
 - Amenities: complimentary Maybach rides (to the Met).
 
 ## Script (version 1, DRAFT, 2026-11-23)
@@ -47,6 +49,9 @@ Added (user, 2026-11-23): "Everything just feels grand." after "all of it".
 Maybach line cut to "And they've got complimentary Maybach rides." (user,
 2026-11-23).
 "Marble" back in the bathroom line (user, 2026-11-23).
+Service added (user, 2026-11-23): free upgrade at check-in; the doorman was
+pleasant to talk to; the Maybach driver went beyond the usual boundaries.
+~40.4s at the user's pace; humanizer 83.5 PASS.
 
 ```
 I spent $12,000 at a one Michelin Key hotel.
@@ -59,7 +64,8 @@ There's a full mirror walk-in closet before going into the marble bathroom, with
 Mirrors, built-in TVs, Baccarat glasses, Evian, all of it.
 Everything just feels grand.
 The one catch? There's literally no view, but the inside more than makes up for it.
-And they've got complimentary Maybach rides.
+And the service? They upgraded us for free at check-in, and the doorman was so easy to talk to.
+And they've got complimentary Maybach rides, our driver even took us past the usual limit.
 So, $2,400 a night, worth it?
 Definitely.
 I give you the real experience behind every Michelin star and Key I visit, so follow for the next one.
