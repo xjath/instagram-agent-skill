@@ -22,7 +22,8 @@ Status: DRAFT on the framework (2026-11-23). Caption not written yet.
 - Not answered: spa treatment, a specific dish.
 
 ## The three points (hotel)
-- Room: spacious, high ceilings; letdown: the furniture.
+- Room: spacious, high ceilings; really good value for an Aman (furniture
+  letdown removed by the user).
 - Service: slow but very good (reservations, information, transport).
 - Amenities: spa (one of the best), hotel food (good).
 
@@ -32,13 +33,15 @@ Status: DRAFT on the framework (2026-11-23). Caption not written yet.
 Furniture line (user, 2026-11-23): "This is one of the better-priced Amans in
 the Aman portfolio, and you can tell." The pricing comparison across Aman
 properties is the user's claim; not checked.
+Furniture line scrapped (user, 2026-11-23); replaced with "And if you're
+looking to stay at an Aman, this one's really good value."
 
 ```
 I spent $2,000 at a one Michelin Key hotel in Shanghai.
 Come check it out with me.
 This is Amanyangyun, three nights, and one of them was free.
 The room is so spacious, with these really high ceilings.
-But the furniture? This is one of the better-priced Amans in the Aman portfolio, and you can tell.
+And if you're looking to stay at an Aman, this one's really good value.
 And the service? A little slow, but the property's huge, so that's expected.
 Still, they booked every restaurant with ease, kept us in the loop, and handled our rides to and from the hotel seamlessly.
 Then there's everything else.
