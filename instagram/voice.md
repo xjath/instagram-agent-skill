@@ -146,3 +146,7 @@ Key I visit. Follow for the next verdict." (The open ending, "...the next one
 just might be", stays as an option.)
 "Luxury traveller" lives in the bio and name field, not the reel.
 
+## Flow (user, 2026-11-23)
+Every script flows with ease: each section leads into the next, like talking
+to your best friend. Lead-in bank and flow check: `script-template.md`.
+

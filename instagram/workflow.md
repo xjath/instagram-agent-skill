@@ -16,6 +16,7 @@ happen on your phone or computer.
       part made easy); Claude turns them into lines on the skeleton.
 - [ ] Hook: score it (`hookscore.py`), aim for STRONG and 8-10 words.
 - [ ] Time it (`beats.py`), aim for 30-45s.
+- [ ] Flow check: every section has a lead-in (bank in `script-template.md`).
 - [ ] Humanizer (`/ig-human`), aim for PASS.
 - [ ] Facts in the script match the notes and the verified sources.
 - [ ] Open sign-off is fine ("...the next one just might be").

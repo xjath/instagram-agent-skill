@@ -75,6 +75,43 @@ Follow for the next verdict.
 | Mixed | "Worth it? Not exactly." + one line why | e.g. Il Pagliaccio |
 | No | "Worth it? Not really." + who it IS for | follow "no without burning bridges" in voice.md |
 
+## Flow: lead-ins between sections (applies to EVERY script, user 2026-11-23)
+
+Every section hands off to the next with a lead-in, so the script reads like
+one easy conversation. Never jump straight from one topic to the next.
+Rotate the lead-ins so reels don't all sound the same.
+
+Restaurants
+| From -> to | Lead-ins to pick from |
+|---|---|
+| Hook -> context | "Okay, I need to tell you about this place." / "So let me tell you about it." |
+| Context -> experience | "So first, ..." / "The night starts with ..." / "Right when we walk in, ..." |
+| Experience moment -> next moment | "Then ..." / "And then out of nowhere, ..." / "And it gets better, ..." |
+| Experience -> service | "And the whole night, the staff ..." / "And honestly, the people make it ..." |
+| Service -> food | "So by the time the food comes out, the bar's already high." / "And then the food starts coming out." / "But you're really here for the food, right?" |
+| Food highlight -> consistency or letdown | "And it never drops." / "But here's the thing, ..." / "Don't get me wrong, ..." |
+| Food -> bill | "So what does a night like that cost?" / "Now, the bill." / "So how much was all of that?" |
+| Bill -> verdict | "So, worth it?" / "Worth it?" |
+| Verdict -> sign-off | (straight into) "I rate every Michelin star and Key I visit, so follow for the next verdict." |
+
+Hotels
+| From -> to | Lead-ins to pick from |
+|---|---|
+| Hook -> context | "Okay, let me show you this place." / "So here's what that gets you." |
+| Context -> room | "The second you walk into the room, ..." / "First, the room." |
+| Room -> view | "And then you look out the window." / "And the view?" |
+| Room -> service | "And the staff, ..." / "And the whole stay, they ..." |
+| Service -> amenities | "Then there's everything else." / "And when you leave the room, ..." |
+| Amenities -> bill | "So what does a stay like that cost?" / "Now, the bill." |
+| Bill -> verdict | "So, worth it?" |
+
+Flow check before a script is shown:
+- [ ] Read it top to bottom out loud (or in your head): does any line start a
+      new topic with no lead-in? Add one.
+- [ ] No two sections in a row start with the same word ("And", "So").
+- [ ] Lead-ins come from the user's own voice (voice.md), never formal
+      ("Moving on to the cuisine...").
+
 ## Rules every section follows
 - Tone (user, 2026-11-23): talk to the viewer like they're your best friend.
   "Okay, I need to tell you about this place", "you", "trust me",
