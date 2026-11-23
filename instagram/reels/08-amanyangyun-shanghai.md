@@ -45,6 +45,7 @@ calming design.
 Added (user, 2026-11-23): "It feels like you're kind of in a haven outside of town."
 Added (user, 2026-11-23): "...and that's exactly what this is."
 Food (user, 2026-11-23): three restaurants on the property, all great.
+Restaurants (user, 2026-11-23): Italian, hot pot and Chinese; all fantastic.
 
 ```
 I spent $2,000 at a one Michelin Key hotel in Shanghai.
@@ -55,7 +56,8 @@ It feels like you're kind of in a haven outside of town, and that's exactly what
 And if you're looking to stay at an Aman, this one's really good value.
 And the service? They took care of everything: every restaurant booking, every ride to and from the hotel, and they kept us in the loop the whole time.
 Then there's everything else.
-The spa was one of the best I've ever had, and there are three restaurants on the property, all of them great.
+The spa was one of the best I've ever had.
+And there are three restaurants at the hotel, Italian, hot pot, and Chinese, and they were all fantastic.
 Was the money spent worth it?
 Yeah, it was.
 I give you the real experience behind every Michelin star and Key I visit, so follow for the next one.
