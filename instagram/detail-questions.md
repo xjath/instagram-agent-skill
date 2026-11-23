@@ -63,6 +63,12 @@ THE BILL
 VERDICT
 12. Would you stay again, and who is this hotel for?
 
+## Digging deeper (user, 2026-11-23)
+If an answer is a label ("beautiful", "attentive", "very good") rather than
+a specific thing, Claude asks follow-up questions before writing: what
+exactly, what did it look/taste/feel like, what did someone do, what
+surprised you. Ask until each talking point has one specific detail.
+
 ## How to answer
 - Short is fine. Fragments are fine. "Lobster thing with the green sauce,
   tasted like the ocean, best bite of the night" is perfect.
