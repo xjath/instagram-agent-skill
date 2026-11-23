@@ -9,9 +9,12 @@ the new service lines, only the food letdown (no "what was good" line), the
 "It wasn't for me." verdict, standard hook and sign-off. 164 words; ~43s at
 the user's measured pace (229 wpm; ~59.6s at the tool's default 165);
 humanizer 94.0 PASS (voice 100); loops on "Michelin star".
+"Come check it out with me." added after the hook (user, 2026-11-23). ~44.5s at
+the user's pace; humanizer 93.0 PASS.
 
 ```
 I spent $1,600 at a two Michelin star restaurant.
+Come check it out with me.
 This is Atomix New York, the only US spot on the world's 50 best list.
 When you walk in, you get to see all of their awards, such as their Michelin plaques and trophies,
 and my expectations from seeing this are sky high.

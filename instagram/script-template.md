@@ -13,6 +13,7 @@ shot change inside it.
 Restaurant:
 ```
 I spent $[TOTAL] at [NAME].
+Come check it out with me.
 This is [NAME], [PROOF LINE: city, stars, award or ranking].
 [EXPERIENCE: first moment of the night], [your reaction].
 Then [second moment].
@@ -27,6 +28,7 @@ I give you the real experience behind every Michelin star and Key I visit, so fo
 Hotel:
 ```
 I spent $[TOTAL STAY] at [NAME].
+Come check it out with me.
 This is [NAME], [CITY]. [N] nights in a [ROOM TYPE]. [upgrade, if any]
 [ROOM: the first thing you noticed], [your reaction].
 [THE VIEW], [reaction]. [letdown here if it's the room]

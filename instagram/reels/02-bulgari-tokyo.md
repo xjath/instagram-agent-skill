@@ -63,9 +63,12 @@ The three points:
 Trims 2-5 applied (user, 2026-11-23): "Then the amenities."; dropped "which
 makes it feel luxurious"; "Three nights in..."; "overlooking the city".
 Kept: "The entire experience was amazing." and "from the hotel room".
+"Come check it out with me." added after the hook (user, 2026-11-23). ~36.7s at
+the user's pace (229 wpm); humanizer 82.1 PASS. Re-record line 2.
 
 ```
 I spent $4,200 at a three Michelin Key hotel.
+Come check it out with me.
 This is Bulgari Hotel Tokyo.
 Three nights in a Premium Guest Room.
 The room's spacious, zen, and really well designed, and the bed is incredibly comfortable.

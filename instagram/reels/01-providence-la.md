@@ -57,9 +57,12 @@ The three points:
 - Experience: wine cellar with the custom three-star Dom; best room in the
   house, private, with a view of the kitchen.
 - Food: the king crab, the uni egg and the black bass; "it never drops".
+"Come check it out with me." added after the hook (user, 2026-11-23). ~45.9s at
+the user's pace (229 wpm); humanizer 74.6 REVIEW (was 75.7 PASS). Re-record line 2.
 
 ```
 I spent $2,400 at a three Michelin star restaurant.
+Come check it out with me.
 This is Providence, one of the first in LA to ever get three stars, and they know how to treat their guests like royalty.
 Like, when we check in, they invite us down to their wine cellar, which is amazing, and they even have a custom bottle of Dom with three stars on it, celebrating the milestone.
 And they're not done.

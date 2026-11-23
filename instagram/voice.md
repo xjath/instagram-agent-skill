@@ -169,3 +169,5 @@ to your best friend. Lead-in bank and flow check: `script-template.md`.
 account doesn't use numbers. Loops on "Michelin star" when the hook uses it.
 - When the user's detail answers are labels, not specifics, dig deeper and
   ask follow-up questions before writing (user, 2026-11-23).
+- After the hook, every script says "Come check it out with me." (STANDARD,
+  user 2026-11-23). Past-tense hook, present-tense invitation into the video.
