@@ -40,8 +40,32 @@ written yet.
   warm and welcoming; high service without feeling stiff.
 - Breakfast: the avocado toast was very good; the Japanese breakfast too.
 - Who it's for: a special trip, couples, travel lovers who love luxury.
-- Letdowns: none given. Mt Fuji: room vs hotel not answered; script says
-  "you can even see Mount Fuji" without saying from where.
+- Letdowns: none given.
+- Follow-ups (user, 2026-11-23): the look and feel was zen and calming;
+  everyday, minimalist, clean, nothing grand, but very high quality luxury
+  that doesn't scream. Mt Fuji is seen FROM THE ROOM. Service: they treated
+  the user like a regular even though it was their first time.
+
+## Script version 4 (DRAFT, 2026-11-23)
+~66.2s, 14 beats; hook 80.8 STRONG; humanizer 85.9 PASS (version 3: 75.4);
+loops on "Michelin Key". Uses the follow-up answers. Still long; trim pending.
+
+```
+I spent $4,200 at a three Michelin Key hotel.
+This is Bulgari Hotel Tokyo, and it's the kind of luxury that doesn't scream.
+The second you step into the room, it's so zen and calming, clean and minimal, but you can tell everything is super high quality.
+Then you look out the window, the whole skyline over the Imperial Garden, and you can see Mount Fuji right from the room.
+And at night? There's something so romantic about a city skyline.
+And the staff?
+It was my first time there, and they treated me like a regular.
+So warm, super attentive, and never stiff.
+Then there's everything else.
+The avocado toast and the Japanese breakfast are both so good.
+The pool has these high ceilings with beds and pods along the side, and the gym looks right over the city.
+So after three nights, worth it?
+Definitely. Book it for a special trip, with your partner, or if you just love luxury.
+I give you the real experience behind every Michelin star and Key I visit, so follow for the next one.
+```
 
 ## Script version 3 (DRAFT on the confirmed framework, 2026-11-23)
 ~62.9s, 13 beats; hook 80.8 STRONG; humanizer 75.4 PASS; loops on "Michelin
