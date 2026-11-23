@@ -1,6 +1,6 @@
 # Reel #8: Amanyangyun, Shanghai
 
-Status: DRAFT on the framework (2026-11-23). Caption not written yet.
+Status: script version 1 LOCKED 2026-11-23. Caption not written yet.
 
 ## Facts used
 - Amanyangyun, Shanghai (Minhang District). 1 Michelin Key, per Michelin's
@@ -27,7 +27,7 @@ Status: DRAFT on the framework (2026-11-23). Caption not written yet.
 - Service: slow but very good (reservations, information, transport).
 - Amenities: spa (one of the best), hotel food (good).
 
-## Script (version 1, DRAFT, 2026-11-23)
+## Final script (version 1, LOCKED 2026-11-23)
 142 words; ~37.2s at the user's pace (229 wpm); hook 80.8 STRONG; humanizer
 84.5 PASS; loops on "Michelin Key".
 Furniture line (user, 2026-11-23): "This is one of the better-priced Amans in
