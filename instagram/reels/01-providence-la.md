@@ -55,7 +55,7 @@ flavorful".
 I spent $2,400 at a three Michelin star restaurant.
 Okay, I need to tell you about this place.
 It's Providence, one of the first in LA to ever get three stars.
-So first, they take us down to the wine cellar, and there's literally a bottle of Dom with three stars on it, for their new star.
+So first, they take us down to the wine cellar, and there's literally a bottle of Dom with three stars on it, celebrating their new star.
 Then out of nowhere, they give us a private room, and we're watching the chefs cook right in front of us.
 And the staff? They make you feel at home, I'm not kidding.
 Okay, but the black bass.
