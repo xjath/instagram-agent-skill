@@ -20,7 +20,7 @@ Saved 2026-11-20 from the user's notes. Every skill reads this before writing.
     the public doesn't see openings that exist on the back end.
   - Where: mostly Toronto (the user lives there); also Taipei, Japan, Paris.
   - Now: a WhatsApp community exists, announcements only.
-  - Plan: once @theluxverdict has followers, open the community up from the
+  - Plan: once @starsnsuites has followers, open the community up from the
     Instagram page.
   - Which specific restaurants are not recorded. Only claim access that is
     confirmed.
