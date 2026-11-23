@@ -17,11 +17,12 @@ without burning bridges" rules: criticises the food, not people; credits the
 service, the snapper and the lobster. No "who it's for" line.
 The top-up was wine, during the wine pairing (user, 2026-11-23).
 Verdict wording (user, 2026-11-23): "It wasn't for me." instead of "Not really."
+U-shaped counter removed (user, 2026-11-23).
 
 ```
 I spent $1,600 at a two Michelin star restaurant.
 This is Atomix, the only US spot on the World's 50 Best, so my expectations are sky-high.
-You walk in past all their Michelin plaques and awards, and it's all counter seating in this U shape.
+You walk in past all their Michelin plaques and awards.
 And the service lives up to it.
 Water's always topped up, they even top up the wine pairing, they notice every little detail.
 So by the time the food comes out, I'm expecting a meal I'll remember for life.
