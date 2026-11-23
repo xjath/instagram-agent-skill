@@ -10,7 +10,9 @@ The real experience behind every Michelin star and Key.
 I pay the bill, you get an honest yes or no. Toronto based, eating and staying everywhere.
 ```
 
-146 of 150 characters (line break counted as 1). The first line repeats the
+NOTE (2026-11-23): the user reports Instagram allows 140 characters max, not
+the 150 that third-party guides give. At 146 this bio is over; an emoji
+version under 140 is being chosen. The first line repeats the
 reel sign-off. Previous bio (2026-11-20): "Is a Michelin dinner or a luxury
 hotel actually worth it? I pay the bill, you get an honest yes or no. Toronto
 based, eating and staying everywhere." "I pay the bill" is accurate: the user
