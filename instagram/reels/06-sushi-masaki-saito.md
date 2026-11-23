@@ -1,6 +1,6 @@
 # Reel #6: Sushi Masaki Saito, Toronto
 
-Status: DRAFT on the framework (2026-11-23). Caption not written yet.
+Status: script version 1 LOCKED 2026-11-23. Caption not written yet.
 
 ## Facts used
 - Sushi Masaki Saito, Toronto. 1 Michelin star at the user's latest visit (had
@@ -26,7 +26,7 @@ Status: DRAFT on the framework (2026-11-23). Caption not written yet.
 - Service: Saito greets the user by first name (regular).
 - Food: the rice; horse mackerel, salmon, tuna.
 
-## Script (version 1, DRAFT, 2026-11-23)
+## Final script (version 1, LOCKED 2026-11-23)
 128 words; ~33.5s at the user's pace (229 wpm); hook 80.8 STRONG; humanizer
 78.1 PASS (voice 100); loops on "Michelin star". "VVVIP" left out; "you don't
 see anywhere else" written as "I haven't seen anyone else do that" (the
