@@ -36,14 +36,17 @@ Status: DRAFT on the framework (2026-11-23). Caption not written yet.
 80.6 PASS; loops on "Michelin Key".
 Room service line cut (user, 2026-11-23). The script now has no service
 line: gap in the three points.
+Edits (user, 2026-11-23): booking/upgrade story cut ("I stayed in the
+Prestige Suite."); "I did not expect this" became "this hotel is what
+dreams are made of".
 
 ```
 I spent $12,000 at a one Michelin Key hotel.
 Come check it out with me.
 This is Baccarat Hotel New York, yes, as in the crystal, and it's the signature of the whole hotel.
-We booked a Grand Classic King, got a free upgrade to a Classic Suite, and then I paid to go up to the Prestige Suite.
+I stayed in the Prestige Suite.
 And the first thing that hits you is the space.
-In New York, where every hotel room is tiny, I did not expect this.
+In New York, where every hotel room is tiny, this hotel is what dreams are made of.
 The bathroom's all marble, with a walk-in closet before you even get to it, so it feels like a home, and the shower's huge.
 Mirrors, built-in TVs, Baccarat glasses, Evian, all of it.
 The one catch? There's literally no view, but the inside more than makes up for it.
