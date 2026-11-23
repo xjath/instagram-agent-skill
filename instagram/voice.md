@@ -102,3 +102,22 @@ Honest verdicts stay, but every "no" or "not really" script follows these:
   above the "...more" cut (Canada's Competition Bureau; US FTC 16 CFR 255).
   General information, not legal advice.
 
+## Hook formula and closers (user's format, 2026-11-23)
+
+Opening: "I spent $X at a [N] Michelin star restaurant." (hotels: "I spent $X a
+night at a [N] Michelin Key hotel.") Scores 80.8 STRONG on its own.
+Then one closer, rotated so reels don't all sound the same. Each closer has a
+matching sign-off that repeats a word from it, so the reel loops.
+
+| Closer (score*) | Best for | Matching sign-off |
+|---|---|---|
+| Here's what you actually get. (82.3) | yes | Follow me, cuz you don't always get what you pay for. |
+| Here's what nobody tells you. (82.3) | surprises, mixed | Follow me for what nobody tells you. |
+| Not what I expected. (81.6) | no / mixed | Follow me, cuz the next one just might be. |
+| Here's the verdict. (79.4) | any; on brand | Follow for the next verdict. |
+| Would I go back? (78.0) | any | (answer it at the end) Would I go back? ... |
+| Was it worth it? (78.0) | any; use sparingly | Follow me, cuz not every [star/Key] is worth it. |
+
+*Scored with hookscore.py on "I spent $1,600 at a two Michelin star
+restaurant. [closer]" on 2026-11-23.
+
