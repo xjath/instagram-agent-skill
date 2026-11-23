@@ -53,7 +53,7 @@ Come check it out with me.
 This is Amanyangyun, out in the countryside, around an hour from the heart of the city.
 The rooms are so spacious, high ceilings, and a really relaxing, calming design.
 It feels like you're kind of in a haven outside of town, and that's exactly what this is.
-And if you're looking to stay at an Aman, this one's really good value.
+If you're looking to stay at an Aman, this one's really good value.
 And the service? They took care of everything: every restaurant booking, every ride to and from the hotel, and they kept us in the loop the whole time.
 Then there's everything else.
 The spa was one of the best I've ever had.
