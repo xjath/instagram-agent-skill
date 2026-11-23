@@ -29,13 +29,16 @@ Status: DRAFT on the framework (2026-11-23). Caption not written yet.
 ## Script (version 1, DRAFT, 2026-11-23)
 142 words; ~37.2s at the user's pace (229 wpm); hook 80.8 STRONG; humanizer
 84.5 PASS; loops on "Michelin Key".
+Furniture line (user, 2026-11-23): "This is one of the better-priced Amans in
+the Aman portfolio, and you can tell." The pricing comparison across Aman
+properties is the user's claim; not checked.
 
 ```
 I spent $2,000 at a one Michelin Key hotel in Shanghai.
 Come check it out with me.
 This is Amanyangyun, three nights, and one of them was free.
 The room is so spacious, with these really high ceilings.
-But the furniture? It feels like one of the cheaper Amans, and honestly, the price reflects that.
+But the furniture? This is one of the better-priced Amans in the Aman portfolio, and you can tell.
 And the service? A little slow, but the property's huge, so that's expected.
 Still, they booked every restaurant with ease, kept us in the loop, and handled our rides to and from the hotel seamlessly.
 Then there's everything else.
