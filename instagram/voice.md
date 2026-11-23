@@ -132,3 +132,16 @@ verdict on it"; the shorter form scores higher (79.4 vs 69.4 restaurants;
 75.1 vs 58.0 hotels) and is ~1s quicker. Show the hook as on-screen text from
 frame 1, since it runs 4-5s.
 
+## Standard hook, final (user, 2026-11-23; replaces the version above)
+
+Short and sweet. One line, two forms:
+- "I spent $X at [name]."  (famous places)
+- "I spent $X at a [N] Michelin star restaurant." / "I spent $X a night at a
+  [N] Michelin Key hotel."  (places viewers won't know by name)
+Both score 80.8 STRONG; adding "Here's my verdict." doesn't raise the score.
+On screen from frame 1: the place name plus its stars or Keys
+(e.g. "ATOMIX ★★", "BULGARI TOKYO · 3 KEYS").
+Sign-off: "I rate every Michelin star and Key I visit. Follow for the next
+verdict." (or the user's open ending, "...the next one just might be").
+"Luxury traveller" lives in the bio and name field, not the reel.
+
