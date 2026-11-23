@@ -39,6 +39,7 @@ Line 3 (user, 2026-11-23): rural area, around an hour from the heart of the
 city (the 3-nights/1-free line scrapped). Written as "out in the countryside"
 so "Shanghai" isn't repeated after the hook. NOTE: a Jeffsetter review (Aug
 2026) puts it about half an hour from central Shanghai, depending on traffic.
+Service rewritten without the slowness (user, 2026-11-23).
 
 ```
 I spent $2,000 at a one Michelin Key hotel in Shanghai.
@@ -46,8 +47,7 @@ Come check it out with me.
 This is Amanyangyun, out in the countryside, around an hour from the heart of the city.
 The room is so spacious, with these really high ceilings.
 And if you're looking to stay at an Aman, this one's really good value.
-And the service? A little slow, but the property's huge, so that's expected.
-Still, they booked every restaurant with ease, kept us in the loop, and handled our rides to and from the hotel seamlessly.
+And the service? They took care of everything: every restaurant booking, every ride to and from the hotel, and they kept us in the loop the whole time.
 Then there's everything else.
 The spa was one of the best I've ever had, and the food at the hotel was good too.
 Was the money spent worth it?
