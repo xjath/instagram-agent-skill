@@ -1,7 +1,8 @@
 # Reel #1: Providence, Los Angeles
 
 Status: script version 6 LOCKED 2026-11-23 (replaces version 2); caption version 2 drafted 2026-11-22 (version 1 had the cellar order wrong). Not posted from here: the user
-VIDEO MADE (user, 2026-11-24). Not yet reviewed against the locked script.
+VIDEO MADE (user, 2026-11-24). REVIEWED 2026-11-24 from a 720p export: see
+"Video review" below.
 pastes the caption and posts it themselves. Saved 2026-11-20 as given.
 
 ## Facts
@@ -101,6 +102,25 @@ Cover: $3,400. 3 MICHELIN STARS.
 | ~0:43 | "WORTH IT?" | |
 | ~0:47 | "I'D GO BACK WITH ANYONE" in red | |
 | ~0:50 | "FOLLOW FOR THE NEXT ONE" | |
+
+## Video review (2026-11-24, from a 720p export; captions read, audio not heard)
+53.6s. Matches the locked script word for word except the verdict answer:
+the video says "Trust me, I'd go back in a heartbeat." (script: "...with
+anyone."). On screen: a "Worth it? DEFINITELY." card from ~0:46 to the end.
+- OK: movement in frame 1 (truffle shaved over a dish); hook captioned from
+  0:00; Providence sign on "This is Providence"; cellar footage on the cellar
+  line; the engraved Dom magnum on "custom bottle of Dom" with the cork-board
+  note not visible; private room, then the kitchen view on "view of the
+  kitchen"; king crab, uni egg and black bass shown on their names; no CapCut
+  end card.
+- CHECK: ~0:23-0:25 ("And they're not done") shows a person's face at the
+  table. The account rule is no face on camera. If it's the user, it breaks
+  that rule; if it's someone else, make sure they're OK being in a public reel.
+- CHECK: captions sit at roughly 71-80% of the frame height; the second line
+  of two-line captions dips below the 75% line, where Instagram's caption and
+  buttons sit.
+- Pace: 178 words in ~53s is ~200 words a minute, slower than the 229 measured
+  on Atomix. Timings at 229 wpm underestimate this reel by ~7s.
 
 ## Earlier drafts (history)
 ### Script version 6 (DRAFT, 2026-11-23)
