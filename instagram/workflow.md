@@ -76,7 +76,22 @@ happen on your phone or computer.
 - [ ] Re-check stars / Keys on guide.michelin.com that week.
 - [ ] Tag the restaurant or hotel; set the location.
 - [ ] Turn on Instagram's highest-quality upload setting.
-- [ ] Post or schedule (Meta Business Suite); about 2 a week.
+- [ ] Post or schedule (Meta Business Suite): 3 reels a week, Tue/Wed/Thu,
+      midday to early evening Toronto time (user, 2026-11-24).
+
+### Posting pace and timing (researched 2026-11-24)
+- Frequency: Buffer (2.1M posts, 102K accounts) found median follower growth
+  ~0.12% at 1-2 posts/week vs ~0.26% at 3-5 and ~0.44% at 6-9; correlational,
+  all post types, diminishing returns. Dash Social (~1.2M posts) puts the
+  average at 2-3/week. Mosseri: more posting = more reach, but not at the
+  cost of quality. Chosen: 3 reels/week; carousels and stories can add
+  activity between reels (not tested by the studies).
+- Timing: Sprout Social 2026 (~2B engagements) best windows Mon 2-4pm, Tue
+  1-7pm, Wed 12-9pm, Thu 12-2pm; Buffer 2026 (9.6M posts) Thu 9am, Wed 12pm,
+  Wed 6pm. Both: midweek best, weekends weaker. Time zone of these windows
+  not confirmed.
+- After 100 followers: Insights > Total followers > Most active times
+  (estimated by Instagram); move posting times to match. Test 4-6 weeks.
 
 ## 9. After posting
 - [ ] Tell Claude it's posted: log it in `log.md` (date, hook technique, first line).
