@@ -49,7 +49,8 @@ and position.
 
 ## Photo, handle, account type
 
-- Photo: a simple wordmark (no face on camera), readable at about 40px. Avoid
+- Photo: a simple wordmark, readable at about 40px. (The no-face rule was
+  scrapped on 2026-11-24, so a photo of the user is also an option.) Avoid
   an interlocking "LV" (Louis Vuitton's monogram).
 - Handle: @starsnsuites (user changed it on 2026-11-23; was @theluxverdict).
   Note the spelling: "n", not "and". @theluxverdict may now be claimable by

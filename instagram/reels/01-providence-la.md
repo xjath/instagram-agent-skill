@@ -113,9 +113,9 @@ anyone."). On screen: a "Worth it? DEFINITELY." card from ~0:46 to the end.
   note not visible; private room, then the kitchen view on "view of the
   kitchen"; king crab, uni egg and black bass shown on their names; no CapCut
   end card.
-- CHECK: ~0:23-0:25 ("And they're not done") shows a person's face at the
-  table. The account rule is no face on camera. If it's the user, it breaks
-  that rule; if it's someone else, make sure they're OK being in a public reel.
+- ~0:23-0:25 ("And they're not done") shows a person's face at the table.
+  Fine: the no-face rule was scrapped (2026-11-24). If it's someone other than
+  the user, make sure they're OK being in a public reel.
 - CHECK: captions sit at roughly 71-80% of the frame height; the second line
   of two-line captions dips below the 75% line, where Instagram's caption and
   buttons sit.

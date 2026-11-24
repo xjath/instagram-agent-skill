@@ -7,7 +7,8 @@ Saved 2026-11-20 from the user's notes. Every skill reads this before writing.
   from the user's personal account. Never cross-post to or reference the
   personal account.
 - Angle: "is it actually worth it?" with real prices and honest verdicts. Global.
-- Format: voiceover over B-roll. No face on camera.
+- Format: voiceover over B-roll. Faces on camera are allowed (the no-face rule
+  was scrapped by the user on 2026-11-24).
 - Current series: an 18-reel Michelin series (11 starred restaurants, 9 Michelin
   Key hotels visited in 2026). Providence is post #1. Places are in `backlog.md`.
 
