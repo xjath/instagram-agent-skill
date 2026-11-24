@@ -1,11 +1,31 @@
 # Reel #3: Atomix, New York
 
 Status: script version 11 LOCKED 2026-11-23, to be RE-RECORDED (the earlier
-VIDEO MADE (user, 2026-11-24). Not yet reviewed against the locked script.
+VIDEO MADE (user, 2026-11-24). REVIEWED 2026-11-24: see "Video review (re-record)" below.
 video used the old script). Video fixes still apply: replace the opening
 bottle shot (not from Atomix), don't show the North America's 50 Best trophy
 while saying "world's 50 best", move captions up.
 Caption not written yet. See "As made" below for what the video actually says.
+
+## Video review (re-record, 2026-11-24, from a 720p export; captions read)
+55.0s. Follows locked script version 11 with the user's own changes:
+- Service: "Water's always topped up. They even top up the wine pairing a
+  bit, and they even let you choose your own chopsticks." ("they notice every
+  little detail" dropped; chopsticks is new.)
+- Food: "It all felt kind of Americanized and didn't really feel like Korean
+  food. They have fancy ingredients like king crab, caviar, and truffle. But
+  it didn't have the flavor, the spice, or the fermentation I was hoping for."
+- "Worth it? NO" card in red from ~0:49 to the end.
+Still to fix:
+- 0:00-0:01 opens on the Dom Perignon Vintage 2017 bottle, which the user said
+  is NOT from Atomix. The same bottle appears again at ~0:27-0:28 on the wine
+  top-up line.
+- 0:06-0:09 "the only US spot on the world's 50 best list" is still said over
+  the NORTH AMERICA'S 50 BEST 2025 trophy.
+- The red "NO" card is harsher than the spoken "It wasn't for me." (the
+  standard "no" wording); e.g. "NOT FOR ME" would match.
+OK: chopsticks selection, plaque wall, chef, dishes and the letter all match
+their lines; no end card.
 
 ## Final script (version 11, LOCKED 2026-11-23)
 Combined at the user's direction: the recorded edit's intro and experience,
