@@ -1,6 +1,7 @@
 # Reel #3: Atomix, New York
 
 Status: script version 11 LOCKED 2026-11-23, to be RE-RECORDED (the earlier
+VIDEO MADE (user, 2026-11-24). Not yet reviewed against the locked script.
 video used the old script). Video fixes still apply: replace the opening
 bottle shot (not from Atomix), don't show the North America's 50 Best trophy
 while saying "world's 50 best", move captions up.

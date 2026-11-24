@@ -1,6 +1,7 @@
 # Reel #4: Banbo, Taipei
 
 Status: script version 7 LOCKED 2026-11-23. Caption not written yet.
+VIDEO MADE (user, 2026-11-24). Not yet reviewed against the locked script.
 
 ## Facts used
 - Banbo (Michelin spells it "Ban Bo"), Taipei. Visited June 2026.

@@ -1,6 +1,7 @@
 # Reel #1: Providence, Los Angeles
 
 Status: script version 6 LOCKED 2026-11-23 (replaces version 2); caption version 2 drafted 2026-11-22 (version 1 had the cellar order wrong). Not posted from here: the user
+VIDEO MADE (user, 2026-11-24). Not yet reviewed against the locked script.
 pastes the caption and posts it themselves. Saved 2026-11-20 as given.
 
 ## Facts

@@ -1,6 +1,7 @@
 # Reel #2: Bulgari Hotel Tokyo
 
 Status: version 8 LOCKED 2026-11-23. Caption not written yet. Version 1 is the user's own script; version 2 is
+VIDEO MADE (user, 2026-11-24). Not yet reviewed against the locked script.
 Claude's tightened edit of it. Waiting for the user to pick. Caption not
 written yet.
 

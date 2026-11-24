@@ -1,6 +1,7 @@
 # Reel #5: Baccarat Hotel New York
 
 Status: script version 1 LOCKED 2026-11-23. Caption not written yet.
+VIDEO MADE (user, 2026-11-24). Not yet reviewed against the locked script.
 
 ## Facts used
 - Baccarat Hotel New York, 1 Michelin Key (verified 2026-11-23: Michelin hotel
