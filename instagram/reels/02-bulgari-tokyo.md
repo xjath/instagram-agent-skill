@@ -1,7 +1,7 @@
 # Reel #2: Bulgari Hotel Tokyo
 
 Status: version 8 LOCKED 2026-11-23. Caption not written yet. Version 1 is the user's own script; version 2 is
-VIDEO MADE (user, 2026-11-24). Not yet reviewed against the locked script.
+VIDEO MADE (user, 2026-11-24). REVIEWED 2026-11-24: see "Video review" below.
 Claude's tightened edit of it. Waiting for the user to pick. Caption not
 written yet.
 
@@ -90,6 +90,23 @@ The entire experience was amazing.
 For $2,000 a night, it was definitely worth it.
 I give you the real experience behind every Michelin star and Key I visit, so follow for the next one.
 ```
+
+## Video review (2026-11-24, from a 720p export; captions read, audio not heard)
+49.7s (~174 words a minute). Matches the locked script (version 8) word for
+word. "Verdict? Worth it!!!" card over the night skyline at the end; key
+words ($6,000, $2,000) in red.
+- OK: movement in frame 1 (entrance doors); Bulgari sign on "This is the
+  Bulgari Hotel"; room at night on the room line; daytime skyline on "the
+  view's phenomenal" and "skyline over the Imperial Garden"; Mt Fuji on the
+  Fuji line; the welcome note and pastries on that line, with the guest name
+  on the note already blurred; pool with the beds and pods; gym on the
+  Technogym line; no end card.
+- CHECK: long one-line captions (e.g. "You wake up to the skyline over" at
+  ~0:20-0:21) run almost edge to edge, into the right side where Instagram's
+  like/comment buttons sit. Break long captions into shorter lines.
+- CHECK: captions sit at roughly 72-78% of the frame height, as on Providence.
+- Note: "For $2,000 a night" plays over a Bulgari necklace display (jewellery,
+  not the hotel). Fine as brand B-roll; just not the hotel itself.
 
 ## Script version 5: the user's original minus breakfast (CHOSEN, 2026-11-23)
 The user chose their original script with only the breakfast removed (no
