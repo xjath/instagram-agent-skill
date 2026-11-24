@@ -16,14 +16,13 @@ Caption not written yet. See "As made" below for what the video actually says.
   food. They have fancy ingredients like king crab, caviar, and truffle. But
   it didn't have the flavor, the spice, or the fermentation I was hoping for."
 - "Worth it? NO" card in red from ~0:49 to the end.
-Still to fix:
-- 0:00-0:01 opens on the Dom Perignon Vintage 2017 bottle, which the user said
-  is NOT from Atomix. The same bottle appears again at ~0:27-0:28 on the wine
-  top-up line.
-- 0:06-0:09 "the only US spot on the world's 50 best list" is still said over
-  the NORTH AMERICA'S 50 BEST 2025 trophy.
-- The red "NO" card is harsher than the spoken "It wasn't for me." (the
-  standard "no" wording); e.g. "NOT FOR ME" would match.
+User decisions (2026-11-24):
+- The Dom Perignon Vintage 2017 bottle (0:00-0:01 and ~0:27-0:28) IS from
+  Atomix (user, 2026-11-24). This replaces the earlier note (2026-11-22) that
+  it wasn't; no change needed.
+- North America's 50 Best trophy under "world's 50 best": LEAVING IT, the
+  user's choice.
+- Red "NO" card: the user is FIXING it to match "It wasn't for me."
 OK: chopsticks selection, plaque wall, chef, dishes and the letter all match
 their lines; no end card.
 
@@ -113,9 +112,8 @@ removed; key words in red ($1,600, sky high, THIS); "Worth it? NO" card in red
 over the last shots. Covers food, service and experience.
 
 Still open (2026-11-22):
-- FIX BEFORE POSTING: the opening shot (0:00-0:01, Dom Pérignon Vintage 2017
-  on a stone counter) is NOT from Atomix (user, 2026-11-22). Replace it with
-  real Atomix footage, e.g. the outside sign, the plaque wall, or a dish.
+- RESOLVED 2026-11-24: the Dom Pérignon Vintage 2017 bottle IS from Atomix
+  (user); the 2026-11-22 note saying otherwise was wrong.
 - 0:06-0:08: "world's 50 best list" is still said over the NORTH AMERICA'S 50
   BEST RESTAURANTS 2025 trophy.
 - Captions still sit at about 73-82% of the frame height (safe line is 75%).
