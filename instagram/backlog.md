@@ -24,13 +24,14 @@ Totals still needed for the hook (only per-person prices noted): Kato
   (user, 2026-11-20). Parked, not dropped: the user will decide later what to
   do with them. Raise them again when planning the end of the series.
 
-Series count: 22 reels, per the posting order below. Pace: 3 reels a week
-(Tue/Wed/Thu), so the series runs about 7.5 weeks (user, 2026-11-24). This replaces the earlier
+Series count: 22 reels, per the posting order below. Pace: 2 reels a week
+(Tue and Thu), so the series runs about 11 weeks (user, 2026-11-24; briefly
+changed to 3 a week the same day, then back to 2). This replaces the earlier
 count of 15 plus one extra.
 
 ## Posting order (updated 2026-11-20)
 
-22 reels, 3 a week (Tue/Wed/Thu) for roughly 7.5 weeks (changed from 2 a week on 2026-11-24). The user's 19-reel order plus
+22 reels, 2 a week (Tue and Thu) for roughly 11 weeks (confirmed 2026-11-24). The user's 19-reel order plus
 three Toronto restaurants; the user asked Claude to place them. Placement
 reasons (Claude's judgment, not tested): one Toronto reel in each part of the
 series, since most of the concierge access is in Toronto; Sushi Masaki Saito
