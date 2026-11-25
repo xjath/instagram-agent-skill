@@ -6,7 +6,7 @@ Status: script version 1 LOCKED 2026-11-23. Caption not written yet.
 - Amanyangyun, Shanghai (Minhang District). 1 Michelin Key, per Michelin's
   own page (checked 2026-11-23); Michelin lists 37 rooms.
 - Stayed April 2026, 3 nights on a "book 2 nights, get 1 free" offer; paid
-  CA$2,000 total (user, 2026-11-23). Regular room.
+  CA$2,000 total (user, 2026-11-23); US$1,400 in the hook = CA$2,000 at 0.699 (~US$1,398) (Prices switched to USD (user, 2026-11-25).). Regular room.
 - Verdict: YES (with reservations: "expected more from Aman").
 - From the notes: Aman-level spaciousness; good food at the hotel; spa among
   the best the user has had; built-in furniture quality not the highest.
@@ -48,7 +48,7 @@ Food (user, 2026-11-23): three restaurants on the property, all great.
 Restaurants (user, 2026-11-23): Italian, hot pot and Chinese; all fantastic.
 
 ```
-I spent $2,000 at a one Michelin Key hotel in Shanghai.
+I spent $1,400 at a one Michelin Key hotel in Shanghai.
 Come check it out with me.
 This is Amanyangyun, out in the countryside, around an hour from the heart of the city.
 The rooms are so spacious, high ceilings, and a really relaxing, calming design.

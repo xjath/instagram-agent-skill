@@ -5,7 +5,7 @@ Generated 2026-11-23 from the Final script section of each file in `instagram/re
 ~46.6s · humanizer 73.9   REVIEW
 
 ```
-I spent $3,400 at a three Michelin star restaurant in LA.
+I spent $2,400 at a three Michelin star restaurant in LA.
 Come check it out with me.
 This is Providence, one of the first in the city to ever get three stars, and they know how to treat their guests like royalty.
 Like, when we check in, they invite us down to their wine cellar, which is amazing, and they even have a custom bottle of Dom with three stars on it, celebrating the milestone.
@@ -24,7 +24,7 @@ I give you the real experience behind every Michelin star and Key I visit, so fo
 ~37.7s · humanizer 80.9   PASS
 
 ```
-I spent $6,000 at a three Michelin Key hotel in Tokyo.
+I spent $4,200 at a three Michelin Key hotel in Tokyo.
 Come check it out with me.
 This is the Bulgari Hotel in Ginza.
 Three nights in a Premium Guest Room.
@@ -37,7 +37,7 @@ Then the amenities.
 The pool had high ceilings, with beds and pods by the side,
 and the gym had Technogym equipment overlooking the city.
 The entire experience was amazing.
-For $2,000 a night, it was definitely worth it.
+For $1,400 a night, it was definitely worth it.
 I give you the real experience behind every Michelin star and Key I visit, so follow for the next one.
 ```
 
@@ -45,7 +45,7 @@ I give you the real experience behind every Michelin star and Key I visit, so fo
 ~44.8s · humanizer 92.5   PASS
 
 ```
-I spent $2,300 at a two Michelin star restaurant in New York.
+I spent $1,600 at a two Michelin star restaurant in New York.
 Come check it out with me.
 This is Atomix, the only US spot on the world's 50 best list.
 When you walk in, you get to see all of their awards, such as their Michelin plaques and trophies,
@@ -65,7 +65,7 @@ I give you the real experience behind every Michelin star and Key I visit, so fo
 ~44.0s · humanizer 72.2   PASS
 
 ```
-We spent $1,200 at a one Michelin star restaurant in Taipei.
+We spent $850 at a one Michelin star restaurant in Taipei.
 Come check it out with me.
 This is Banbo in Neihu, and we came for the tasting menu with the cocktail pairing.
 And every dish here tells its own story about Taiwan.
@@ -84,7 +84,7 @@ I give you the real experience behind every Michelin star and Key I visit, so fo
 ~44.3s · humanizer 81.5   PASS
 
 ```
-I spent $18,000 at a one Michelin Key hotel in New York.
+I spent $12,000 at a one Michelin Key hotel in New York.
 Come check it out with me.
 This is the Baccarat Hotel.
 The whole place is filled with millions of dollars of Baccarat crystal.
@@ -105,7 +105,7 @@ I give you the real experience behind every Michelin star and Key I visit, so fo
 ~39.6s · humanizer 75.7   PASS
 
 ```
-I spent $2,600 at a one Michelin star restaurant in Toronto.
+I spent $1,800 at a one Michelin star restaurant in Toronto.
 Come check it out with me.
 This is Sushi Masaki Saito, and I'm a regular here.
 So when I walk in, Saito greets me by my first name.
@@ -123,7 +123,7 @@ I give you the real experience behind every Michelin star and Key I visit, so fo
 ~43.5s · humanizer 82.5   PASS
 
 ```
-I spent $2,000 at a one Michelin Key hotel in Shanghai.
+I spent $1,400 at a one Michelin Key hotel in Shanghai.
 Come check it out with me.
 This is Amanyangyun, out in the countryside, around an hour from the heart of the city.
 The rooms are so spacious, high ceilings, and a really relaxing, calming design.

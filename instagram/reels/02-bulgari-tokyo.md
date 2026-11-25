@@ -67,6 +67,7 @@ Kept: "The entire experience was amazing." and "from the hotel room".
 "Come check it out with me." added after the hook (user, 2026-11-23). ~36.7s at
 the user's pace (229 wpm); humanizer 82.1 PASS. Re-record line 2.
 Prices switched to CAD (user, 2026-11-23). CA$2,000/night x 3 = CA$6,000 (actual CAD).
+Prices switched to USD (user, 2026-11-25). CA$2,000 x 0.699 = ~US$1,398, so $1,400 a night, $4,200 total. The made video says $6,000 and $2,000: re-record both lines.
 City added to the hook (user, 2026-11-23).
 "This is the Bulgari Hotel in Ginza." at the user's direction (2026-11-23).
 NOTE: the hotel's address is 2-2-1 Yaesu, Chuo-ku (Tokyo Midtown Yaesu,
@@ -74,7 +75,7 @@ floors 40-45), per bulgarihotels.com, Forbes Travel Guide and Business
 Traveller; Ginza is nearby. Kept as Ginza at the user's direction.
 
 ```
-I spent $6,000 at a three Michelin Key hotel in Tokyo.
+I spent $4,200 at a three Michelin Key hotel in Tokyo.
 Come check it out with me.
 This is the Bulgari Hotel in Ginza.
 Three nights in a Premium Guest Room.
@@ -87,7 +88,7 @@ Then the amenities.
 The pool had high ceilings, with beds and pods by the side,
 and the gym had Technogym equipment overlooking the city.
 The entire experience was amazing.
-For $2,000 a night, it was definitely worth it.
+For $1,400 a night, it was definitely worth it.
 I give you the real experience behind every Michelin star and Key I visit, so follow for the next one.
 ```
 

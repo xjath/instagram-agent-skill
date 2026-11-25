@@ -6,7 +6,7 @@ Status: script version 1 LOCKED 2026-11-23. Caption not written yet.
 - Sushi Masaki Saito, Toronto. 1 Michelin star at the user's latest visit (had
   2 stars until the 2025 Toronto guide; 1 star in 2026 per news coverage of the
   2026 guide; Michelin's own page not checked).
-- Paid: CA$2,600 for two at the latest visit (user, 2026-11-23). CA$780pp before
+- Paid: CA$2,600 for two at the latest visit (user, 2026-11-23). US$1,800 in the hook = CA$2,600 at 0.699 (~US$1,817), rounded (Prices switched to USD (user, 2026-11-25).). CA$780pp before
   sake or wine.
 - Verdict: YES, definitely.
 - Toronto reel: the user's concierge access is mostly in Toronto (see voice.md).
@@ -41,7 +41,7 @@ even solo sometimes when I feel like it."
 City added to the hook (user, 2026-11-23). "in Toronto" dropped from line 3 so the city isn't said twice.
 
 ```
-I spent $2,600 at a one Michelin star restaurant in Toronto.
+I spent $1,800 at a one Michelin star restaurant in Toronto.
 Come check it out with me.
 This is Sushi Masaki Saito, and I'm a regular here.
 So when I walk in, Saito greets me by my first name.

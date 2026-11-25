@@ -180,10 +180,12 @@ with me") and telling the visit in the present tense. It comes from people
 who know the user, so it isn't yet proof that strangers respond the same way:
 check against Insights (watch time, sends) after 4-5 reels.
 
-## Currency (user, 2026-11-23)
-All prices in every reel, card and caption are in CANADIAN dollars. Use the
-actual CAD amount paid where known; otherwise convert at the backlog's rates
+## Currency (user, 2026-11-25; replaces the CAD rule of 2026-11-23)
+All prices in every reel, card and caption are in US DOLLARS. Use the actual
+USD amount paid where known; otherwise convert at the backlog's rates
 (CAD 0.699 USD; TWD 0.0303 USD) and round to the nearest $100 in hooks.
+Made videos that speak CAD prices (Providence, Bulgari Tokyo, Atomix,
+Baccarat) need the price lines re-recorded.
 Actual card charges may differ from these conversions.
 - Restaurant visits are for two people unless stated otherwise (user,
   2026-11-23). Hook totals are for two.

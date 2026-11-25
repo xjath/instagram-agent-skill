@@ -66,13 +66,14 @@ Swapped (user, 2026-11-23): the "Mirrors, built-in TVs..." line now comes
 before the closet and bathroom line.
 Prices switched to CAD (user, 2026-11-23). US$12,000 = ~CA$17,167 at 0.699, rounded to $17,200.
 Actual CAD total: CA$18,000 (user, 2026-11-23); replaces the converted $17,200.
+Prices switched to USD (user, 2026-11-25). US$12,000 is the actual US amount paid. Re-record the hook.
 City added to the hook (user, 2026-11-23). "This is Baccarat Hotel New York" kept: it is the hotel's name.
 "This is Baccarat Hotel New York." became "This is Baccarat Hotel." (user,
 2026-11-23), since the hook already says New York.
 Now "This is the Baccarat Hotel." (user, 2026-11-23).
 
 ```
-I spent $18,000 at a one Michelin Key hotel in New York.
+I spent $12,000 at a one Michelin Key hotel in New York.
 Come check it out with me.
 This is the Baccarat Hotel.
 The whole place is filled with millions of dollars of Baccarat crystal.

@@ -91,7 +91,7 @@ Notes on this order:
 ## Toronto restaurants (added 2026-11-20)
 
 From the user (dictated; names normalised to the restaurants' own spelling).
-Placed in the posting order at #6, #13 and #18. All prices CAD (confirmed by the user).
+Placed in the posting order at #6, #13 and #18. All prices CAD (confirmed by the user). Reels use USD (user, 2026-11-25): Sushi Masaki Saito hook $1,800.
 USD at the backlog's rate of CAD 0.699.
 
 Michelin status checked 2026-11-20 against news coverage of the 2026 Toronto &
@@ -222,7 +222,7 @@ Letdowns: the mains
 Footage: lots of photos and videos of the food
 
 LE CINQ (Paris), 3 stars, October
-Paid: CA$3,850 for food, wine pairings, add-ons and tip (~US$2,700)
+Paid: CA$3,850 for food, wine pairings, add-ons and tip (~US$2,700; reels use USD, so the hook is $2,700)
 Worth it: YES, for a very special occasion
 Best moments: wait staff funny, hospitable, attentive without hovering; very good food; they arranged a flower arrangement for my girlfriend on request (extra cost)
 Letdowns: none

@@ -62,11 +62,12 @@ The three points:
 "Come check it out with me." added after the hook (user, 2026-11-23). ~45.9s at
 the user's pace (229 wpm); humanizer 74.6 REVIEW (was 75.7 PASS). Re-record line 2.
 Prices switched to CAD (user, 2026-11-23). $3,400 is the actual CAD bill.
+Prices switched to USD (user, 2026-11-25). $2,400 = CA$3,400 converted at 0.699 (~US$2,377), rounded. The made video says $3,400: re-record the hook.
 City added to the hook (user, 2026-11-23).
 "one of the first in LA" became "one of the first in the city" so LA isn't said twice.
 
 ```
-I spent $3,400 at a three Michelin star restaurant in LA.
+I spent $2,400 at a three Michelin star restaurant in LA.
 Come check it out with me.
 This is Providence, one of the first in the city to ever get three stars, and they know how to treat their guests like royalty.
 Like, when we check in, they invite us down to their wine cellar, which is amazing, and they even have a custom bottle of Dom with three stars on it, celebrating the milestone.
@@ -87,11 +88,11 @@ the room line (~9s): room, then chefs cooking; the favourites line: one dish
 per name (king crab, uni egg, black bass).
 
 ## On-screen cards and shots (for version 6)
-Cover: $3,400. 3 MICHELIN STARS.
+Cover: $2,400. 3 MICHELIN STARS.
 
 | Time | Card | Shot |
 |---|---|---|
-| ~0:00 | "$3,400 · ★★★ MICHELIN" | cellar or room, moving (motion in frame 1) |
+| ~0:00 | "$2,400 · ★★★ MICHELIN" | cellar or room, moving (motion in frame 1) |
 | ~0:03 | "PROVIDENCE, LA" | the room |
 | ~0:08 | "WINE CELLAR" | cellar |
 | ~0:14 | "CUSTOM 3-STAR DOM" | the engraved magnum; crop out the cork-board note |
@@ -321,11 +322,11 @@ dropped.
 Service line (user, 2026-11-22): "You can really feel the care they put into
 their patrons" replaces "Always there, never hovering".
 Prices switched to CAD (user, 2026-11-23): menu US$375 -> ~CA$536, US$495 ->
-~CA$708, US$100 cocktail -> ~CA$143 (at 0.699). Caption still needs a pass to
+~CA$708, US$100 cocktail -> ~CA$143 (at 0.699). Switched back to USD 2026-11-25 (menu $375, $495, cocktail $100 are the real US prices). Caption still needs a pass to
 match script version 6.
 
 ```
-We did the chef's tasting menu. Our bill was about $3,400 for two (CAD). Breakdown below, and follow for the next verdict.
+We did the chef's tasting menu. Our bill was about $2,400 for two (USD). Breakdown below, and follow for the next verdict.
 
 Providence LA has three Michelin stars, and it was one of the first restaurants in Los Angeles to ever get three.
 
@@ -337,7 +338,7 @@ The service is why they just won the James Beard award for hospitality. You can 
 
 The food? Every dish hit. Not one miss.
 
-The bill? Menus start at about $536 a person. We went for the chef's tasting menu, about $708 a person, plus two wine pairings, a $143 cocktail, a few add-ons and tip. It came to about $3,400 for two. All prices in CAD.
+The bill? Menus start at $375 a person. We went for the chef's tasting menu, $495 a person, plus two wine pairings, a $100 cocktail, a few add-ons and tip. It came to about $2,400 for two. All prices in USD.
 
 Worth it? Definitely. If you're doing one big fine dining night in Los Angeles, I'd put this on the list.
 
