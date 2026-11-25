@@ -186,8 +186,8 @@ now on." Don't raise switching currency again.
 All prices in every reel, card and caption are in US DOLLARS. Use the actual
 USD amount paid where known; otherwise convert at the backlog's rates
 (CAD 0.699 USD; TWD 0.0303 USD) and round to the nearest $100 in hooks.
-Made videos that speak CAD prices (Providence, Bulgari Tokyo, Atomix,
-Baccarat) need the price lines re-recorded.
+Made videos that spoke CAD prices (Providence, Bulgari Tokyo, Atomix, Banbo,
+Baccarat) were re-recorded in USD (user, 2026-11-25).
 Actual card charges may differ from these conversions.
 - Restaurant visits are for two people unless stated otherwise (user,
   2026-11-23). Hook totals are for two.

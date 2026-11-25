@@ -1,5 +1,8 @@
 # Reel #5: Baccarat Hotel New York
 
+USD RE-RECORD DONE (user, 2026-11-25): price lines re-recorded in USD ($12,000).
+Not yet checked by Claude against the new export.
+
 Status: script version 1 LOCKED 2026-11-23. Caption not written yet.
 VIDEO MADE (user, 2026-11-24). Not yet reviewed against the locked script.
 

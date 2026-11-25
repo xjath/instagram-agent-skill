@@ -1,5 +1,8 @@
 # Reel #4: Banbo, Taipei
 
+USD RE-RECORD DONE (user, 2026-11-25): price lines re-recorded in USD ($850).
+Not yet checked by Claude against the new export.
+
 BACK IN the posting order at #4 (user, 2026-11-25; was set aside earlier
 that day). Hook in USD: $850. The made video says $1,200: re-record the hook.
 

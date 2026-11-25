@@ -1,5 +1,8 @@
 # Reel #1: Providence, Los Angeles
 
+USD RE-RECORD DONE (user, 2026-11-25): price lines re-recorded in USD ($2,400).
+Not yet checked by Claude against the new export.
+
 Status: script version 6 LOCKED 2026-11-23 (replaces version 2); caption version 2 drafted 2026-11-22 (version 1 had the cellar order wrong). Not posted from here: the user
 VIDEO MADE (user, 2026-11-24). REVIEWED 2026-11-24 from a 720p export: see
 "Video review" below.

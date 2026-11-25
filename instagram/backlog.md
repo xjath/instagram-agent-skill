@@ -8,7 +8,7 @@ Kept exactly as given; facts not re-checked when saved.
 #7 Pujol: SKIPPED for now at the user's request; come back to it later.
 #4 Banbo: BACK IN the posting order at #4 (user, 2026-11-25; was set aside
 earlier the same day). Hook now in USD: "We spent $850..." (NT$28,000 for a
-group of four, ~US$848). The made video says $1,200 (CAD): re-record the hook.
+group of four, ~US$848). Hook re-recorded in USD (user, 2026-11-25).
 
 ## Party size (user, 2026-11-23)
 Every restaurant visit was for TWO people unless stated otherwise (Banbo was

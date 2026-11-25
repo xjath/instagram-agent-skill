@@ -1,5 +1,8 @@
 # Reel #3: Atomix, New York
 
+USD RE-RECORD DONE (user, 2026-11-25): price lines re-recorded in USD ($1,600).
+Not yet checked by Claude against the new export.
+
 Status: script version 11 LOCKED 2026-11-23, to be RE-RECORDED (the earlier
 VIDEO MADE (user, 2026-11-24). REVIEWED 2026-11-24: see "Video review (re-record)" below.
 video used the old script). Video fixes still apply: replace the opening
