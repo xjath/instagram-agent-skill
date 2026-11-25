@@ -6,6 +6,9 @@ Kept exactly as given; facts not re-checked when saved.
 
 ## Script progress note (2026-11-23)
 #7 Pujol: SKIPPED for now at the user's request; come back to it later.
+#4 Banbo: SET ASIDE for now (user, 2026-11-25). Script locked and video made;
+kept, not deleted. Not in the posting order until the user brings it back.
+The posting order runs #3 Atomix -> #5 Baccarat in the meantime.
 
 ## Party size (user, 2026-11-23)
 Every restaurant visit was for TWO people unless stated otherwise (Banbo was
@@ -44,7 +47,7 @@ unchanged. Bulgari Hotel Shanghai still posts before the head-to-head.
 | 1 | Providence, 3★ LA | Yes (script ready) |
 | 2 | Bulgari Hotel Tokyo, 3 Keys | Yes |
 | 3 | Atomix, 2★ New York | **No** |
-| 4 | Banbo, 1★ Taipei | Yes |
+| 4 | Banbo, 1★ Taipei | Yes (SET ASIDE 2026-11-25) |
 | 5 | Baccarat Hotel NY, 1 Key | Yes |
 | 6 | Sushi Masaki Saito, 1★ Toronto | Yes |
 | 7 | Pujol, 2★ Mexico City | **No** |
