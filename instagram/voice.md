@@ -181,6 +181,8 @@ who know the user, so it isn't yet proof that strangers respond the same way:
 check against Insights (watch time, sends) after 4-5 reels.
 
 ## Currency (user, 2026-11-25; replaces the CAD rule of 2026-11-23)
+FINAL (user, 2026-11-25): "We are staying on US dollars for everything from
+now on." Don't raise switching currency again.
 All prices in every reel, card and caption are in US DOLLARS. Use the actual
 USD amount paid where known; otherwise convert at the backlog's rates
 (CAD 0.699 USD; TWD 0.0303 USD) and round to the nearest $100 in hooks.
