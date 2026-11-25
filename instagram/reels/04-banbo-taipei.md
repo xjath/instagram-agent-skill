@@ -1,7 +1,7 @@
 # Reel #4: Banbo, Taipei
 
-SET ASIDE (user, 2026-11-25): out of the posting order for now. Script and
-video kept.
+BACK IN the posting order at #4 (user, 2026-11-25; was set aside earlier
+that day). Hook in USD: $850. The made video says $1,200: re-record the hook.
 
 Status: script version 7 LOCKED 2026-11-23. Caption not written yet.
 VIDEO MADE (user, 2026-11-24). Not yet reviewed against the locked script.
