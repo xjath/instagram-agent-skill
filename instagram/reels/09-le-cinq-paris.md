@@ -47,6 +47,8 @@ Amuse-bouches line cut (user, 2026-11-26, for time); bread line reworded to
 "Even the bread was a highlight." so it follows "And the food?"
 Wine line added (user, 2026-11-26): "some of the best I've had across an
 entire meal".
+Salmon line reworded (user, 2026-11-26): salmon and caviar "like a perfect
+combination"; buttermilk dropped from the spoken line to save time.
 
 ```
 I spent $2,700 at a three Michelin star restaurant in Paris.
@@ -56,7 +58,7 @@ And it's a dress-up kind of night. There's a formal dress code, so the whole eve
 The dining room is grand and huge, and we got the best seat in the house, right by the kitchen.
 The service? Funny, warm and attentive. The staff were always making jokes.
 And the food? Even the bread was a highlight. A Parmesan waffle. Light, fluffy, cheesy. It tasted heavenly.
-The smoked salmon with caviar and buttermilk was so good too.
+The smoked salmon and caviar were the perfect combination.
 And the grapefruit three ways for dessert was one of the most memorable things all night.
 And the wine pairing? One of the best I've had across an entire meal.
 So was it worth it?
