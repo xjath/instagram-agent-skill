@@ -1,6 +1,6 @@
 # Reel #10: Bulgari Hotel Shanghai
 
-Status: GATHERING DETAILS (started 2026-11-26). No script yet.
+Status: script version 1 DRAFT 2026-11-26 (breakfast detail still needed).
 Posts before the #15 head-to-head (Bulgari Tokyo vs. Bulgari Shanghai).
 
 ## Facts used
@@ -33,3 +33,26 @@ Posts before the #15 head-to-head (Bulgari Tokyo vs. Bulgari Shanghai).
 - Staff: very hospitable, attentive and caring to our needs.
 - Still labels (digging-deeper rule): one concrete room detail and one concrete
   staff moment would help. Amenities and the Tokyo comparison not answered yet.
+- Room (user, 2026-11-26): the size and the view made it unforgettable.
+- Staff (user): the personal concierge was still attentive on his off hours,
+  when he wasn't supposed to be working.
+- Amenities (user): had breakfast at the hotel restaurant during the stay
+  (which restaurant and what was good: not given yet).
+
+## Script version 1 (DRAFT, 2026-11-26)
+Hook 80.8 STRONG; ~32s at 229 wpm with the placeholder; humanizer 88.3 PASS
+(scored before the placeholder was added). Verdict worded differently from
+Bulgari Tokyo ("For $1,400 a night, it was definitely worth it.") on purpose.
+
+```
+I spent $7,000 at a two Michelin Key hotel in Shanghai.
+Come check it out with me.
+This is the Bulgari Hotel. Five nights in a Premium Guest Room.
+And the room is huge, but it's the view that makes it unforgettable.
+At night, it's all city lights over the river, with the Pearl Tower right there.
+The staff were just as memorable. We had a personal concierge, and he was still looking after us on his off hours, when he wasn't even supposed to be working.
+Then there's breakfast at the hotel restaurant. [ONE DETAIL: a dish, the room, the spread]
+So, worth it?
+For $1,400 a night? Definitely.
+I give you the real experience behind every Michelin star and Key I visit, so follow for the next one.
+```
