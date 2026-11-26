@@ -69,6 +69,7 @@ that's where the beauty is." (2026-11-26).
 Humanizer fixes (user, 2026-11-26): concierge ending restored; room line split.
 "the beauty" became "the true beauty" (user).
 Staff section in the user's wording (2026-11-26), with the reservations detail.
+"The staff were just as memorable" became "The service was truly memorable" (user).
 
 ```
 I spent $7,000 at a two Michelin Key hotel in Shanghai.
@@ -76,7 +77,7 @@ Come check it out with me.
 This is the Bulgari Hotel. Five nights in a room with one of the best views ever.
 The room itself is huge. And so luxurious, it even has its own dressing room.
 But when you look out the window at night, that's where the true beauty is. It's all city lights over the river, with the Pearl Tower right there.
-The staff were just as memorable. We had a personal concierge who arranged all of our reservations for us. And he was even attentive on his off hours, when he wasn't supposed to be working.
+The service was truly memorable. We had a personal concierge who arranged all of our reservations for us. And he was even attentive on his off hours, when he wasn't supposed to be working.
 One thing that really stood out about this hotel was they offer Bulgari chocolate making classes, right inside the hotel. So fun, but getting the shape perfect is way harder than it looks.
 So after five nights, worth it?
 For $1,400 a night? Definitely.
