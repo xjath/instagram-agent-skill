@@ -45,6 +45,8 @@ Service line set by the user: "Funny, warm and attentive." plus "The staff
 were always making jokes." (2026-11-26).
 Amuse-bouches line cut (user, 2026-11-26, for time); bread line reworded to
 "Even the bread was a highlight." so it follows "And the food?"
+Wine line added (user, 2026-11-26): "some of the best I've had across an
+entire meal".
 
 ```
 I spent $2,700 at a three Michelin star restaurant in Paris.
@@ -56,6 +58,7 @@ The service? Funny, warm and attentive. The staff were always making jokes.
 And the food? Even the bread was a highlight. A Parmesan waffle. Light, fluffy, cheesy. It tasted heavenly.
 The smoked salmon with caviar and buttermilk was so good too.
 And the grapefruit three ways for dessert was one of the most memorable things all night.
+And the wine pairing? One of the best I've had across an entire meal.
 So was it worth it?
 For a really special occasion? Definitely.
 I give you the real experience behind every Michelin star and Key I visit, so follow for the next one.
@@ -103,7 +106,6 @@ I give you the real experience behind every Michelin star and Key I visit, so fo
 
 ## Still to get
 - The funny staff moment: what someone actually said or did.
-- Wine pairing: any memorable pour or moment.
 
 ## Notes for drafting
 - Providence (#1) already says "the best room in the house". Le Cinq's "best
