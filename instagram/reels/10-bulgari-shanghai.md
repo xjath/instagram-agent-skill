@@ -55,14 +55,14 @@ Posts before the #15 head-to-head (Bulgari Tokyo vs. Bulgari Shanghai).
 ## Script version 6 (DRAFT, 2026-11-26): flow rule applied
 Each section leads into the next; no bare-question openers except the verdict;
 no two sections in a row start with the same word. View set up in line 3 and
-paid off with "And then you look out the window."
+paid off with "When you look out the window at night" (user's wording).
 
 ```
 I spent $7,000 at a two Michelin Key hotel in Shanghai.
 Come check it out with me.
 This is the Bulgari Hotel. Five nights in a room with one of the best views ever.
 The room itself is huge and so luxurious, it even has its own dressing room.
-And then you look out the window. At night, it's all city lights over the river, with the Pearl Tower right there.
+When you look out the window at night, it's all city lights over the river, with the Pearl Tower right there.
 The staff were just as memorable. We had a personal concierge, and he was still looking after us on his off hours, when he wasn't even supposed to be working.
 And the hotel has more than a view. We even took a chocolate making class right there. So fun, but getting the shape perfect is way harder than it looks.
 So after five nights, worth it?
