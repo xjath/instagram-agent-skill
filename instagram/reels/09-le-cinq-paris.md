@@ -47,6 +47,7 @@ Service and food lines changed from questions to lead-ins (user, 2026-11-26):
 "The staff made it even better." / food lead-in "And all that care carried into the food. Even the bread was a
 highlight." (user chose A, 2026-11-26, after first picking B).
 Salmon lead-in "One of my favorites after that was..." (user chose, 2026-11-26).
+Wine line "And the wine pairing tied it all together." (user chose, 2026-11-26).
 
 ```
 I spent $2,700 at a three Michelin star restaurant in Paris.
@@ -58,7 +59,7 @@ The staff made it even better. Funny, warm and attentive, always making jokes.
 And all that care carried into the food. Even the bread was a highlight. A Parmesan waffle, light, fluffy, cheesy. It tasted heavenly.
 One of my favorites after that was the smoked salmon and caviar, a great combination, with the buttermilk as the perfect finishing touch.
 For dessert, the grapefruit three ways was one of the most memorable bites of the night.
-And the wine pairing? One of the best I've had across an entire meal.
+And the wine pairing tied it all together. One of the best I've had across an entire meal.
 So was it worth it?
 For a really special occasion? Definitely.
 I give you the real experience behind every Michelin star and Key I visit, so follow for the next one.
