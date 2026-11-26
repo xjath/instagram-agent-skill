@@ -1,6 +1,6 @@
 # Reel #9: Le Cinq, Paris
 
-Status: script version 3 DRAFT 2026-11-26 (ten-years proof line added; flowers removed;
+Status: script version 4 DRAFT 2026-11-26 (flow rewrite; was version 3 (ten-years proof line added; flowers removed;
 staff moment and wine still to come).
 
 ## Facts used
@@ -36,6 +36,28 @@ staff moment and wine still to come).
 - Why a special occasion: there's a formal dress code, which makes it a
   memorable evening (user's account; dress code not checked against the
   restaurant's own site).
+
+## Script version 4 (DRAFT, 2026-11-26): flow rewrite
+User asked to make it more flowy. Links: dress code -> "the dining room matches
+it"; "Then the smoked salmon"; "For dessert". Salmon line ends at "perfect
+finishing touch" ("helped it all come together" dropped for time). ~46.8s at
+229 wpm.
+
+```
+I spent $2,700 at a three Michelin star restaurant in Paris.
+Come check it out with me.
+This is Le Cinq, at the Four Seasons, and it's held three stars for ten years in a row.
+It's a formal dress code, so it feels like an occasion from the start.
+And the dining room matches it. Grand, huge, and we got the best seat in the house, right by the kitchen.
+The service? Funny, warm and attentive. The staff were always making jokes.
+And the food? Even the bread was a highlight. A Parmesan waffle, light, fluffy, cheesy. It tasted heavenly.
+Then the smoked salmon and caviar, a great combination, with the buttermilk as the perfect finishing touch.
+For dessert, the grapefruit three ways was one of the most memorable bites of the night.
+And the wine pairing? One of the best I've had across an entire meal.
+So was it worth it?
+For a really special occasion? Definitely.
+I give you the real experience behind every Michelin star and Key I visit, so follow for the next one.
+```
 
 ## Script version 3 (DRAFT, 2026-11-26)
 Proof line added, reworded by the user to "held three stars for ten years in a
