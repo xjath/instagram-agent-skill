@@ -1,6 +1,6 @@
 # Reel #10: Bulgari Hotel Shanghai
 
-Status: script version 2 DRAFT 2026-11-26 (breakfast detail still needed).
+Status: script version 3 DRAFT 2026-11-26 (breakfast detail still needed).
 Posts before the #15 head-to-head (Bulgari Tokyo vs. Bulgari Shanghai).
 
 ## Facts used
@@ -44,6 +44,26 @@ Posts before the #15 head-to-head (Bulgari Tokyo vs. Bulgari Shanghai).
 
 - Room (user, 2026-11-26): felt very spacious and luxurious; liked that there
   was a dressing room in the room.
+
+- Amenity (user, 2026-11-26): replace breakfast with the chocolate making
+  classes at the hotel. Whether the user took one, and what it was like: not
+  given yet.
+
+## Script version 3 (DRAFT, 2026-11-26)
+Breakfast line replaced with the chocolate making classes (user).
+
+```
+I spent $7,000 at a two Michelin Key hotel in Shanghai.
+Come check it out with me.
+This is the Bulgari Hotel. Five nights in a Premium Guest Room.
+The room is huge and so luxurious, it even has its own dressing room. But it's the view that makes it unforgettable.
+At night, it's all city lights over the river, with the Pearl Tower right there.
+The staff were just as memorable. We had a personal concierge, and he was still looking after us on his off hours, when he wasn't even supposed to be working.
+And they even have chocolate making classes right in the hotel.
+So, worth it?
+For $1,400 a night? Definitely.
+I give you the real experience behind every Michelin star and Key I visit, so follow for the next one.
+```
 
 ## Script version 2 (DRAFT, 2026-11-26)
 Dressing room added to the room line.
