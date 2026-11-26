@@ -194,3 +194,11 @@ Actual card charges may differ from these conversions.
 - The hook names the city right after the star or Key rating (user,
   2026-11-23): "I spent $X at a [N] Michelin star restaurant in [CITY]." / "...a
   [N] Michelin Key hotel in [CITY]." Don't repeat the city in the "This is" line.
+
+## Privacy: no travel companion (user, 2026-11-26)
+The public must not know the user travels or dines with someone. In scripts,
+captions, cards and on-screen text: no "we", "us", "our", "for two", "my
+girlfriend", "friends". Use "I / me / my" for what happened and "you" for
+what the viewer would experience. Watch footage too (a second plate or glass,
+someone's hands, reflections, voices). Open question for the user: hook
+totals that cover two people (see the reel notes).
