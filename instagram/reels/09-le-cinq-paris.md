@@ -1,6 +1,6 @@
 # Reel #9: Le Cinq, Paris
 
-Status: script version 4 DRAFT 2026-11-26 (flow rewrite; was version 3 (ten-years proof line added; flowers removed;
+Status: script version 5 DRAFT 2026-11-26 (lead-ins from script-template.md's flow bank; was version 3 (ten-years proof line added; flowers removed;
 staff moment and wine still to come).
 
 ## Facts used
@@ -36,6 +36,29 @@ staff moment and wine still to come).
 - Why a special occasion: there's a formal dress code, which makes it a
   memorable evening (user's account; dress code not checked against the
   restaurant's own site).
+
+## Script version 5 (DRAFT, 2026-11-26): flow rules applied
+User pointed to the saved flow rule. Version 4 missed it: "The service?" and
+"And the food?" jumped in with no lead-in. Lead-ins now from the bank in
+script-template.md: "Right when we walk in", "And the whole night, the staff",
+"Then the food starts coming out", "So, worth it?". No two sections in a row
+start with the same word. ~49.3s at 229 wpm; humanizer 75.5 PASS.
+
+```
+I spent $2,700 at a three Michelin star restaurant in Paris.
+Come check it out with me.
+This is Le Cinq, at the Four Seasons, and it's held three stars for ten years in a row.
+It's a formal dress code, so it feels like an occasion from the start.
+Right when we walk in, the dining room is grand and huge, and we got the best seat in the house, right by the kitchen.
+And the whole night, the staff were funny, warm and attentive, always making jokes.
+Then the food starts coming out, and even the bread is a highlight. A Parmesan waffle, light, fluffy, cheesy. It tasted heavenly.
+The smoked salmon and caviar? A great combination, with the buttermilk as the perfect finishing touch.
+And for dessert, the grapefruit three ways was one of the most memorable bites of the night.
+Plus the wine pairing was one of the best I've had across an entire meal.
+So, worth it?
+For a really special occasion? Definitely.
+I give you the real experience behind every Michelin star and Key I visit, so follow for the next one.
+```
 
 ## Script version 4 (DRAFT, 2026-11-26): flow rewrite
 User asked to make it more flowy. Links: dress code -> "the dining room matches
