@@ -1,6 +1,7 @@
 # Reel #9: Le Cinq, Paris
 
-Status: GATHERING DETAILS (started 2026-11-25). No script drafted yet.
+Status: script version 1 DRAFT 2026-11-26 (built from the details so far; flowers,
+staff moment and wine still to come).
 
 ## Facts used
 - Le Cinq, inside the Four Seasons Hotel George V, Paris. 3 Michelin stars;
@@ -24,6 +25,27 @@ Status: GATHERING DETAILS (started 2026-11-25). No script drafted yet.
 - Why a special occasion: there's a formal dress code, which makes it a
   memorable evening (user's account; dress code not checked against the
   restaurant's own site).
+
+## Script version 1 (DRAFT, 2026-11-26)
+Hook 80.8 STRONG; 168 words, ~44.0s at 229 wpm; humanizer 78.0 PASS.
+Proof line uses the Four Seasons George V only (chef and stars not re-checked yet).
+
+```
+I spent $2,700 at a three Michelin star restaurant in Paris.
+Come check it out with me.
+This is Le Cinq, inside the Four Seasons George V.
+And it's a dress-up kind of night. There's a formal dress code, so the whole evening feels like an occasion.
+The dining room is grand and huge, and we got the best seat in the house, right by the kitchen.
+They even arranged flowers for my girlfriend when I asked.
+The service? Funny, warm, and always there without hovering.
+And the food? The amuse-bouches set the tone right away.
+Then the bread came out. A Parmesan waffle. Light, fluffy, cheesy. It tasted heavenly.
+The smoked salmon with caviar and buttermilk was so good too.
+And the grapefruit three ways for dessert was one of the most memorable things all night.
+So was it worth it?
+For a really special occasion? Definitely.
+I give you the real experience behind every Michelin star and Key I visit, so follow for the next one.
+```
 
 ## Still to get
 - The flowers: the occasion, when and how they were brought out, her reaction.
