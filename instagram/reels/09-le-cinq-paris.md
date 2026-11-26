@@ -52,13 +52,13 @@ combination"; buttermilk dropped from the spoken line to save time. Then rewritt
 the user: "a great combination, and the buttermilk was the perfect finishing
 touch" ("come all together" smoothed to "helped it all come together").
 "inside the Four Seasons George V" became "at the Four Seasons in Paris"
-(user, 2026-11-26). Exception to the don't-repeat-the-city rule: Paris is in
-the hook too, kept at the user's direction.
+(user, 2026-11-26), then "at the Four Seasons" (user, 2026-11-26), so Paris
+isn't said twice.
 
 ```
 I spent $2,700 at a three Michelin star restaurant in Paris.
 Come check it out with me.
-This is Le Cinq, at the Four Seasons in Paris, and it's held three stars for ten years in a row.
+This is Le Cinq, at the Four Seasons, and it's held three stars for ten years in a row.
 And it's a dress-up kind of night. There's a formal dress code, so the whole evening feels like an occasion.
 The dining room is grand and huge, and we got the best seat in the house, right by the kitchen.
 The service? Funny, warm and attentive. The staff were always making jokes.
