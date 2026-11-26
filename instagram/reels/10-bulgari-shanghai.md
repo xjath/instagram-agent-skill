@@ -26,3 +26,10 @@ Posts before the #15 head-to-head (Bulgari Tokyo vs. Bulgari Shanghai).
   every restaurant booking..." The Bulgari Shanghai service line needs
   different wording.
 - No amenities footage listed.
+
+## Detail answers (user, 2026-11-26)
+- Room: very spacious and spectacular.
+- View: amazing at night, all the city lights with the river.
+- Staff: very hospitable, attentive and caring to our needs.
+- Still labels (digging-deeper rule): one concrete room detail and one concrete
+  staff moment would help. Amenities and the Tokyo comparison not answered yet.
