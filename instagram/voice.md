@@ -195,10 +195,7 @@ Actual card charges may differ from these conversions.
   2026-11-23): "I spent $X at a [N] Michelin star restaurant in [CITY]." / "...a
   [N] Michelin Key hotel in [CITY]." Don't repeat the city in the "This is" line.
 
-## Privacy: no travel companion (user, 2026-11-26)
-The public must not know the user travels or dines with someone. In scripts,
-captions, cards and on-screen text: no "we", "us", "our", "for two", "my
-girlfriend", "friends". Use "I / me / my" for what happened and "you" for
-what the viewer would experience. Watch footage too (a second plate or glass,
-someone's hands, reflections, voices). Open question for the user: hook
-totals that cover two people (see the reel notes).
+## Privacy: travel companion (user, 2026-11-26)
+Considered hiding that the user travels with someone, then DROPPED: "OK, leave
+it as is then." Scripts keep "we / us" where it's true; hook totals stay as
+the full bill. Don't raise this again unless the user does.
