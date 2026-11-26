@@ -137,3 +137,22 @@ Was the money spent worth it?
 Yeah, it was.
 I give you the real experience behind every Michelin star and Key I visit, so follow for the next one.
 ```
+
+## Reel #9: Le Cinq, Paris
+~50.0s · humanizer 77.2   PASS
+
+```
+I spent $2,700 at a three Michelin star restaurant in Paris.
+Come check it out with me.
+This is Le Cinq, at the Four Seasons George V, and it's held three stars for ten years in a row.
+It's a formal dress code, so it feels like an occasion from the start.
+And the dining room matches it. Magical and grand, and we got the best seat in the house, right by the kitchen.
+The staff made it even better. Funny, warm and attentive, always making jokes.
+And all that care carried into the food. Even the bread was a highlight. A Parmesan waffle, light, fluffy, cheesy. It tasted heavenly.
+One of my favorites after that was the smoked salmon and caviar, a great combination, with the buttermilk as the perfect finishing touch.
+For dessert, the grapefruit three ways was one of the most memorable bites.
+And the wine pairing tied it all together. One of the best I've had.
+So was it worth it?
+For a really special occasion? Definitely.
+I give you the real experience behind every Michelin star and Key I visit, so follow for the next one.
+```
