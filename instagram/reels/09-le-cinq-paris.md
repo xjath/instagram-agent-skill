@@ -41,7 +41,8 @@ staff moment and wine still to come).
 Proof line added, reworded by the user to "held three stars for ten years in a
 row" (2026-11-26);
 verified: 3 stars from the 2016 guide through 2026 (see Accolades).
-Service line set by the user: "Funny, warm and attentive." (2026-11-26).
+Service line set by the user: "Funny, warm and attentive." plus "The staff
+were always making jokes." (2026-11-26).
 
 ```
 I spent $2,700 at a three Michelin star restaurant in Paris.
@@ -49,7 +50,7 @@ Come check it out with me.
 This is Le Cinq, inside the Four Seasons George V, and it's held three stars for ten years in a row.
 And it's a dress-up kind of night. There's a formal dress code, so the whole evening feels like an occasion.
 The dining room is grand and huge, and we got the best seat in the house, right by the kitchen.
-The service? Funny, warm and attentive.
+The service? Funny, warm and attentive. The staff were always making jokes.
 And the food? The amuse-bouches set the tone right away.
 Then the bread came out. A Parmesan waffle. Light, fluffy, cheesy. It tasted heavenly.
 The smoked salmon with caviar and buttermilk was so good too.
