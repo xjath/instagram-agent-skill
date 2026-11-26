@@ -1,6 +1,6 @@
 # Reel #10: Bulgari Hotel Shanghai
 
-Status: script version 1 DRAFT 2026-11-26 (breakfast detail still needed).
+Status: script version 2 DRAFT 2026-11-26 (breakfast detail still needed).
 Posts before the #15 head-to-head (Bulgari Tokyo vs. Bulgari Shanghai).
 
 ## Facts used
@@ -41,6 +41,25 @@ Posts before the #15 head-to-head (Bulgari Tokyo vs. Bulgari Shanghai).
 
 - Comparison (user, 2026-11-26): "Tokyo was better though." Why: not given yet.
   Use in the #15 head-to-head; this reel stays a standalone yes.
+
+- Room (user, 2026-11-26): felt very spacious and luxurious; liked that there
+  was a dressing room in the room.
+
+## Script version 2 (DRAFT, 2026-11-26)
+Dressing room added to the room line.
+
+```
+I spent $7,000 at a two Michelin Key hotel in Shanghai.
+Come check it out with me.
+This is the Bulgari Hotel. Five nights in a Premium Guest Room.
+The room is huge and so luxurious, it even has its own dressing room. But it's the view that makes it unforgettable.
+At night, it's all city lights over the river, with the Pearl Tower right there.
+The staff were just as memorable. We had a personal concierge, and he was still looking after us on his off hours, when he wasn't even supposed to be working.
+Then there's breakfast at the hotel restaurant. [ONE DETAIL: a dish, the room, the spread]
+So, worth it?
+For $1,400 a night? Definitely.
+I give you the real experience behind every Michelin star and Key I visit, so follow for the next one.
+```
 
 ## Script version 1 (DRAFT, 2026-11-26)
 Hook 80.8 STRONG; ~32s at 229 wpm with the placeholder; humanizer 88.3 PASS
