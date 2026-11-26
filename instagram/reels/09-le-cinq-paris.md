@@ -19,6 +19,8 @@ Status: GATHERING DETAILS (started 2026-11-25). No script drafted yet.
 - Seat: the best seat in the house, right by the kitchen.
 - Most memorable dishes: the amuse-bouches, and the grapefruit three ways
   dessert. Also loved the smoked salmon with caviar and buttermilk.
+- Bread highlight (user, 2026-11-26): the Parmesan waffle, "tasted heavenly":
+  light, fluffy, cheesy.
 - Why a special occasion: there's a formal dress code, which makes it a
   memorable evening (user's account; dress code not checked against the
   restaurant's own site).
