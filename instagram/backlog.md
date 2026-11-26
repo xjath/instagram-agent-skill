@@ -58,7 +58,7 @@ unchanged. Bulgari Hotel Shanghai still posts before the head-to-head.
 | 12 | Josun Palace, 1 Key Seoul | Yes |
 | 13 | Alo, 1★ Toronto | Yes |
 | 14 | Kato, LA | Once |
-| 15 | Bulgari Tokyo vs. Bulgari Shanghai | Head-to-head |
+| 15 | Bulgari Tokyo vs. Bulgari Shanghai | Head-to-head (user's pick: Tokyo, 2026-11-26) |
 | 16 | Soseoul Hannam, 1★ Seoul | Yes |
 | 17 | Il Pagliaccio, 2★ Rome | **Not really** |
 | 18 | Shoushin, 1★ Toronto | Yes |

@@ -39,6 +39,9 @@ Posts before the #15 head-to-head (Bulgari Tokyo vs. Bulgari Shanghai).
 - Amenities (user): had breakfast at the hotel restaurant during the stay
   (which restaurant and what was good: not given yet).
 
+- Comparison (user, 2026-11-26): "Tokyo was better though." Why: not given yet.
+  Use in the #15 head-to-head; this reel stays a standalone yes.
+
 ## Script version 1 (DRAFT, 2026-11-26)
 Hook 80.8 STRONG; ~32s at 229 wpm with the placeholder; humanizer 88.3 PASS
 (scored before the placeholder was added). Verdict worded differently from
