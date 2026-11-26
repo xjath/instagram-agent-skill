@@ -60,7 +60,8 @@ making class for them in the hotel; now follows straight from the concierge line
 Standout (user, 2026-11-26): the hotel offers BULGARI chocolate making classes
 right inside the hotel (user's account; not checked on Bulgari's site).
 Script line is the user's own wording (2026-11-26); the concierge setting up
-the private class is no longer said.
+the private class is no longer said. Concierge line in the user's wording:
+"he was still very attentive on his off hours."
 
 ```
 I spent $7,000 at a two Michelin Key hotel in Shanghai.
@@ -68,7 +69,7 @@ Come check it out with me.
 This is the Bulgari Hotel. Five nights in a room with one of the best views ever.
 The room itself is huge and so luxurious, it even has its own dressing room.
 When you look out the window at night, it's all city lights over the river, with the Pearl Tower right there.
-The staff were just as memorable. We had a personal concierge, and he was still looking after us on his off hours, when he wasn't even supposed to be working.
+The staff were just as memorable. We had a personal concierge, and he was still very attentive on his off hours.
 One thing that really stood out about this hotel was they offer Bulgari chocolate making classes, right inside the hotel. So fun, but getting the shape perfect is way harder than it looks.
 So after five nights, worth it?
 For $1,400 a night? Definitely.
