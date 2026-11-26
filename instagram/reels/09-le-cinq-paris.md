@@ -43,6 +43,8 @@ row" (2026-11-26);
 verified: 3 stars from the 2016 guide through 2026 (see Accolades).
 Service line set by the user: "Funny, warm and attentive." plus "The staff
 were always making jokes." (2026-11-26).
+Amuse-bouches line cut (user, 2026-11-26, for time); bread line reworded to
+"Even the bread was a highlight." so it follows "And the food?"
 
 ```
 I spent $2,700 at a three Michelin star restaurant in Paris.
@@ -51,8 +53,7 @@ This is Le Cinq, inside the Four Seasons George V, and it's held three stars for
 And it's a dress-up kind of night. There's a formal dress code, so the whole evening feels like an occasion.
 The dining room is grand and huge, and we got the best seat in the house, right by the kitchen.
 The service? Funny, warm and attentive. The staff were always making jokes.
-And the food? The amuse-bouches set the tone right away.
-Then the bread came out. A Parmesan waffle. Light, fluffy, cheesy. It tasted heavenly.
+And the food? Even the bread was a highlight. A Parmesan waffle. Light, fluffy, cheesy. It tasted heavenly.
 The smoked salmon with caviar and buttermilk was so good too.
 And the grapefruit three ways for dessert was one of the most memorable things all night.
 So was it worth it?
@@ -103,7 +104,6 @@ I give you the real experience behind every Michelin star and Key I visit, so fo
 ## Still to get
 - The funny staff moment: what someone actually said or did.
 - Wine pairing: any memorable pour or moment.
-- Amuse-bouches: which ones, or what made them stand out.
 
 ## Notes for drafting
 - Providence (#1) already says "the best room in the house". Le Cinq's "best
