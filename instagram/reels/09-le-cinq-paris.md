@@ -28,7 +28,7 @@ staff moment and wine still to come).
 
 ## Detail answers (user, 2026-11-25)
 - Dining room: very grand and big.
-- Seat: the best seat in the house.
+- Seat: the best seat in the house, right by the kitchen.
 - Most memorable dishes: the amuse-bouches, and the grapefruit three ways
   dessert. Also loved the smoked salmon with caviar and buttermilk.
 - Bread highlight (user, 2026-11-26): the Parmesan waffle, "tasted heavenly":
@@ -48,8 +48,8 @@ Service and food lines changed from questions to lead-ins (user, 2026-11-26):
 highlight." (user chose A, 2026-11-26, after first picking B).
 Salmon lead-in "One of my favorites after that was..." (user chose, 2026-11-26).
 Wine line "And the wine pairing tied it all together." (user chose, 2026-11-26).
-Trims (user, 2026-11-26): "right by the kitchen", "across an entire meal" and
-"of the night" cut; "It tasted heavenly." kept.
+Trims (user, 2026-11-26): "across an entire meal" and "of the night" cut;
+"right by the kitchen" and "It tasted heavenly." kept.
 
 ```
 I spent $2,700 at a three Michelin star restaurant in Paris.
