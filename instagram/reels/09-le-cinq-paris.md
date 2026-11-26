@@ -1,6 +1,6 @@
 # Reel #9: Le Cinq, Paris
 
-Status: script version 5 DRAFT 2026-11-26 (lead-ins from script-template.md's flow bank; was version 3 (ten-years proof line added; flowers removed;
+Status: script version 6 DRAFT 2026-11-26 (version 4 restored, George V added; was version 5 (lead-ins from script-template.md's flow bank; was version 3 (ten-years proof line added; flowers removed;
 staff moment and wine still to come).
 
 ## Facts used
@@ -36,6 +36,28 @@ staff moment and wine still to come).
 - Why a special occasion: there's a formal dress code, which makes it a
   memorable evening (user's account; dress code not checked against the
   restaurant's own site).
+
+## Script version 6 (DRAFT, 2026-11-26): version 4 + George V
+User prefers version 4's flow over version 5 (2026-11-26): "I like the previous
+version better because it flows better." "George V" added back after "the Four
+Seasons" (user). Note for future scripts: the user's ear beats the lead-in bank;
+use the bank as ideas, not as required wording.
+
+```
+I spent $2,700 at a three Michelin star restaurant in Paris.
+Come check it out with me.
+This is Le Cinq, at the Four Seasons George V, and it's held three stars for ten years in a row.
+It's a formal dress code, so it feels like an occasion from the start.
+And the dining room matches it. Grand, huge, and we got the best seat in the house, right by the kitchen.
+The service? Funny, warm and attentive. The staff were always making jokes.
+And the food? Even the bread was a highlight. A Parmesan waffle, light, fluffy, cheesy. It tasted heavenly.
+Then the smoked salmon and caviar, a great combination, with the buttermilk as the perfect finishing touch.
+For dessert, the grapefruit three ways was one of the most memorable bites of the night.
+And the wine pairing? One of the best I've had across an entire meal.
+So was it worth it?
+For a really special occasion? Definitely.
+I give you the real experience behind every Michelin star and Key I visit, so follow for the next one.
+```
 
 ## Script version 5 (DRAFT, 2026-11-26): flow rules applied
 User pointed to the saved flow rule. Version 4 missed it: "The service?" and

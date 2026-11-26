@@ -80,6 +80,9 @@ I give you the real experience behind every Michelin star and Key I visit, so fo
 Every section hands off to the next with a lead-in, so the script reads like
 one easy conversation. Never jump straight from one topic to the next.
 Rotate the lead-ins so reels don't all sound the same.
+The bank is a source of ideas, not required wording: on Le Cinq the user
+preferred a version with lighter lead-ins ("And the dining room matches it",
+"The service?", "And the food?") over one using the bank's phrases (2026-11-26).
 
 Restaurants
 | From -> to | Lead-ins to pick from |
