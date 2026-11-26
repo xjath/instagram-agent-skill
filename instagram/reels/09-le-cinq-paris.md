@@ -38,13 +38,14 @@ staff moment and wine still to come).
   restaurant's own site).
 
 ## Script version 3 (DRAFT, 2026-11-26)
-Proof line "held three stars ten years running" added (user, 2026-11-26);
+Proof line added, reworded by the user to "held three stars for ten years in a
+row" (2026-11-26);
 verified: 3 stars from the 2016 guide through 2026 (see Accolades).
 
 ```
 I spent $2,700 at a three Michelin star restaurant in Paris.
 Come check it out with me.
-This is Le Cinq, inside the Four Seasons George V, and it's held three stars ten years running.
+This is Le Cinq, inside the Four Seasons George V, and it's held three stars for ten years in a row.
 And it's a dress-up kind of night. There's a formal dress code, so the whole evening feels like an occasion.
 The dining room is grand and huge, and we got the best seat in the house, right by the kitchen.
 The service? Funny, warm, and always there without hovering.
