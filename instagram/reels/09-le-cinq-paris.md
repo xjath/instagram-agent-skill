@@ -42,13 +42,14 @@ User prefers version 4's flow over version 5 (2026-11-26): "I like the previous
 version better because it flows better." "George V" added back after "the Four
 Seasons" (user). Note for future scripts: the user's ear beats the lead-in bank;
 use the bank as ideas, not as required wording.
+"Grand, huge" became "Magical and grand" (user, 2026-11-26).
 
 ```
 I spent $2,700 at a three Michelin star restaurant in Paris.
 Come check it out with me.
 This is Le Cinq, at the Four Seasons George V, and it's held three stars for ten years in a row.
 It's a formal dress code, so it feels like an occasion from the start.
-And the dining room matches it. Grand, huge, and we got the best seat in the house, right by the kitchen.
+And the dining room matches it. Magical and grand, and we got the best seat in the house, right by the kitchen.
 The service? Funny, warm and attentive. The staff were always making jokes.
 And the food? Even the bread was a highlight. A Parmesan waffle, light, fluffy, cheesy. It tasted heavenly.
 Then the smoked salmon and caviar, a great combination, with the buttermilk as the perfect finishing touch.
