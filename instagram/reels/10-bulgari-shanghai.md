@@ -64,13 +64,15 @@ the private class is no longer said. Concierge line in the user's wording:
 "he was still very attentive on his off hours."
 Intro back to "This is the Bulgari Hotel." (user, 2026-11-26: stick to the
 "This is [NAME]" rule; "We're back at the Bulgari hotel chain" was tried and dropped).
+View line in the user's wording: "But when you look out the window at night,
+that's where the beauty is." (2026-11-26).
 
 ```
 I spent $7,000 at a two Michelin Key hotel in Shanghai.
 Come check it out with me.
 This is the Bulgari Hotel. Five nights in a room with one of the best views ever.
 The room itself is huge and so luxurious, it even has its own dressing room.
-When you look out the window at night, it's all city lights over the river, with the Pearl Tower right there.
+But when you look out the window at night, that's where the beauty is. It's all city lights over the river, with the Pearl Tower right there.
 The staff were just as memorable. We had a personal concierge, and he was still very attentive on his off hours.
 One thing that really stood out about this hotel was they offer Bulgari chocolate making classes, right inside the hotel. So fun, but getting the shape perfect is way harder than it looks.
 So after five nights, worth it?
