@@ -46,6 +46,7 @@ use the bank as ideas, not as required wording.
 Service and food lines changed from questions to lead-ins (user, 2026-11-26):
 "The staff made it even better." / food lead-in "And all that care carried into the food. Even the bread was a
 highlight." (user chose A, 2026-11-26, after first picking B).
+Salmon lead-in "One of my favorites after that was..." (user chose, 2026-11-26).
 
 ```
 I spent $2,700 at a three Michelin star restaurant in Paris.
@@ -55,7 +56,7 @@ It's a formal dress code, so it feels like an occasion from the start.
 And the dining room matches it. Magical and grand, and we got the best seat in the house, right by the kitchen.
 The staff made it even better. Funny, warm and attentive, always making jokes.
 And all that care carried into the food. Even the bread was a highlight. A Parmesan waffle, light, fluffy, cheesy. It tasted heavenly.
-Then the smoked salmon and caviar, a great combination, with the buttermilk as the perfect finishing touch.
+One of my favorites after that was the smoked salmon and caviar, a great combination, with the buttermilk as the perfect finishing touch.
 For dessert, the grapefruit three ways was one of the most memorable bites of the night.
 And the wine pairing? One of the best I've had across an entire meal.
 So was it worth it?
