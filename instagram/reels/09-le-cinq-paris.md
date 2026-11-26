@@ -15,6 +15,17 @@ staff moment and wine still to come).
   cost). Letdowns: none.
 - Footage: food photos and videos, some of the restaurant, the outside.
 
+## Accolades (checked 2026-11-26)
+- 3 Michelin stars since the 2016 guide (third star announced February 2016,
+  about a year into Christian Le Squer's time as chef); kept in the 2026
+  Michelin Guide France. The hotel's 2026 press release calls it ten
+  consecutive years of three stars under Le Squer.
+  Sources: press.fourseasons.com/paris/hotel-news/2026/six-michelin-stars/ ;
+  tourmag.com (Michelin Guide 2016 new stars) ; guide.michelin.com le-cinq6102.
+- One guide-style profile says Le Squer "restored" the third star in 2016,
+  which implies Le Cinq held three stars before; that earlier period is NOT
+  verified, so don't claim anything before 2016.
+
 ## Detail answers (user, 2026-11-25)
 - Dining room: very grand and big.
 - Seat: the best seat in the house, right by the kitchen.
