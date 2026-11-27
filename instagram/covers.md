@@ -34,5 +34,16 @@ Influencer Marketing Hub; Meta's own docs not checked):
   only, no Michelin logo or Key symbol (their trademarks).
 - Michelin Key logo (user, 2026-11-27): the user supplied the 3-Key image and
   chose to use it after being told Michelin's rules (as quoted in a hotel's
-  2025 PDF) prohibit use of its brand assets without authorization. Saved as
-  `covers/keys-3.png`; pass it as the KICKER argument.
+  2025 PDF) prohibit use of its brand assets without authorization. Pass a
+  file from `assets/michelin/` as the KICKER argument.
+
+## Michelin icon assets (user-supplied, 2026-11-27)
+`instagram/assets/michelin/`, transparent PNGs cropped to the artwork:
+- Keys: `key-1-`, `keys-2-`, `keys-3-` in `outline` (red line, see-through
+  middle) and `filled` (red line, white middle).
+- Stars: `star-1-`, `stars-2-`, `stars-3-`, same two styles.
+- `star-1-outline.png` had stray specks in its see-through areas; cleaned.
+- Covers scale every icon set to the same height (165 px), so 1, 2 and 3
+  icons look consistent across the grid.
+- Bulgari Tokyo uses `keys-3-outline`. Pick one style (outline or filled) and
+  keep it on every cover.
