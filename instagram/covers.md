@@ -45,5 +45,6 @@ Influencer Marketing Hub; Meta's own docs not checked):
 - `star-1-outline.png` had stray specks in its see-through areas; cleaned.
 - Covers scale every icon set to the same height (165 px), so 1, 2 and 3
   icons look consistent across the grid.
-- STYLE: FILLED on every cover (user, 2026-11-27). Bulgari Tokyo uses
+- STYLE: FILLED on every cover (user, 2026-11-27): filled keys for hotels,
+  filled stars for restaurants. Bulgari Tokyo uses
   `keys-3-filled`.
