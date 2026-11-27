@@ -35,6 +35,7 @@ It is literally true now (Mizue holds two stars). Before & after angle dropped.
 ## Script version 1 (DRAFT, 2026-11-27)
 Hook 80.8 STRONG; ~39s at 229 wpm. Verdict line in the user's wording (2026-11-27).
 "the balance of the nigiri is fish heavy" (user's wording).
+Verdict adds "if they fixed the rice, it would 100% be worth it" (user).
 
 ```
 I spent $600 at a two Michelin star restaurant in Taipei.
@@ -45,6 +46,6 @@ And the fish lives up to that level of care. It's sliced thick, so the balance o
 But here's the thing. With sushi, the rice matters even more than the fish.
 And the rice was a little too soft for my liking, with not enough vinegar.
 So, worth it?
-Not at the time I went. But I'd like to go back to see if they've improved on the rice.
+Not at the time I went. But if they fixed the rice, it would 100% be worth it, and I'd like to go back to see if they have.
 I give you the real experience behind every Michelin star and Key I visit, so follow for the next one.
 ```
