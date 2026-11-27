@@ -174,14 +174,16 @@ I give you the real experience behind every Michelin star and Key I visit, so fo
 ```
 
 ## Reel #11: Mizue, Taipei
-~43.0s · humanizer 72.6   PASS
+~50.3s · humanizer 70.9   PASS
 
 ```
 I spent $600 at a two Michelin star restaurant in Taipei.
 Come check it out with me.
-This is Mizue, inside the Capella hotel, and the staff here pay attention to everything.
+This is Mizue, inside the Capella hotel.
+We sat at the sushi counter, so we got to watch the chef make every single piece right in front of us.
+And the staff here pay attention to everything.
 They noticed I'm left-handed, so every time they replaced my utensils, they moved them over to the left side.
-And that same attention to detail shows up in the fish. It's sliced thick, so the balance of the nigiri is fish heavy, and the soy sauce gives it so much depth.
+And that same attention to detail shows up in the fish. I was impressed by how thick the cuts were, so the balance of the nigiri is fish heavy, and the soy sauce gives it so much depth.
 But here's the thing. With sushi, the rice matters even more than the fish.
 And the rice was a little too soft for my liking, with not enough vinegar.
 So, worth it?

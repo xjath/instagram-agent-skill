@@ -21,6 +21,9 @@ happen on your phone or computer.
 - [ ] Flow check: every section has a lead-in (bank in `script-template.md`).
 - [ ] Humanizer (`/ig-human`), aim for PASS.
 - [ ] Facts in the script match the notes and the verified sources.
+- [ ] All three criteria have a spoken line before locking (restaurants: Food,
+      Service, Experience; hotels: Room, Service, Amenities). Added 2026-11-27
+      after Mizue was locked without an Experience line.
 - [ ] Open sign-off is fine ("...the next one just might be").
 - [ ] For a "no": follow "Giving a 'no' without burning bridges" in voice.md.
 - [ ] Any free meal, discount or payment: disclosure planned for the caption.

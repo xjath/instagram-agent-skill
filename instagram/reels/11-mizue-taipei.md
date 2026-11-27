@@ -1,7 +1,7 @@
 # Reel #11: Mizue, Taipei
 
-Status: REOPENED 2026-11-27: version 2 was locked without an Experience line
-(restaurant criteria: Food, Service, Experience). Version 3 DRAFT adds it.
+Status: script version 3 LOCKED 2026-11-27 (version 2 was locked without an
+Experience line, reopened and fixed the same day). Caption not written yet.
 
 ## Facts used
 - Mizue, Japanese omakase on the 2nd floor of Capella Taipei (Songshan
@@ -33,10 +33,10 @@ It is literally true now (Mizue holds two stars). Before & after angle dropped.
 - Verdict: not at the time the user went, but curious whether they improved
   the rice.
 
-## Script version 3 (DRAFT, 2026-11-27): Experience line added
+## Final script (version 3, LOCKED 2026-11-27): Experience line added
 Experience (user, 2026-11-27): sat at the sushi counter and could see the chef
 make every single piece in front of them. Fish (user): "impressed by how
-thick the cuts were." ~48.7s at 229 wpm; humanizer 71.8 PASS.
+thick the cuts were." ~50.3s at 229 wpm (over 45s; accepted by the user); humanizer 70.9 PASS.
 
 ```
 I spent $600 at a two Michelin star restaurant in Taipei.
