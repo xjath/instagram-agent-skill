@@ -33,7 +33,7 @@ It is literally true now (Mizue holds two stars). Before & after angle dropped.
   the rice.
 
 ## Script version 1 (DRAFT, 2026-11-27)
-Hook 80.8 STRONG; ~38s at 229 wpm; humanizer checked below.
+Hook 80.8 STRONG; ~39s at 229 wpm. Verdict line in the user's wording (2026-11-27).
 
 ```
 I spent $600 at a two Michelin star restaurant in Taipei.
@@ -44,6 +44,6 @@ And the fish lives up to that level of care. It's sliced thick, so there's a lit
 But here's the thing. With sushi, the rice matters even more than the fish.
 And the rice was a little too soft for my liking, with not enough vinegar.
 So, worth it?
-Not at the time I went. But I'm curious if they've improved the rice.
+Not at the time I went. But I'd like to go back to see if they've improved on the rice.
 I give you the real experience behind every Michelin star and Key I visit, so follow for the next one.
 ```
