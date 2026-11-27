@@ -5,6 +5,7 @@ KICKER is an optional small line above, e.g. "3 MICHELIN KEYS", or a path to a
 .png (e.g. ../assets/michelin/keys-3-outline.png), which is placed above the text instead.
 text_center_y is in px on the 1920-tall canvas (default 760). The 3:4 grid
 crop keeps y=240..1680, so keep text between ~300 and ~1600."""
+import os
 import sys
 from PIL import Image, ImageDraw, ImageFont, ImageFilter, ImageOps
 
@@ -27,6 +28,14 @@ def main():
     kicker = sys.argv[6] if len(sys.argv) > 6 else None
     im = ImageOps.exif_transpose(Image.open(src)).convert("RGB")
     im = ImageOps.fit(im, (W, H), Image.LANCZOS)
+    shade = os.environ.get("SHADE")  # e.g. SHADE=top: darken behind the text
+    if shade == "top":
+        g = Image.new("L", (1, H))
+        for y in range(H):
+            v = 200 if y < cy + 150 else max(0, int(200 - (y - cy - 150) * 0.8))
+            g.putpixel((0, y), v)
+        g = g.resize((W, H))
+        im = Image.composite(Image.new("RGB", (W, H), (0, 0, 0)), im, g)
     d = ImageDraw.Draw(im)
     f1 = fit(d, l1, 920, 150)
     f2 = fit(d, l2, 920, 150)

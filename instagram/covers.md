@@ -48,3 +48,6 @@ Influencer Marketing Hub; Meta's own docs not checked):
 - STYLE: FILLED on every cover (user, 2026-11-27): filled keys for hotels,
   filled stars for restaurants. Bulgari Tokyo uses
   `keys-3-filled`.
+- #1 Providence: `covers/01-providence-cover.jpg` from the user's photo of the
+  engraved "Congratulations / three stars / Providence" Dom Perignon 2012
+  magnum (2026-11-27). SHADE=top darkens behind the text (busy background).
