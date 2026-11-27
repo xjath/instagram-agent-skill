@@ -34,13 +34,14 @@ It is literally true now (Mizue holds two stars). Before & after angle dropped.
 
 ## Script version 1 (DRAFT, 2026-11-27)
 Hook 80.8 STRONG; ~39s at 229 wpm. Verdict line in the user's wording (2026-11-27).
+"the balance of the nigiri is fish heavy" (user's wording).
 
 ```
 I spent $600 at a two Michelin star restaurant in Taipei.
 Come check it out with me.
 This is Mizue, inside the Capella hotel, and the staff here pay attention to everything.
 They noticed I'm left-handed, so every time they replaced my utensils, they moved them over to the left side.
-And the fish lives up to that level of care. It's sliced thick, so there's a little more fish than rice, and the soy sauce gives it so much depth.
+And the fish lives up to that level of care. It's sliced thick, so the balance of the nigiri is fish heavy, and the soy sauce gives it so much depth.
 But here's the thing. With sushi, the rice matters even more than the fish.
 And the rice was a little too soft for my liking, with not enough vinegar.
 So, worth it?
