@@ -22,3 +22,10 @@ Influencer Marketing Hub; Meta's own docs not checked):
 | 9 | Le Cinq | $2,700 PARIS DINNER. WORTH IT? | The dining room, or the Parmesan waffle |
 | 10 | Bulgari Shanghai | $7,000 FOR 5 NIGHTS. WORTH IT? | The night view: city lights over the river |
 | 11 | Mizue | $600 2-STAR SUSHI. WORTH IT? | A thick-cut nigiri at the counter |
+
+## Made
+- `covers/make_cover.py` builds each cover: photo fitted to 1080x1920, white
+  line + red "WORTH IT?" (Inter Display Bold), soft shadow, and a
+  `-grid-preview.jpg` (the 3:4 centre crop) for checking.
+- #2 Bulgari Tokyo: `covers/02-bulgari-tokyo-cover.jpg` (user's night skyline
+  photo, 2026-11-27); text centred at y=600, in the dark sky above the skyline.
