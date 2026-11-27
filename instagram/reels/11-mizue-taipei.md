@@ -35,7 +35,8 @@ It is literally true now (Mizue holds two stars). Before & after angle dropped.
 
 ## Script version 3 (DRAFT, 2026-11-27): Experience line added
 Experience (user, 2026-11-27): sat at the sushi counter and could see the chef
-make every single piece in front of them. ~48.7s at 229 wpm; humanizer 71.8 PASS.
+make every single piece in front of them. Fish (user): "impressed by how
+thick the cuts were." ~48.7s at 229 wpm; humanizer 71.8 PASS.
 
 ```
 I spent $600 at a two Michelin star restaurant in Taipei.
@@ -44,7 +45,7 @@ This is Mizue, inside the Capella hotel.
 We sat at the sushi counter, so we got to watch the chef make every single piece right in front of us.
 And the staff here pay attention to everything.
 They noticed I'm left-handed, so every time they replaced my utensils, they moved them over to the left side.
-And that same attention to detail shows up in the fish. It's sliced thick, so the balance of the nigiri is fish heavy, and the soy sauce gives it so much depth.
+And that same attention to detail shows up in the fish. I was impressed by how thick the cuts were, so the balance of the nigiri is fish heavy, and the soy sauce gives it so much depth.
 But here's the thing. With sushi, the rice matters even more than the fish.
 And the rice was a little too soft for my liking, with not enough vinegar.
 So, worth it?
