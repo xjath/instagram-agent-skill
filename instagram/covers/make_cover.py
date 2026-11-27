@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """Make a 1080x1920 reel cover: photo + two-line text in the 3:4 grid-safe band.
 Usage: make_cover.py IN.jpg OUT.jpg "LINE ONE" "LINE TWO" [text_center_y] [KICKER]
-KICKER is an optional small line above, e.g. "3 MICHELIN KEYS".
+KICKER is an optional small line above, e.g. "3 MICHELIN KEYS", or a path to a
+.png (e.g. keys-3.png), which is placed above the text instead.
 text_center_y is in px on the 1920-tall canvas (default 760). The 3:4 grid
 crop keeps y=240..1680, so keep text between ~300 and ~1600."""
 import sys
@@ -45,7 +46,13 @@ def main():
     for (t, f, b, y, c) in ((l1, f1, b1, top, WHITE), (l2, f2, b2, top + h1 + gap, RED)):
         x = (W - (b[2] - b[0])) // 2 - b[0]
         d.text((x, y - b[1]), t, font=f, fill=c)
-    if kicker:
+    if kicker and kicker.lower().endswith(".png"):
+        lg = Image.open(kicker).convert("RGBA")
+        lw = 440
+        lg = lg.resize((lw, round(lg.height * lw / lg.width)), Image.LANCZOS)
+        im.alpha_composite(lg, ((W - lw) // 2, top - 45 - lg.height))
+        d = ImageDraw.Draw(im)
+    elif kicker:
         fk = ImageFont.truetype(FONT, 64)
         spaced = " ".join(kicker)  # letter-spaced
         spaced = spaced.replace("   ", "    ")

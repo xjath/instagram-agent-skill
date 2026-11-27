@@ -32,3 +32,7 @@ Influencer Marketing Hub; Meta's own docs not checked):
   Gold letter-spaced line "3 MICHELIN KEYS" above (user, 2026-11-27). Use the
   rating line on every cover (e.g. "3 MICHELIN STARS", "1 MICHELIN KEY"); text
   only, no Michelin logo or Key symbol (their trademarks).
+- Michelin Key logo (user, 2026-11-27): the user supplied the 3-Key image and
+  chose to use it after being told Michelin's rules (as quoted in a hotel's
+  2025 PDF) prohibit use of its brand assets without authorization. Saved as
+  `covers/keys-3.png`; pass it as the KICKER argument.
