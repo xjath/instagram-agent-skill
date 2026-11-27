@@ -1,6 +1,6 @@
 # Reel #10: Bulgari Hotel Shanghai
 
-Status: script version 6 DRAFT 2026-11-26 (breakfast detail still needed).
+Status: script version 7 LOCKED 2026-11-27. Caption not written yet.
 Posts before the #15 head-to-head (Bulgari Tokyo vs. Bulgari Shanghai).
 
 ## Facts used
@@ -51,6 +51,23 @@ Posts before the #15 head-to-head (Bulgari Tokyo vs. Bulgari Shanghai).
 
 - Chocolate class (user, 2026-11-26): made chocolates; fun but hard to get the
   shape perfect.
+
+## Final script (version 7, LOCKED 2026-11-27)
+Version 6 with the two concierge sentences joined. ~44.0s at 229 wpm;
+humanizer 80.2 PASS; hook 80.8 STRONG.
+
+```
+I spent $7,000 at a two Michelin Key hotel in Shanghai.
+Come check it out with me.
+This is the Bulgari Hotel. Five nights in a room with one of the best views ever.
+The room itself is huge. And so luxurious, it even has its own dressing room.
+But when you look out the window at night, that's where the true beauty is. It's all city lights over the river, with the Pearl Tower right there.
+The service was truly memorable. We had a personal concierge who arranged all our reservations, and he was even attentive on his off hours, when he wasn't supposed to be working.
+One thing that really stood out was they offer Bulgari chocolate making classes at the hotel. So fun, but getting the shape perfect is way harder than it looks.
+So after five nights, worth it?
+For $1,400 a night? Definitely.
+I give you the real experience behind every Michelin star and Key I visit, so follow for the next one.
+```
 
 ## Script version 6 (DRAFT, 2026-11-26): flow rule applied
 Each section leads into the next; no bare-question openers except the verdict;

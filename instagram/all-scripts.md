@@ -156,3 +156,19 @@ So was it worth it?
 For a really special occasion? Definitely.
 I give you the real experience behind every Michelin star and Key I visit, so follow for the next one.
 ```
+
+## Reel #10: Bulgari Hotel Shanghai
+~44.0s · humanizer 80.2   PASS
+
+```
+I spent $7,000 at a two Michelin Key hotel in Shanghai.
+Come check it out with me.
+This is the Bulgari Hotel. Five nights in a room with one of the best views ever.
+The room itself is huge. And so luxurious, it even has its own dressing room.
+But when you look out the window at night, that's where the true beauty is. It's all city lights over the river, with the Pearl Tower right there.
+The service was truly memorable. We had a personal concierge who arranged all our reservations, and he was even attentive on his off hours, when he wasn't supposed to be working.
+One thing that really stood out was they offer Bulgari chocolate making classes at the hotel. So fun, but getting the shape perfect is way harder than it looks.
+So after five nights, worth it?
+For $1,400 a night? Definitely.
+I give you the real experience behind every Michelin star and Key I visit, so follow for the next one.
+```
