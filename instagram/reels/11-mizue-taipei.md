@@ -16,3 +16,8 @@ Status: GATHERING DETAILS (started 2026-11-27). No script yet.
   in Taiwan. Letdown: the sushi rice needed work.
 - Footage: mix of photos and videos of the food and presentation.
 - Hook technique (backlog): 5 before & after (0 stars -> 2 stars).
+
+## Hook decision (user, 2026-11-27)
+Standard hook: "I spent $600 at a two Michelin star restaurant in Taipei."
+User: keep it simple; viewers don't need to know it had 0 stars at the visit.
+It is literally true now (Mizue holds two stars). Before & after angle dropped.
