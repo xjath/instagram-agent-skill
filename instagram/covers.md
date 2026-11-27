@@ -1,0 +1,24 @@
+# Reel covers
+
+Saved 2026-11-27. Format from profile.md: `[PRICE] [THING]. WORTH IT?`, same
+font and position every time, prices in USD (match the hook).
+
+Specs (secondary sources, checked 2026-11-27: Buffer, Hopper HQ, Linearity,
+Influencer Marketing Hub; Meta's own docs not checked):
+- Make the cover 1080 x 1920 (9:16).
+- The profile grid shows a 3:4 centre crop (~1080 x 1440), cutting ~240 px off
+  the top and bottom. Keep the text and the subject inside that middle band.
+- Check the "Profile grid" preview in Instagram's cover editor before posting.
+
+| # | Reel | Cover text | Shot (from the script and footage notes) |
+|---|---|---|---|
+| 1 | Providence | $2,400 3-STAR DINNER. WORTH IT? | The custom three-star Dom bottle in the cellar, or the kitchen view from the private room |
+| 2 | Bulgari Tokyo | $1,400 A NIGHT. WORTH IT? | Skyline from the room (Mount Fuji if it's clear in a frame) |
+| 3 | Atomix | $1,600 KOREAN TASTING. WORTH IT? | A plated dish or the banchan spread |
+| 4 | Banbo | $850 TASTING MENU. WORTH IT? | The shrimp "river" plate |
+| 5 | Baccarat | $12,000 HOTEL STAY. WORTH IT? | The crystal: chandelier or lobby |
+| 6 | Sushi Masaki Saito | $1,800 SUSHI DINNER. WORTH IT? | A piece of nigiri being placed, or the counter |
+| 8 | Amanyangyun | $1,400 AMAN STAY. WORTH IT? | The room or the grounds |
+| 9 | Le Cinq | $2,700 PARIS DINNER. WORTH IT? | The dining room, or the Parmesan waffle |
+| 10 | Bulgari Shanghai | $7,000 FOR 5 NIGHTS. WORTH IT? | The night view: city lights over the river |
+| 11 | Mizue | $600 2-STAR SUSHI. WORTH IT? | A thick-cut nigiri at the counter |
