@@ -71,7 +71,7 @@ Suggested hook techniques (numbers from the list in voice.md; based only on
 the user's own notes, to confirm when each script is written):
 - #7 Pujol: 6 challenge beliefs (user: "a lot of simple food in Mexico was much better").
 - #9 Le Cinq: 4 relatability (special occasion; flowers arranged for the user's girlfriend).
-- #11 Mizue: 5 before & after (0 stars at the visit, 2 stars about a month later).
+- #11 Mizue: 5 before & after (0 stars at the visit, 2 stars ~5 months later).
 - #6, #13, #18 Toronto: 7 FOMO, once the concierge community is live.
 - #15 and #20 head-to-heads: 3 benefits (which one to book).
 
@@ -167,7 +167,7 @@ Best moments: very interesting non-alcoholic cocktails; elevated versions of bas
 Letdowns: none named
 Footage: plain photos of the food; videos of tableside sauce pours
 
-MIZUE (Taipei), 0 stars at visit (got 2 stars about a month later), February
+MIZUE (Taipei), 0 stars at visit (got 2 stars in the Taiwan 2026 guide, 21 July 2026, ~5 months later; checked 2026-11-27), February
 Paid: NT$21,000 for two (~US$640, ~US$320pp)
 Worth it: it was okay; would go back to see if the rice is fixed
 Best moments: fish was really good; some of the most attentive, hospitable service in Taiwan
