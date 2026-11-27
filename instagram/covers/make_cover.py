@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Make a 1080x1920 reel cover: photo + two-line text in the 3:4 grid-safe band.
-Usage: make_cover.py IN.jpg OUT.jpg "LINE ONE" "LINE TWO" [text_center_y]
+Usage: make_cover.py IN.jpg OUT.jpg "LINE ONE" "LINE TWO" [text_center_y] [KICKER]
+KICKER is an optional small line above, e.g. "3 MICHELIN KEYS".
 text_center_y is in px on the 1920-tall canvas (default 760). The 3:4 grid
 crop keeps y=240..1680, so keep text between ~300 and ~1600."""
 import sys
@@ -22,6 +23,7 @@ def fit(draw, text, max_w, start):
 def main():
     src, out, l1, l2 = sys.argv[1:5]
     cy = int(sys.argv[5]) if len(sys.argv) > 5 else 760
+    kicker = sys.argv[6] if len(sys.argv) > 6 else None
     im = ImageOps.exif_transpose(Image.open(src)).convert("RGB")
     im = ImageOps.fit(im, (W, H), Image.LANCZOS)
     d = ImageDraw.Draw(im)
@@ -43,6 +45,18 @@ def main():
     for (t, f, b, y, c) in ((l1, f1, b1, top, WHITE), (l2, f2, b2, top + h1 + gap, RED)):
         x = (W - (b[2] - b[0])) // 2 - b[0]
         d.text((x, y - b[1]), t, font=f, fill=c)
+    if kicker:
+        fk = ImageFont.truetype(FONT, 64)
+        spaced = " ".join(kicker)  # letter-spaced
+        spaced = spaced.replace("   ", "    ")
+        bk = d.textbbox((0, 0), spaced, font=fk)
+        while bk[2] - bk[0] > 920:
+            fk = ImageFont.truetype(FONT, fk.size - 4)
+            bk = d.textbbox((0, 0), spaced, font=fk)
+        yk = top - 40 - (bk[3] - bk[1])
+        xk = (W - (bk[2] - bk[0])) // 2 - bk[0]
+        d.text((xk + 3, yk - bk[1] + 4), spaced, font=fk, fill=(0, 0, 0))
+        d.text((xk, yk - bk[1]), spaced, font=fk, fill=(214, 182, 110))
     im.convert("RGB").save(out, quality=95)
     # grid preview (3:4 centre crop) for checking
     prev = im.convert("RGB").crop((0, 240, 1080, 1680))

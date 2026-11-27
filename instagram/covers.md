@@ -28,4 +28,7 @@ Influencer Marketing Hub; Meta's own docs not checked):
   line + red "WORTH IT?" (Inter Display Bold), soft shadow, and a
   `-grid-preview.jpg` (the 3:4 centre crop) for checking.
 - #2 Bulgari Tokyo: `covers/02-bulgari-tokyo-cover.jpg` (user's night skyline
-  photo, 2026-11-27); text centred at y=600, in the dark sky above the skyline.
+  photo, 2026-11-27); text centred at y=620, in the dark sky above the skyline.
+  Gold letter-spaced line "3 MICHELIN KEYS" above (user, 2026-11-27). Use the
+  rating line on every cover (e.g. "3 MICHELIN STARS", "1 MICHELIN KEY"); text
+  only, no Michelin logo or Key symbol (their trademarks).
