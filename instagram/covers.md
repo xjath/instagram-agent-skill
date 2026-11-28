@@ -64,3 +64,6 @@ Influencer Marketing Hub; Meta's own docs not checked):
   the caviar dish in the celadon bowl, 2026-11-28; SHADE=top). Claude's pick of
   the five dish photos: dark marble with room for text, the dish fully clear of
   it, caviar reads as luxury at thumbnail size. Final choice: user's call.
+- #3 Atomix FINAL (user, 2026-11-28): the caviar cover, now
+  `covers/03-atomix-cover.jpg`. The glazed-dish and video-still versions moved to
+  `covers/alternates/`.
