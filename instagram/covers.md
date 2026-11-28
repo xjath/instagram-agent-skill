@@ -120,3 +120,8 @@ Influencer Marketing Hub; Meta's own docs not checked):
 - #10 option: `alternates/10-bulgari-shanghai-cover-room.jpg` (daytime room, SHADE=top); compare `alternates/bsh-night-vs-room.jpg`.
 - #10 option with the user in frame: `alternates/10-bulgari-shanghai-cover-me.jpg` (IMG_4046, at the window desk; no shade needed); compare `alternates/bsh-night-vs-me.jpg`.
 - #10: user keeps the night view and the user-in-frame version (room version also saved), 2026-11-28; decide before posting.
+- #11 Mizue: `covers/11-mizue-cover.jpg` (IMG_2801, otoro nigiri, no chef in frame)
+  and `alternates/11-mizue-cover-nigiri-chef.jpg` (IMG_2802, blurred chef behind).
+  Nigiri centred by measuring the tuna's position (CENTER_X 0.328 / 0.229);
+  SHADE=top. Tested and not used: the chef-slicing video (HLG, tone-mapped; the
+  tuna sits where the text goes) and the empty counter (bright, no food).
