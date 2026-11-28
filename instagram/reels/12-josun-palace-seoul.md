@@ -1,6 +1,6 @@
 # Reel #12: Josun Palace, Seoul
 
-Status: script version 3 DRAFT 2026-11-28.
+Status: script version 4 DRAFT 2026-11-28.
 
 ## Facts used
 - Josun Palace, a Luxury Collection Hotel, Seoul (231 Teheran-ro, Gangnam-gu;
@@ -85,6 +85,30 @@ The rest of the hotel lives up to it.
 The pool is beautiful, with these grand floor-to-ceiling windows.
 The bar feels high-end and really modern.
 And the buffet? Very, very good.
+So, worth it?
+For around $800 a night? Definitely.
+I give you the real experience behind every Michelin star and Key I visit, so follow for the next one.
+```
+
+## Script version 4 (DRAFT, 2026-11-28): flow pass
+User asked whether it flows. Version 3 jumped from the view straight to "And
+the service started..." (arrival told after the room), then listed pool, bar
+and buffet with no links, and ended on a bare question ("And the buffet?").
+Version 4 follows the stay in order: arrival -> room ("And what a room.") ->
+"the rest of the hotel lives up to it" -> "Like the pool" -> "From there, the
+bar" -> "And to top it off, the buffet". ~36.4s; humanizer 75.6 PASS.
+
+```
+I spent $2,400 at a one Michelin Key hotel in Seoul.
+Come check it out with me.
+This is Josun Palace, and the service starts the second you arrive.
+A welcome drink at check-in, then they walked us to our room and showed us around.
+And what a room. Three nights in a spacious room looking over Gangnam.
+According to the staff, it's the most expensive part of the area.
+And the rest of the hotel lives up to it.
+Like the pool. It's beautiful, with these grand floor-to-ceiling windows.
+From there, the bar feels high-end and really modern.
+And to top it off, the buffet was very, very good.
 So, worth it?
 For around $800 a night? Definitely.
 I give you the real experience behind every Michelin star and Key I visit, so follow for the next one.
