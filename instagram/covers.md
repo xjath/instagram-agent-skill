@@ -77,3 +77,6 @@ Influencer Marketing Hub; Meta's own docs not checked):
   and `05-baccarat-cover-medallion.jpg` (still at 1.0s of the floor-medallion
   video, shifted down with extra dark marble on top). User undecided
   (2026-11-28): keep both; decide before posting.
+- #6 Sushi Masaki Saito: `covers/06-sushi-masaki-saito-cover.jpg`, still at 10.0s
+  of the user's clip (the chef holding up the finished uni hand roll; source in
+  `covers/alternates/`). Text at the bottom over the counter (SHADE=bottom).
