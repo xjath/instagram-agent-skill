@@ -14,3 +14,7 @@ Status: GATHERING DETAILS (started 2026-11-27). No script yet.
 - Best: very, very good buffet; amazing view; very spacious room. Letdowns: none.
 - Footage: video of the room, some of the lobby, bar, etc.
 - Gap from voice.md: service.
+
+## Detail answers (user, 2026-11-28)
+- Room: very spacious, with an amazing city view. (Still a label; one concrete
+  detail would help: what the view shows, a design detail.)
