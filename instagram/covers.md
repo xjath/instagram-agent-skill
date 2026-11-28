@@ -80,3 +80,12 @@ Influencer Marketing Hub; Meta's own docs not checked):
 - #6 Sushi Masaki Saito: `covers/06-sushi-masaki-saito-cover.jpg`, still at 10.0s
   of the user's clip (the chef holding up the finished uni hand roll; source in
   `covers/alternates/`). Text at the bottom over the counter (SHADE=bottom).
+- #6 redone 2026-11-28: the first still looked washed out because the clip is
+  iPhone HDR (HLG, BT.2020) and was pulled without converting to normal (SDR)
+  colour. Now tone-mapped (ffmpeg zscale + tonemap=hable), then contrast and
+  colour +12%; bottom shade deeper (SHADE_MAX=240).
+- RULE for video stills: check `ffprobe ... color_transfer`. If it's
+  arib-std-b67 (HLG) or smpte2084 (PQ), tone-map before using the frame:
+  ffmpeg -ss T -i IN -frames:v 1 -vf "zscale=t=linear:npl=203,format=gbrpf32le,
+  zscale=p=bt709,tonemap=hable:desat=0,zscale=t=bt709:m=bt709:r=tv,format=yuv420p" OUT.jpg
+  (The Atomix awards-wall still in alternates/ is also HLG and was not redone.)
