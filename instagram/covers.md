@@ -91,3 +91,4 @@ Influencer Marketing Hub; Meta's own docs not checked):
   (The Atomix awards-wall still in alternates/ is also HLG and was not redone.)
 - #6 option: `covers/alternates/06-sushi-masaki-saito-cover-handroll.jpg`, the
   user's photo holding a toro hand roll at the counter (2026-11-28; SHADE=top).
+- #6: user undecided between the chef still and the hand roll (2026-11-28); keep both, decide before posting.
