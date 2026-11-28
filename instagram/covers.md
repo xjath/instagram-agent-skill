@@ -101,3 +101,8 @@ Influencer Marketing Hub; Meta's own docs not checked):
   with the burned-in Story caption removed (it sat on plain bedsheet, so the
   fill is clean). Compare: `covers/alternates/aman-courtyard-vs-cap.jpg`.
 - #8 Amanyangyun FINAL (user, 2026-11-28): courtyard cover.
+- #9 Le Cinq: `covers/09-le-cinq-cover.jpg` from the user's dining room photo
+  (2026-11-28; SHADE=top CENTER_X=0.45). Option: the Parmesan waffle
+  (`covers/alternates/09-le-cinq-cover-waffle.jpg`; compare
+  `alternates/le-cinq-room-vs-waffle.jpg`). Not used: the layered dish (a
+  dining companion visible at the top) and the amuse-bouche tray (busy, bright).
