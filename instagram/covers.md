@@ -134,3 +134,4 @@ Influencer Marketing Hub; Meta's own docs not checked):
 - #11 option: `alternates/11-mizue-cover-video-full.jpg`, the whole 1.5s video frame (HLG tone-mapped), scaled to 73% on a blurred, darkened copy of itself so the full shot fits with room for the text.
 - #11 four ways with the 1.5s still (`alternates/mizue-video-four-ways.jpg`): 1 full frame, text top; 2 full frame, text bottom; 3 shifted down with wall added; 4 shrunk on blurred fill.
 - #11 option: `alternates/11-mizue-cover-video15-tilted.jpg`, #1 'tilted up': the 1.5s still moved down ~15%, with a mirrored copy of the wall extending above (no side blur).
+- #11 Mizue: user keeps all options (2026-11-28); decide before posting. Covers for every locked script (#1-#11) are done.
