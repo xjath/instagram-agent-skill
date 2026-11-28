@@ -60,3 +60,7 @@ Influencer Marketing Hub; Meta's own docs not checked):
 - #3 Atomix, alternative: `covers/03-atomix-cover-video.jpg`, a still from the
   awards-wall video at 4.3s (`covers/src-atomix-video-4.3s.jpg`), zoomed ~1.27x
   on the MICHELIN 2025 plaque; SHADE=band behind the text.
+- #3 Atomix, caviar option: `covers/03-atomix-cover-caviar.jpg` (user's photo of
+  the caviar dish in the celadon bowl, 2026-11-28; SHADE=top). Claude's pick of
+  the five dish photos: dark marble with room for text, the dish fully clear of
+  it, caviar reads as luxury at thumbnail size. Final choice: user's call.
