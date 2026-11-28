@@ -117,3 +117,4 @@ Influencer Marketing Hub; Meta's own docs not checked):
   extra blended cloud above so the text clears the Pearl Tower and Shanghai
   Tower; source in alternates/). Not used: the chocolate-class menu (bright
   marble) and the daytime room (hazy window).
+- #10 option: `alternates/10-bulgari-shanghai-cover-room.jpg` (daytime room, SHADE=top); compare `alternates/bsh-night-vs-room.jpg`.
