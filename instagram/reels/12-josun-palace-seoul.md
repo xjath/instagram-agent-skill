@@ -21,3 +21,5 @@ Status: GATHERING DETAILS (started 2026-11-27). No script yet.
 - View (user, 2026-11-28): "a view of the most expensive part of Gangnam."
   NOT VERIFIED that it's the most expensive part; the hotel is at 231
   Teheran-ro, Gangnam-gu (Michelin). Safer wording: "overlooking Gangnam".
+- Bar (user, 2026-11-28): felt very high-end and luxurious. (Label; footage of
+  the bar exists.)
