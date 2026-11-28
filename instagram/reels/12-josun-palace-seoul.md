@@ -18,3 +18,6 @@ Status: GATHERING DETAILS (started 2026-11-27). No script yet.
 ## Detail answers (user, 2026-11-28)
 - Room: very spacious, with an amazing city view. (Still a label; one concrete
   detail would help: what the view shows, a design detail.)
+- View (user, 2026-11-28): "a view of the most expensive part of Gangnam."
+  NOT VERIFIED that it's the most expensive part; the hotel is at 231
+  Teheran-ro, Gangnam-gu (Michelin). Safer wording: "overlooking Gangnam".
