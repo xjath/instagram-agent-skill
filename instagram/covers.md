@@ -126,3 +126,7 @@ Influencer Marketing Hub; Meta's own docs not checked):
   SHADE=top. Tested and not used: the chef-slicing video (HLG, tone-mapped; the
   tuna sits where the text goes) and the empty counter (bright, no food).
 - #11 chef version: lighter top shade (SHADE_MAX=140) so the chef shows more. The blur is the iPhone's own portrait-mode background blur, not added.
+- #11 video option: `alternates/11-mizue-cover-video.jpg`, still at 2.5s of the
+  chef-slicing clip (HLG, tone-mapped, contrast/colour +10%), shifted down with
+  blurred wall added on top so the text clears his head. The tuna shows in the
+  full cover but is cut off in the 3:4 grid crop.
