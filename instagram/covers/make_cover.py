@@ -37,6 +37,13 @@ def main():
             g.putpixel((0, y), v)
         g = g.resize((W, H))
         im = Image.composite(Image.new("RGB", (W, H), (0, 0, 0)), im, g)
+    elif shade == "band":
+        g = Image.new("L", (1, H))
+        for y in range(H):
+            dist = abs(y - (cy - 90))
+            g.putpixel((0, y), 190 if dist < 280 else max(0, int(190 - (dist - 280) * 1.2)))
+        g = g.resize((W, H))
+        im = Image.composite(Image.new("RGB", (W, H), (0, 0, 0)), im, g)
     d = ImageDraw.Draw(im)
     f1 = fit(d, l1, 920, 150)
     f2 = fit(d, l2, 920, 150)
