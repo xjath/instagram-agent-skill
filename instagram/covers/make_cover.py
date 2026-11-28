@@ -33,7 +33,8 @@ def main():
     if shade == "top":
         g = Image.new("L", (1, H))
         for y in range(H):
-            v = 200 if y < cy + 150 else max(0, int(200 - (y - cy - 150) * 0.8))
+            top_max = int(os.environ.get("SHADE_MAX", "200"))
+            v = top_max if y < cy + 150 else max(0, int(top_max - (y - cy - 150) * 0.8))
             g.putpixel((0, y), v)
         g = g.resize((W, H))
         im = Image.composite(Image.new("RGB", (W, H), (0, 0, 0)), im, g)

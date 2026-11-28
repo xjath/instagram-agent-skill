@@ -104,5 +104,6 @@ Influencer Marketing Hub; Meta's own docs not checked):
 - #9 Le Cinq: `covers/09-le-cinq-cover.jpg` from the user's dining room photo
   (2026-11-28; SHADE=top CENTER_X=0.45). Option: the Parmesan waffle
   (`covers/alternates/09-le-cinq-cover-waffle.jpg`; compare
-  `alternates/le-cinq-room-vs-waffle.jpg`). Not used: the layered dish (a
-  dining companion visible at the top) and the amuse-bouche tray (busy, bright).
+  `alternates/le-cinq-room-vs-waffle.jpg`). Grapefruit option (user named the layered dish:
+  grapefruit three ways): `alternates/09-le-cinq-cover-grapefruit.jpg`, top darkened
+  near-black (SHADE=top SHADE_MAX=245) so the person at the top is hidden. Not used: and the amuse-bouche tray (busy, bright).
