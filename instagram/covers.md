@@ -111,3 +111,4 @@ Influencer Marketing Hub; Meta's own docs not checked):
   no person in frame; SHADE=top SHADE_MAX=235 CENTER_X=0.4). Three-shot test:
   `alternates/le-cinq-grapefruit-3-shots.jpg`.
 - #9 grapefruit: shade back to the normal level (no SHADE_MAX), user 2026-11-28.
+- #9 Le Cinq: user keeps all three (room, grapefruit, waffle), 2026-11-28; decide before posting.
