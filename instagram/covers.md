@@ -110,3 +110,4 @@ Influencer Marketing Hub; Meta's own docs not checked):
 - #9 grapefruit option redone 2026-11-28 from the user's angled shot (IMG_6726:
   no person in frame; SHADE=top SHADE_MAX=235 CENTER_X=0.4). Three-shot test:
   `alternates/le-cinq-grapefruit-3-shots.jpg`.
+- #9 grapefruit: shade back to the normal level (no SHADE_MAX), user 2026-11-28.
