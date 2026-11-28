@@ -130,3 +130,4 @@ Influencer Marketing Hub; Meta's own docs not checked):
   chef-slicing clip (HLG, tone-mapped, contrast/colour +10%), shifted down with
   blurred wall added on top so the text clears his head. The tuna shows in the
   full cover but is cut off in the 3:4 grid crop.
+- #11 option: `alternates/11-mizue-cover-nigiri-chef-full.jpg`, the whole nigiri-with-chef photo (IMG_2802) uncropped; blurred wall extended above to fill 9:16.
