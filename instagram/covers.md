@@ -71,3 +71,4 @@ Influencer Marketing Hub; Meta's own docs not checked):
   (2026-11-28; SHADE=top). Tested against the shrimp "creek" plate (the dish in
   the script), which had too little dark space and a small subject:
   `covers/alternates/banbo-test-shrimp-vs-crab.jpg`. Origami menu not used (busy).
+- #4 Banbo FINAL (user, 2026-11-28): crab cover.
