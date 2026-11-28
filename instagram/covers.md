@@ -107,3 +107,6 @@ Influencer Marketing Hub; Meta's own docs not checked):
   `alternates/le-cinq-room-vs-waffle.jpg`). Grapefruit option (user named the layered dish:
   grapefruit three ways): `alternates/09-le-cinq-cover-grapefruit.jpg`, top darkened
   near-black (SHADE=top SHADE_MAX=245) so the person at the top is hidden. Not used: and the amuse-bouche tray (busy, bright).
+- #9 grapefruit option redone 2026-11-28 from the user's angled shot (IMG_6726:
+  no person in frame; SHADE=top SHADE_MAX=235 CENTER_X=0.4). Three-shot test:
+  `alternates/le-cinq-grapefruit-3-shots.jpg`.
