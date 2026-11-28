@@ -125,3 +125,4 @@ Influencer Marketing Hub; Meta's own docs not checked):
   Nigiri centred by measuring the tuna's position (CENTER_X 0.328 / 0.229);
   SHADE=top. Tested and not used: the chef-slicing video (HLG, tone-mapped; the
   tuna sits where the text goes) and the empty counter (bright, no food).
+- #11 chef version: lighter top shade (SHADE_MAX=140) so the chef shows more. The blur is the iPhone's own portrait-mode background blur, not added.
