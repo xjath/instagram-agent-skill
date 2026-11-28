@@ -92,3 +92,8 @@ Influencer Marketing Hub; Meta's own docs not checked):
 - #6 option: `covers/alternates/06-sushi-masaki-saito-cover-handroll.jpg`, the
   user's photo holding a toro hand roll at the counter (2026-11-28; SHADE=top).
 - #6: user undecided between the chef still and the hand roll (2026-11-28); keep both, decide before posting.
+- #8 Amanyangyun: `covers/08-amanyangyun-cover.jpg` from the user's courtyard
+  photo (urn on the reflecting pool, colonnade; 2026-11-28; SHADE=top). Tested vs.
+  the heritage house entrance (flat grey sky went to a flat dark band):
+  `covers/alternates/aman-courtyard-vs-house.jpg`. Not used: the Aman cap photo
+  (Instagram Story text burned in) and the breakfast cereal station (busy, guests).
