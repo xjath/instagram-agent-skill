@@ -67,3 +67,7 @@ Influencer Marketing Hub; Meta's own docs not checked):
 - #3 Atomix FINAL (user, 2026-11-28): the caviar cover, now
   `covers/03-atomix-cover.jpg`. The glazed-dish and video-still versions moved to
   `covers/alternates/`.
+- #4 Banbo: `covers/04-banbo-cover.jpg` from the user's crab rice clay-pot photo
+  (2026-11-28; SHADE=top). Tested against the shrimp "creek" plate (the dish in
+  the script), which had too little dark space and a small subject:
+  `covers/alternates/banbo-test-shrimp-vs-crab.jpg`. Origami menu not used (busy).
