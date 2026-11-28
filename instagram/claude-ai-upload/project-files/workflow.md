@@ -1,0 +1,104 @@
+# Workflow for every reel
+
+Saved 2026-11-22. Built from what came up on Providence, Atomix, Banbo and
+Bulgari Tokyo. "Claude" steps happen in a session on this repo; "You" steps
+happen on your phone or computer.
+
+## 1. Prep (Claude, ~5 min)
+- [ ] Pull the place's notes from `backlog.md`.
+- [ ] Verify stars / Keys and any award the script will mention, with sources.
+- [ ] Check the three talking points are covered (restaurants: Food, Service,
+      Experience; hotels: Room, Service, Amenities). Ask you for any gap.
+- [ ] Pick the hook technique (list in `voice.md`; suggestions in `backlog.md`).
+
+## 2. Script (you write it, or Claude drafts it)
+- [ ] You answer the detail questions in `detail-questions.md` (the hard
+      part made easy); Claude turns them into lines on the skeleton.
+- [ ] Hook: score it (`hookscore.py`), aim for STRONG and 8-10 words.
+- [ ] Time it (`beats.py --wpm 229`), aim for 30-45s. The user's measured
+      pace is ~229 words a minute (Atomix edit 2: 163 words in 42.7s), not the
+      tool's default 165.
+- [ ] Flow check: every section has a lead-in (bank in `script-template.md`).
+- [ ] Humanizer (`/ig-human`), aim for PASS.
+- [ ] Facts in the script match the notes and the verified sources.
+- [ ] All three criteria have a spoken line before locking (restaurants: Food,
+      Service, Experience; hotels: Room, Service, Amenities). Added 2026-11-27
+      after Mizue was locked without an Experience line.
+- [ ] Open sign-off is fine ("...the next one just might be").
+- [ ] For a "no": follow "Giving a 'no' without burning bridges" in voice.md.
+- [ ] Any free meal, discount or payment: disclosure planned for the caption.
+- [ ] Saved to `reels/NN-place.md` and committed.
+
+### What makes a script better (learned 2026-11-22)
+- Lead with the payoff number and a promise ("$2,400 for dinner for two.
+  Here's what you actually get.") rather than the same "I paid $X... worth
+  it?" every time. Rotate the hook techniques.
+- Contractions and "I / you / we" (the humanizer's biggest factor).
+- Each talking point gets a reaction, not a label ("and you can feel it",
+  "not one miss").
+- End on a line that repeats a word from the hook, so the reel loops.
+- Cut lines that repeat the verdict ("the entire experience was amazing").
+- Keep each line under ~4s, or plan a shot change inside it.
+
+## 3. Shot list (Claude)
+- [ ] One shot per line from the footage you have; a new shot every 1-2s.
+- [ ] Whatever is ON SCREEN matches what is SAID (Atomix lesson: don't say
+      "World's 50 Best" over the North America's 50 Best trophy).
+- [ ] Lines the user said themselves have footage; don't ask. Only check lines
+      Claude wrote from older notes.
+
+## 4. Record the voiceover (you)
+
+## 5. Edit in CapCut (you)
+- [ ] Canvas 1080x1920 (9:16).
+- [ ] Hook text on screen from frame 1, with movement in the first shot.
+- [ ] Captions word by word, key word in red, sitting at about 65-70% of the
+      frame height. Keep text between y=230 and y=1440 of 1920 and clear of
+      the right 230px (Instagram's buttons and caption cover the rest).
+- [ ] On-screen cards: 6 words or fewer.
+- [ ] Photos: slow keyframe zoom, no more than ~130%.
+- [ ] Verdict card in red at the end ("Worth it? NO" style).
+- [ ] Delete the CapCut end card.
+- [ ] Export for posting: 1080x1920, H.264, 30fps, ~5,000-8,000 kbps
+      (third-party guides; not confirmed by Instagram).
+- [ ] Export a review copy: 720p, lowest bitrate, under 30 MB.
+
+## 6. Review (Claude)
+- [ ] You upload the 720p review copy.
+- [ ] Claude pulls frames and the captions, then checks: on-screen facts,
+      shot/words match, caption position, end card, length.
+- [ ] The as-made script is saved to the reel's file.
+- Claude can't hear audio; captions are the transcript.
+
+## 7. Caption and cover (Claude, then you)
+- [ ] `/ig-caption`: first line survives the "...more" cut, one ask, hashtags
+      below the fold, then humanizer.
+- [ ] Cover: `[PRICE] [THING]. WORTH IT?`, text in the centre for the 3:4 grid crop.
+
+## 8. Before posting (you)
+- [ ] Re-check stars / Keys on guide.michelin.com that week.
+- [ ] Tag the restaurant or hotel; set the location.
+- [ ] Turn on Instagram's highest-quality upload setting.
+- [ ] Post or schedule (Meta Business Suite): 2 reels a week, Tue and Thu,
+      midday to early evening Toronto time (user, 2026-11-24).
+
+### Posting pace and timing (researched 2026-11-24)
+- Frequency: Buffer (2.1M posts, 102K accounts) found median follower growth
+  ~0.12% at 1-2 posts/week vs ~0.26% at 3-5 and ~0.44% at 6-9; correlational,
+  all post types, diminishing returns. Dash Social (~1.2M posts) puts the
+  average at 2-3/week. Mosseri: more posting = more reach, but not at the
+  cost of quality. Chosen by the user: 2 reels/week (the data suggests 3-5
+  grows faster; revisit once there's a content buffer). Carousels and stories
+  can add activity between reels (not tested by the studies).
+- Timing: Sprout Social 2026 (~2B engagements) best windows Mon 2-4pm, Tue
+  1-7pm, Wed 12-9pm, Thu 12-2pm; Buffer 2026 (9.6M posts) Thu 9am, Wed 12pm,
+  Wed 6pm. Both: midweek best, weekends weaker. Time zone of these windows
+  not confirmed.
+- After 100 followers: Insights > Total followers > Most active times
+  (estimated by Instagram); move posting times to match. Test 4-6 weeks.
+
+## 9. After posting
+- [ ] Tell Claude it's posted: log it in `log.md` (date, hook technique, first line).
+- [ ] Reply to comments (`/ig-reply`).
+- [ ] After 4-5 reels: paste Insights (watch time, sends per reach) into
+      `/ig-audit` and adjust the order and hooks.
