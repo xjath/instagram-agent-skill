@@ -118,3 +118,4 @@ Influencer Marketing Hub; Meta's own docs not checked):
   Tower; source in alternates/). Not used: the chocolate-class menu (bright
   marble) and the daytime room (hazy window).
 - #10 option: `alternates/10-bulgari-shanghai-cover-room.jpg` (daytime room, SHADE=top); compare `alternates/bsh-night-vs-room.jpg`.
+- #10 option with the user in frame: `alternates/10-bulgari-shanghai-cover-me.jpg` (IMG_4046, at the window desk; no shade needed); compare `alternates/bsh-night-vs-me.jpg`.
