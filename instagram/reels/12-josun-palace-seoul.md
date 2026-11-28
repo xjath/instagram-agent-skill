@@ -72,13 +72,14 @@ I give you the real experience behind every Michelin star and Key I visit, so fo
 
 ## Script version 3 (DRAFT, 2026-11-28)
 User: "Three nights in a spacious room looking over Gangnam." The next line was
-cut down so "spacious" and "Gangnam" aren't said twice in a row.
+cut down so "spacious" and "Gangnam" aren't said twice in a row. Then (user):
+"According to the staff, it's the most expensive part of the area."
 
 ```
 I spent $2,400 at a one Michelin Key hotel in Seoul.
 Come check it out with me.
 This is Josun Palace. Three nights in a spacious room looking over Gangnam.
-And according to the staff, that's the most expensive part of Gangnam.
+According to the staff, it's the most expensive part of the area.
 And the service started the second we arrived. A welcome drink at check-in, then they walked us to our room and showed us around.
 The rest of the hotel lives up to it.
 The pool is beautiful, with these grand floor-to-ceiling windows.
