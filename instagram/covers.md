@@ -119,3 +119,4 @@ Influencer Marketing Hub; Meta's own docs not checked):
   marble) and the daytime room (hazy window).
 - #10 option: `alternates/10-bulgari-shanghai-cover-room.jpg` (daytime room, SHADE=top); compare `alternates/bsh-night-vs-room.jpg`.
 - #10 option with the user in frame: `alternates/10-bulgari-shanghai-cover-me.jpg` (IMG_4046, at the window desk; no shade needed); compare `alternates/bsh-night-vs-me.jpg`.
+- #10: user keeps the night view and the user-in-frame version (room version also saved), 2026-11-28; decide before posting.
