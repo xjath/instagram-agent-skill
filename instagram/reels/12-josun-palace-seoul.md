@@ -118,12 +118,12 @@ I give you the real experience behind every Michelin star and Key I visit, so fo
 
 ## Script version 5 (DRAFT, 2026-11-28)
 Line-by-line flow fixes (tense: "started... we arrived"; "matches the room";
-"Then the bar, which feels...") plus the luggage moment.
+"Then the bar, which feels...") plus the luggage moment. Then (user): "...started when we arrived at the hotel."
 
 ```
 I spent $2,400 at a one Michelin Key hotel in Seoul.
 Come check it out with me.
-This is Josun Palace, and the service started the second we arrived.
+This is Josun Palace, and the service started when we arrived at the hotel.
 They took our luggage as soon as we stepped out of the car.
 Then a welcome drink at check-in, and they walked us to our room and showed us around.
 And what a room. Three nights in a spacious room looking over Gangnam.
