@@ -89,3 +89,5 @@ Influencer Marketing Hub; Meta's own docs not checked):
   ffmpeg -ss T -i IN -frames:v 1 -vf "zscale=t=linear:npl=203,format=gbrpf32le,
   zscale=p=bt709,tonemap=hable:desat=0,zscale=t=bt709:m=bt709:r=tv,format=yuv420p" OUT.jpg
   (The Atomix awards-wall still in alternates/ is also HLG and was not redone.)
+- #6 option: `covers/alternates/06-sushi-masaki-saito-cover-handroll.jpg`, the
+  user's photo holding a toro hand roll at the counter (2026-11-28; SHADE=top).
