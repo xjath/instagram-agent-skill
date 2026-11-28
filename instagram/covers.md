@@ -53,3 +53,7 @@ Influencer Marketing Hub; Meta's own docs not checked):
   magnum. Remade 2026-11-28 from a second photo with no cable or tape measure
   (CENTER_X=0.62 SHADE=top). SHADE=top darkens behind the text; CENTER_X moves
   the 9:16 crop sideways.
+- #3 Atomix: `covers/03-atomix-cover.jpg` from the user's plated dish photo
+  (2026-11-28; SHADE=top). Also tested: the 50 Best trophy and the chef's menu
+  card (text and logos clashed; mockup in `covers/atomix-test-trophy-vs-card.jpg`),
+  the entrance sign and a landscape awards-wall video (not used).
