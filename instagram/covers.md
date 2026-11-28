@@ -57,3 +57,6 @@ Influencer Marketing Hub; Meta's own docs not checked):
   (2026-11-28; SHADE=top). Also tested: the 50 Best trophy and the chef's menu
   card (text and logos clashed; mockup in `covers/atomix-test-trophy-vs-card.jpg`),
   the entrance sign and a landscape awards-wall video (not used).
+- #3 Atomix, alternative: `covers/03-atomix-cover-video.jpg`, a still from the
+  awards-wall video at 4.3s (`covers/src-atomix-video-4.3s.jpg`), zoomed ~1.27x
+  on the MICHELIN 2025 plaque; SHADE=band behind the text.
