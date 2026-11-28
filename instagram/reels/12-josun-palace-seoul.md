@@ -24,3 +24,5 @@ Status: GATHERING DETAILS (started 2026-11-27). No script yet.
 - Bar (user, 2026-11-28): felt very high-end and luxurious. (Label; footage of
   the bar exists.)
 - Bar design (user, 2026-11-28): very modern.
+- Pool (user, 2026-11-28): very beautiful. (Footage list didn't mention the pool;
+  user's rule: if it's in the script, there's footage.)
