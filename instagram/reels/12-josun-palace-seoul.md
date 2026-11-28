@@ -1,6 +1,6 @@
 # Reel #12: Josun Palace, Seoul
 
-Status: script version 1 DRAFT 2026-11-28.
+Status: script version 2 DRAFT 2026-11-28.
 
 ## Facts used
 - Josun Palace, a Luxury Collection Hotel, Seoul (231 Teheran-ro, Gangnam-gu;
@@ -41,6 +41,25 @@ I spent $2,400 at a one Michelin Key hotel in Seoul.
 Come check it out with me.
 This is Josun Palace. Three nights in a city view room.
 The room is so spacious, and the view looks right over Gangnam.
+And the service started the second we arrived. A welcome drink at check-in, then they walked us to our room and showed us around.
+The rest of the hotel lives up to it.
+The pool is beautiful, with these grand floor-to-ceiling windows.
+The bar feels high-end and really modern.
+And the buffet? Very, very good.
+So, worth it?
+For around $800 a night? Definitely.
+I give you the real experience behind every Michelin star and Key I visit, so follow for the next one.
+```
+- Source of "most expensive part of Gangnam" (user, 2026-11-28): the hotel staff
+  told them. Script attributes it ("according to the staff") so it's accurate.
+
+## Script version 2 (DRAFT, 2026-11-28)
+
+```
+I spent $2,400 at a one Michelin Key hotel in Seoul.
+Come check it out with me.
+This is Josun Palace. Three nights in a city view room.
+The room is so spacious, and according to the staff, the view looks over the most expensive part of Gangnam.
 And the service started the second we arrived. A welcome drink at check-in, then they walked us to our room and showed us around.
 The rest of the hotel lives up to it.
 The pool is beautiful, with these grand floor-to-ceiling windows.
