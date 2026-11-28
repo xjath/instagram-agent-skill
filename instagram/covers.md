@@ -100,3 +100,4 @@ Influencer Marketing Hub; Meta's own docs not checked):
 - #8 option: `covers/alternates/08-amanyangyun-cover-cap.jpg`, the Aman cap photo
   with the burned-in Story caption removed (it sat on plain bedsheet, so the
   fill is clean). Compare: `covers/alternates/aman-courtyard-vs-cap.jpg`.
+- #8 Amanyangyun FINAL (user, 2026-11-28): courtyard cover.
