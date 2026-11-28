@@ -112,3 +112,8 @@ Influencer Marketing Hub; Meta's own docs not checked):
   `alternates/le-cinq-grapefruit-3-shots.jpg`.
 - #9 grapefruit: shade back to the normal level (no SHADE_MAX), user 2026-11-28.
 - #9 Le Cinq: user keeps all three (room, grapefruit, waffle), 2026-11-28; decide before posting.
+- #10 Bulgari Shanghai: `covers/10-bulgari-shanghai-cover.jpg` from the user's
+  night skyline screenshot (black side bars cropped; skyline shifted down with
+  extra blended cloud above so the text clears the Pearl Tower and Shanghai
+  Tower; source in alternates/). Not used: the chocolate-class menu (bright
+  marble) and the daytime room (hazy window).
