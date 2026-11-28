@@ -97,3 +97,6 @@ Influencer Marketing Hub; Meta's own docs not checked):
   the heritage house entrance (flat grey sky went to a flat dark band):
   `covers/alternates/aman-courtyard-vs-house.jpg`. Not used: the Aman cap photo
   (Instagram Story text burned in) and the breakfast cereal station (busy, guests).
+- #8 option: `covers/alternates/08-amanyangyun-cover-cap.jpg`, the Aman cap photo
+  with the burned-in Story caption removed (it sat on plain bedsheet, so the
+  fill is clean). Compare: `covers/alternates/aman-courtyard-vs-cap.jpg`.
