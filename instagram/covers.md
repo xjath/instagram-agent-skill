@@ -132,3 +132,4 @@ Influencer Marketing Hub; Meta's own docs not checked):
   full cover but is cut off in the 3:4 grid crop.
 - #11 option: `alternates/11-mizue-cover-nigiri-chef-full.jpg`, the whole nigiri-with-chef photo (IMG_2802) uncropped; blurred wall extended above to fill 9:16.
 - #11 option: `alternates/11-mizue-cover-video-full.jpg`, the whole 1.5s video frame (HLG tone-mapped), scaled to 73% on a blurred, darkened copy of itself so the full shot fits with room for the text.
+- #11 four ways with the 1.5s still (`alternates/mizue-video-four-ways.jpg`): 1 full frame, text top; 2 full frame, text bottom; 3 shifted down with wall added; 4 shrunk on blurred fill.
