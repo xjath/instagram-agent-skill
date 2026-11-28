@@ -50,4 +50,6 @@ Influencer Marketing Hub; Meta's own docs not checked):
   `keys-3-filled`.
 - #1 Providence: `covers/01-providence-cover.jpg` from the user's photo of the
   engraved "Congratulations / three stars / Providence" Dom Perignon 2012
-  magnum (2026-11-27). SHADE=top darkens behind the text (busy background).
+  magnum. Remade 2026-11-28 from a second photo with no cable or tape measure
+  (CENTER_X=0.62 SHADE=top). SHADE=top darkens behind the text; CENTER_X moves
+  the 9:16 crop sideways.

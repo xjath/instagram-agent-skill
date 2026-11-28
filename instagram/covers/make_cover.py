@@ -27,7 +27,8 @@ def main():
     cy = int(sys.argv[5]) if len(sys.argv) > 5 else 760
     kicker = sys.argv[6] if len(sys.argv) > 6 else None
     im = ImageOps.exif_transpose(Image.open(src)).convert("RGB")
-    im = ImageOps.fit(im, (W, H), Image.LANCZOS)
+    cx = float(os.environ.get("CENTER_X", "0.5"))  # 0..1, where to centre the crop
+    im = ImageOps.fit(im, (W, H), Image.LANCZOS, centering=(cx, 0.5))
     shade = os.environ.get("SHADE")  # e.g. SHADE=top: darken behind the text
     if shade == "top":
         g = Image.new("L", (1, H))
