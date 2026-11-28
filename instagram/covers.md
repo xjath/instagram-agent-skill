@@ -72,3 +72,7 @@ Influencer Marketing Hub; Meta's own docs not checked):
   the script), which had too little dark space and a small subject:
   `covers/alternates/banbo-test-shrimp-vs-crab.jpg`. Origami menu not used (busy).
 - #4 Banbo FINAL (user, 2026-11-28): crab cover.
+- #5 Baccarat options (2026-11-28), in `covers/alternates/`: `05-baccarat-cover-
+  chandelier.jpg` (lobby chandelier and roses; text at the bottom, SHADE=bottom)
+  and `05-baccarat-cover-medallion.jpg` (still at 1.0s of the floor-medallion
+  video, shifted down with extra dark marble on top). Awaiting the user's pick.

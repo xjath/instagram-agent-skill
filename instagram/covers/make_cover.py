@@ -37,6 +37,13 @@ def main():
             g.putpixel((0, y), v)
         g = g.resize((W, H))
         im = Image.composite(Image.new("RGB", (W, H), (0, 0, 0)), im, g)
+    elif shade == "bottom":
+        g = Image.new("L", (1, H))
+        start = cy - 420
+        for y in range(H):
+            g.putpixel((0, y), 0 if y < start else min(205, int((y - start) * 1.2)))
+        g = g.resize((W, H))
+        im = Image.composite(Image.new("RGB", (W, H), (0, 0, 0)), im, g)
     elif shade == "band":
         g = Image.new("L", (1, H))
         for y in range(H):
